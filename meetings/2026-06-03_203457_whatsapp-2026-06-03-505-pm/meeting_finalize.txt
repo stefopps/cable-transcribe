@@ -1,0 +1,36 @@
+MEETING OVERVIEW
+This session focused on preparing staff to handle patient care and discharge processes, with a emphasis on thorough assessments of patients' needs.
+
+HIPAA/PHI
+GROUP: HIPAA Compliance
+HIGHLIGHT: Ensure all personal health information (PHI) is handled securely and in accordance with regulations.
+- Review PHI handling procedures and ensure staff understand confidentiality and data security protocols
+
+BENEFITS
+GROUP: Benefits for Patients and Staff
+HIGHLIGHT: Utilize benefits to support patients' needs, including assistance programs and housing services.
+- Identify eligible patients for assistance programs and provide resources for access
+- Develop plan to communicate benefits information to patients
+
+IT SYSTEMS
+GROUP: IT Systems Updates
+HIGHLIGHT: Ensure all necessary systems are updated before discharge to ensure patient safety and data integrity.
+- Update Symplr/NetLearning system to reflect recent changes
+- Verify login credentials for Day 3 meeting
+
+ONBOARDING LOGISTICS
+GROUP: Onboarding Logistics
+HIGHLIGHT: Coordinate onboarding process with social workers to support patient needs post-discharge.
+- Schedule social worker meetings for patients before discharge
+- Develop plan for follow-up care and resources after discharge
+
+ACTION ITEMS & NEXT STEPS
+* Send reminders to staff about patient care and discharge processes
+* Follow up with HR department regarding benefits communication
+* Verify IT system updates are complete by Day 3 meeting
+* Coordinate with social workers for pre-discharge meetings
+
+UNANSWERED QUESTIONS
+None noted.
+
+MOST_IMPORTANT: Ensure thorough assessments of patients' needs to provide effective support during and after discharge.

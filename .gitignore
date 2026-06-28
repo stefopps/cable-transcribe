@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.flac
+*.ogg
+dictate_errors.log
+voice_training/

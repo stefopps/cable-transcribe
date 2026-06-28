@@ -1,0 +1,42 @@
+# Mountainside volunteer orientation test — Meeting Roundup
+
+**Meeting Overview**
+
+This session was a comprehensive orientation and training program for new volunteers at our hospital, covering essential information on HIPAA, cultural sensitivity, benefits, IT systems, and onboarding logistics.
+
+**TOPIC GROUPS**
+
+### **HIPAA/PHI**
+Highlight: Understanding the importance of maintaining patient confidentiality and respecting PHI.
+- Reviewing the hospital's policies and procedures for handling PHI
+- Importance of secure communication channels
+
+### **Cultural Sensitivity**
+Highlight: Emphasizing the need to be empathetic and understanding in interactions with patients from diverse backgrounds.
+- Recognizing cultural differences and their impact on patient care
+- Asking patients about cultural considerations and preferences
+
+### **Benefits**
+Highlight: Introducing new volunteers to the benefits of working at our hospital, including competitive pay and comprehensive training.
+- Overview of employee benefits package
+- Training opportunities for professional growth
+
+### **IT Systems & Onboarding Logistics**
+Highlight: Ensuring new volunteers have access to necessary systems and are prepared for their first day on the job.
+- Overview of IT systems used by the hospital
+- Next steps for completing login and accessing resources
+
+**ACTION ITEMS & NEXT STEPS**
+
+* Send out email with two papers to sign and return, along with instructions for obtaining an ID badge
+* Respond promptly to questions via email
+* Complete final exam and schedule training sessions
+* Review and understand HIPAA policies and procedures before first day on the job
+* Familiarize yourself with hospital IT systems and complete login requirements
+
+**UNANSWERED QUESTIONS**
+
+None noted.
+
+**MOST_IMPORTANT**
+New volunteers are expected to maintain patient confidentiality and respect PHI, as well as be empathetic and understanding in interactions with patients from diverse backgrounds.

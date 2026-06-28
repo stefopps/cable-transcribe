@@ -1,0 +1,53 @@
+{
+  "finalized": [
+    {
+      "time": "2026-06-03T20:39:17",
+      "most_important": "Ensure thorough assessments of patients' needs to provide effective support during and after discharge.",
+      "topic_groups": [
+        {
+          "name": "HIPAA Compliance",
+          "highlight": "Ensure all personal health information (PHI) is handled securely and in accordance with regulations.",
+          "details": [
+            "Review PHI handling procedures and ensure staff understand confidentiality and data security protocols",
+            "BENEFITS"
+          ]
+        },
+        {
+          "name": "Benefits for Patients and Staff",
+          "highlight": "Utilize benefits to support patients' needs, including assistance programs and housing services.",
+          "details": [
+            "Identify eligible patients for assistance programs and provide resources for access",
+            "Develop plan to communicate benefits information to patients",
+            "IT SYSTEMS"
+          ]
+        },
+        {
+          "name": "IT Systems Updates",
+          "highlight": "Ensure all necessary systems are updated before discharge to ensure patient safety and data integrity.",
+          "details": [
+            "Update Symplr/NetLearning system to reflect recent changes",
+            "Verify login credentials for Day 3 meeting",
+            "ONBOARDING LOGISTICS"
+          ]
+        },
+        {
+          "name": "Onboarding Logistics",
+          "highlight": "Coordinate onboarding process with social workers to support patient needs post-discharge.",
+          "details": [
+            "Schedule social worker meetings for patients before discharge",
+            "Develop plan for follow-up care and resources after discharge",
+            "ACTION ITEMS & NEXT STEPS",
+            "* Send reminders to staff about patient care and discharge processes",
+            "* Follow up with HR department regarding benefits communication",
+            "* Verify IT system updates are complete by Day 3 meeting",
+            "* Coordinate with social workers for pre-discharge meetings",
+            "UNANSWERED QUESTIONS",
+            "None noted.",
+            "MOST_IMPORTANT: Ensure thorough assessments of patients' needs to provide effective support during and after discharge."
+          ]
+        }
+      ],
+      "report": "MEETING OVERVIEW\nThis session focused on preparing staff to handle patient care and discharge processes, with a emphasis on thorough assessments of patients' needs.\n\nHIPAA/PHI\nGROUP: HIPAA Compliance\nHIGHLIGHT: Ensure all personal health information (PHI) is handled securely and in accordance with regulations.\n- Review PHI handling procedures and ensure staff understand confidentiality and data security protocols\n\nBENEFITS\nGROUP: Benefits for Patients and Staff\nHIGHLIGHT: Utilize benefits to support patients' needs, including assistance programs and housing services.\n- Identify eligible patients for assistance programs and provide resources for access\n- Develop plan to communicate benefits information to patients\n\nIT SYSTEMS\nGROUP: IT Systems Updates\nHIGHLIGHT: Ensure all necessary systems are updated before discharge to ensure patient safety and data integrity.\n- Update Symplr/NetLearning system to reflect recent changes\n- Verify login credentials for Day 3 meeting\n\nONBOARDING LOGISTICS\nGROUP: Onboarding Logistics\nHIGHLIGHT: Coordinate onboarding process with social workers to support patient needs post-discharge.\n- Schedule social worker meetings for patients before discharge\n- Develop plan for follow-up care and resources after discharge\n\nACTION ITEMS & NEXT STEPS\n* Send reminders to staff about patient care and discharge processes\n* Follow up with HR department regarding benefits communication\n* Verify IT system updates are complete by Day 3 meeting\n* Coordinate with social workers for pre-discharge meetings\n\nUNANSWERED QUESTIONS\nNone noted.\n\nMOST_IMPORTANT: Ensure thorough assessments of patients' needs to provide effective support during and after discharge."
+    }
+  ]
+}

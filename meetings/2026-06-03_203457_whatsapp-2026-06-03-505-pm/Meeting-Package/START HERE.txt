@@ -1,0 +1,17 @@
+2026-06-03 203457 WHATSAPP-2026-06-03-505-PM
+============================================
+
+Everything is in this folder. Copy the whole folder to another PC
+(or unzip the ZIP Steve sent). No install needed to read the Word files.
+
+FILES
+-----
+  Meeting Summary.docx
+      Meeting summary — start here.
+
+  Full Transcript.docx
+      Full timestamped transcript (Ctrl+F to search).
+
+SHORTCUTS
+---------
+  Double-click the .bat files to open docs or play the recording.

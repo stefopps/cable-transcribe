@@ -1,0 +1,60 @@
+ANTEPARTUM ASSESSMENT — YOUR CLASS PACKAGE
+==========================================
+
+Everything is in this one folder. Copy the whole folder to your PC
+(or unzip the ZIP file Steve sent you). You do not need to install anything.
+
+
+WHAT IS IN THIS FOLDER
+----------------------
+
+  Class-Recording.mp4
+      The original class audio/video (~34 minutes).
+
+  Antepartum Assessment - Study Guide.docx
+      Short summary and study notes by body system. START WITH THIS.
+
+  Antepartum Assessment - Full Transcript.docx
+      Everything that was said, with timestamps. Use Find (Ctrl+F) to search.
+
+
+EASIEST WAY TO OPEN THINGS
+--------------------------
+
+  Double-click one of these:
+
+    1 - PLAY CLASS RECORDING.bat     → plays the recording
+    2 - OPEN STUDY GUIDE.bat         → opens the study guide in Word
+    3 - OPEN FULL TRANSCRIPT.bat     → opens the full transcript in Word
+
+  Or double-click the .mp4 or .docx files directly.
+
+
+IF WORD ASKS YOU TO ENABLE EDITING
+----------------------------------
+
+  Click "Enable Editing" or just read the document — either is fine.
+
+
+IF THE RECORDING WILL NOT PLAY
+------------------------------
+
+  Right-click Class-Recording.mp4 → Open with → choose Films & TV,
+  Windows Media Player, or VLC if you have it.
+
+
+ABOUT THE TRANSCRIPT
+--------------------
+
+  The written transcript was made by computer from the recording.
+  Some words may be wrong. Use your instructor and your course books
+  for anything clinical at the bedside.
+
+
+QUESTIONS?
+----------
+
+  Contact Steve.
+
+
+Prepared: June 3, 2026

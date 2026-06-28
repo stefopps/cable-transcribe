@@ -1,0 +1,2574 @@
+
+[399:40] [silence]
+
+[400:00] [silence]
+
+[400:20] [silence]
+
+[400:40] [silence]
+
+[401:00] [silence]
+
+[401:20] [silence]
+
+[401:40] [silence]
+
+[402:00] [silence]
+
+[402:20] [silence]
+
+[402:40] [silence]
+
+[403:00] [silence]
+
+[403:20] [silence]
+
+[403:40] [silence]
+
+[404:00] [silence]
+
+[404:20] [silence]
+
+[404:40] [silence]
+
+[405:00] [silence]
+
+[405:20] [silence]
+
+[405:40] [silence]
+
+[406:00] [silence]
+
+[406:20] [silence]
+
+[406:40] [silence]
+
+[407:00] [silence]
+
+[407:20] [silence]
+
+[407:40] [silence]
+
+[408:00] [silence]
+
+[408:20] [silence]
+
+[408:40] [silence]
+
+[409:00] [silence]
+
+[409:20] [silence]
+
+[409:40] [silence]
+
+[410:00] [silence]
+
+[410:20] [silence]
+
+[410:40] [silence]
+
+[411:00] [silence]
+
+[411:20] [silence]
+
+[411:40] [silence]
+
+[412:00] [silence]
+
+[412:20] [silence]
+
+[412:40] [silence]
+
+[413:00] [silence]
+
+[413:20] [silence]
+
+[413:40] [silence]
+
+[414:00] [silence]
+
+[414:20] [silence]
+
+[414:40] [silence]
+
+[415:00] [silence]
+
+[415:20] [silence]
+
+[415:40] [silence]
+
+[416:00] [silence]
+
+[416:20] [silence]
+
+[416:40] [silence]
+
+[417:00] [silence]
+
+[417:20] [silence]
+
+[417:40] [silence]
+
+[418:00] [silence]
+
+[418:20] [silence]
+
+[418:40] [silence]
+
+[419:00] [silence]
+
+[419:20] [silence]
+
+[419:40] [silence]
+
+[420:00] [silence]
+
+[420:20] [silence]
+
+[420:40] [silence]
+
+[421:00] [silence]
+
+[421:20] [silence]
+
+[421:40] [silence]
+
+[422:00] [silence]
+
+[422:20] [silence]
+
+[422:40] [silence]
+
+[423:00] [silence]
+
+[423:20] [silence]
+
+[423:40] [silence]
+
+[424:00] [silence]
+
+[424:20] [silence]
+
+[424:40] [silence]
+
+[425:00] [silence]
+
+[425:20] [silence]
+
+[425:40] [silence]
+
+[426:00] [silence]
+
+[426:20] [silence]
+
+[426:40] [silence]
+
+[427:00] [silence]
+
+[427:20] [silence]
+
+[427:40] [silence]
+
+[428:00] [silence]
+
+[428:20] [silence]
+
+[428:40] [silence]
+
+[429:00] [silence]
+
+[429:20] [silence]
+
+[429:40] [silence]
+
+[430:00] [silence]
+
+[430:20] [silence]
+
+[430:40] [silence]
+
+[431:00] [silence]
+
+[431:20] [silence]
+
+[431:40] [silence]
+
+[432:00] [silence]
+
+[432:20] [silence]
+
+[432:40] [silence]
+
+[433:00] [silence]
+
+[433:20] [silence]
+
+[433:40] [silence]
+
+[434:00] [silence]
+
+[434:20] [silence]
+
+[434:40] [silence]
+
+[435:00] [silence]
+
+[435:20] [silence]
+
+[435:40] [silence]
+
+[436:00] [silence]
+
+[436:20] [silence]
+
+[436:40] [silence]
+
+[437:00] [silence]
+
+[437:20] [silence]
+
+[437:40] [silence]
+
+[438:00] [silence]
+
+[438:20] [silence]
+
+[438:40] [silence]
+
+[439:00] [silence]
+
+[439:20] [silence]
+
+[439:40] [silence]
+
+[440:00] [silence]
+
+[440:20] [silence]
+
+[440:40] [silence]
+
+[441:00] [silence]
+
+[441:20] [silence]
+
+[441:40] [silence]
+
+[442:00] [silence]
+
+[442:20] [silence]
+
+[442:40] [silence]
+
+[443:00] [silence]
+
+[443:20] [silence]
+
+[443:40] [silence]
+
+[444:00] [silence]
+
+[444:20] which you guys can just free text. If you go through the system, you're going to find that there are multiple options for ICD-10 codes. So in virtual training with me, you can just feel free to free text that information in versus having this search.
+
+[444:40] for it. On site we rarely enter diagnoses for patients that's going to be the physician or the APP that does that, but I don't want to give you practice notes and not have a diagnosis for a patient. So to have a complete note I'm going to have you guys just free text.
+
+[445:00] that. And then you choose discharge here. Follow up arranged by me. This is Dr. Nelson speaking because he arranged the follow up with the burden clinic for this patient. So you just free text that information here.
+
+[445:20] the app. You can just write a smart phrase with the attestation at the end. This is what you want it to look like. So you add in who you've signed for, whether that's the doctor or the APP. I would have you guys, you know, just change your name so it doesn't say Jill, ED scribe or whatever. And then...
+
+[445:40] the attestation part. It pulls in Jill's name again. Jill Edie scribe. I would change it. Change it to Dr. Nelson's name or if we're scribing for an APP you should change it to their name. Dr. Nelson at this point once he reviews that.
+
+[446:00] He's going to electronically sign off on the chart and it will put another like an e-signature at the end of the note. All right, any questions before I move on? Okay.
+
+[446:20] So we had this sign you said is no. So make sure that you know which template is best to use. Right now I want to guide you guys to the template. I try to remember to ask you which one you think is appropriate. But if I forget, feel free to say.
+
+[446:40] like which template should we use for this one? That will help you to become more familiar with the choices that we have. It does make a big difference like as far as content, what's going in the physical exam section or what's in the HPI so. All right.
+
+[447:00] For this one, I have seen in some of my past classes muscle tearing instead of muffled hearing. So, I know that, you know, across audio, sometimes that doesn't come out great. If you aren't sure what I said, and this goes for onsite too, if you're...
+
+[447:20] not sure what I said. If something doesn't make sense to you, don't be afraid to ask. This is how you make sure your notes are accurate. Never assume. They would rather you ask, you know, a bunch of questions versus putting in the wrong information.
+
+[447:40] So, the fossil tearing wouldn't really make sense. We're talking about nasal congestion, like upper respiratory related things, so don't be afraid to ask questions. I think there was another pertinent negative at the end here, and there was something about decongestants, which I didn't mention, so they took that out. Again, if you...
+
+[448:00] you're not sure, feel free to ask. I will tell you what to do with that information. Do you have questions about the HPI or anything in the ROS for this one? Oh, let me check the chat.
+
+[448:20] Okay, so, Frisha, the EDCerson MDM, we are going to talk about that today. What exactly goes in there?
+
+[448:40] what we capture there, the way that it's formatted all of that information. The HPI. Oh, so that's because in Epic, what I had them do yesterday is add in as the patient's name, their own name.
+
+[449:00] and then the chief complaint. That way when the person reviewing your notes is kind of funneling through all those records like all the patient charts on there they can easily find your sign you say this note. That's the only reason it's in the patient's name.
+
+[449:20] All right, I'm moving down. Seasonal allergies, so yes, this is a medical history finding. If we talked about the allergen, then it would have been something you captured in allergies. But seasonal allergies, hay fever, allergic rhinitis, something like that is...
+
+[449:40] technically going to be a medical history finding. If you're not sure, absolutely ask your doc or APP. And you can see this social history, this one was just free texted. And by the way, you might see ETOH. They use that abbreviation on site a lot.
+
+[450:00] That's acceptable. Alright, so no acute distress. I think there was a prompt for pupils in this one. Take it out, put in Pearl. That's normal. I said everything else was normal for the exam. You can feel free to use Pearl here and EOM.
+
+[450:20] If it's a drop down, you know, use the drop down. That's fine. Okay, first finding we had was the TM's. So this patient has what looks like bilateral otitis media. There was no nasal discharge. You had to change that.
+
+[450:40] No blood, and then there was mild tenderness of the frontal sinuses with some swelling, no erythema. Do you have any questions about the TM's or anything for the sinuses?
+
+[451:00] Let me check here. Hmm. I don't have epic open right now, Nina, but it's possible that...
+
+[451:20] the template was updated. And maybe that's why were there any, was anything listed in the ROS? It was just the part cardiovascular and then...
+
+[451:40] There it is. A chest pin, a GI, vomiting, diarrhea. So it was like the second half of what you have. Hmm. I'm not sure. Have to look at the template. If they did delete that from the updated templates, then...
+
+[452:00] that might be why. I'll check on that once I log in. Okay. Okay. Um, on site for pharynx, like this particular fine
+
+[452:20] They'll probably say mild, fringial, erythema. So they're giving you the, like, subsystem there. You put in, if it's not there, you put in pharynx, you put in positive mild erythema. They also said no exudate. So they don't see any, like, patches up.
+
+[452:40] us, signs of infection there. And I think that was it. Maybe mucous membrane. Do you had to address the wild card there and the one in sensation? Do you have any questions about physical exam here?
+
+[453:00] Alright, you didn't have to do anything for the rest of the note. You just had to make sure, describe, smart phrase and the attestation was there. And, no, okay, let me go to the other note. We'll look at that one quickly and then I'll give you guys a break before we get...
+
+[453:20] started. So I'm not 100% sure but I think this might have been the recorded note that I sent you. Maybe in one of my first emails this ear pain.
+
+[453:40] So they used this otitis external note and it was an adult. There was only a PEDS version of it. So you just had to change it over. I want you to get used to that. I want you to be able to manipulate the templates to what you need. That is completely fine. These are not like this.
+
+[454:00] text is not set in stone. You can pull information from other templates. I've chosen abdominal pain and the clinician would say, you know what, pull in a physical exam from the chest pain template. So you can combine templates like that.
+
+[454:20] This one, he's got one month of this ear pain, tried some antibiotics, no relief. Because it was otitis external, it does have questions about like, you know, was he swimming? Did he have any trauma? Things like that.
+
+[454:40] You are I fever. So this was the setup for the HPI for this one. Do you have any questions here? Sorry, I can ask a question about where we stopped at he denies recent dental infection. Then we start with the bracket.
+
+[455:00] Do we need to add something before that or like we can just use the bracket like after period? So I think it's a preference like if you feel uncomfortable about this being like kind of like hanging there and not having the otherwise you can move it like you come in
+
+[455:20] it under the otherwise section that's completely fine. It's just the template structure. It's the way it's set up with the negative signs and they have it before otherwise. So it's just going to be like personal preference. Thank you. Yeah.
+
+[455:40] I understand what you mean. This would probably drive me crazy too. I would want to either move it or something to kind of say, put it more like a sentence or something like that. So I also don't want you guys to get too hung up on stuff where you're spending too much time.
+
+[456:00] focusing on that. Like that's definitely going to be something that you can worry about with time. Right now focus on like getting the information and making sure there aren't any errors, typos, grammar issues, like things like that. And then with time as you get
+
+[456:20] faster, you can start to kind of pick out those little things and fix them if you want. All right, nothing in the ROS, no history to report. You could see they used free text again, but they used negative signs instead of
+
+[456:40] know which is fine. And then this one, so because it was set up as Otitis Externa, classic is classic physical exam finding is when they pull on the tragus, it'll us its pain. This wasn't Otitis Externa.
+
+[457:00] So it was negative. No pain on pulling the tragus, no erythema, no adema, nothing like that, no discharge. What this patient actually had was mild right TMJ tenderness. So that joint, compome and divular joint, they had TM...
+
+[457:20] J-Pain. That's what their diagnosis was. TMJ syndrome or something like that. They called it. I think they might have given something for like pain. It was not an ear infection. And everything else was like normal in the physical exam. So.
+
+[457:40] Do you have any questions about this? Oh, Ellie, you have a question? Yeah, it doesn't matter what order we put, like the stuff in the physical exam, because like I put the positive mild tenderness in the beginning of the section, doesn't matter if it's at the beginning or the end.
+
+[458:00] No. You will see sometimes that the scribes tend to put positive information in the beginning, just to draw more attention to that. That is okay as well. Okay. So if it's at the end or beginning, that's fine.
+
+[458:20] Um, Nina? Are we, can we do just like H are? Is that okay? Yeah, that's fine. I mean, on site, it's going to pull in vital signs. So it's just a formality right now. You can agree. Rimsha. Um, do we need to.
+
+[458:40] have like MMHG like beats per minute or something like after them or it's just like we can state numbers and then 02 percentage is fine. It's fine to state the numbers on site if your clinician is more particular and want you to use units of measurement.
+
+[459:00] You can absolutely do that. Okay. And also like the respiratory, can we just spell it or does it have to be like short and RESB? This is the following like the way epic pulls it in. They abbreviate it, but you can also use RR for respiratory rate.
+
+[459:20] Yeah, that's fine too. You can use T for temp and BP and stuff like that. So again, this is just kind of like a formality right now with exception of the O2 set. These are just a formality because on site it populates that information for you. Again, it's just, I want you guys to...
+
+[459:40] The training environment is limited. It's great that we're able to use it and you get to see some of the functionality. We don't have some of the, like, these things available right now, but I don't want to give you a bunch of notes. Like, we're going to do, like, 28 notes or something together in training. Like, I don't want to give you notes.
+
+[460:00] I don't have any vital signs. I want you to get used to seeing this stuff, being able to point out abnormal vital signs. So we're just, you know, if you want to abbreviate, that's fine. And that was it for this one. You don't have to worry about anything in here. We are going to talk about MIPS measures next week.
+
+[460:20] and then you just needed your scribe attestation at the very end right here. Oh, I forgot to change this one. All right. All right.
+
+[460:40] we either free text results or it will populate results into the chart. So I'll tell you what we free text, what gets populated. You have to stay organized with diagnostic results. You want to be able to
+
+[461:00] to make sure everything's coming back. You wanna look for the delays and results. This is next level scribing. It's not just about typing the information they give you into the know. And I said, you know, day one, if you're sitting at your computer for 12-hour shift and you haven't gotten up, you're not doing the job right. Like you wanna get up, you wanna go to that.
+
+[461:20] you want to ask for more information, you want to look for EKGs so that you can get their interpretation if it's not in the system. You want to go in the room. There's so much, there's so much to do in this job that just sitting at the workstation the entire time, it's going to make the day a lot longer. So, or feel
+
+[461:40] lot longer. So you need to come up with some kind of system to keep yourself organized. It's different for everyone, for me, because I hand wrote my shorthand wherever I had that patient's note on my paper, I would make a little box on the right hand side.
+
+[462:00] and I would list the things that they ordered that I need to follow up on. So I didn't write down every single lab they ordered, but I would put labs. If there's a particular lab, I know I need to keep track of like cardiac enzymes that are poned in or a D-dimer or something like that. Yes, I would make note of that because I would know
+
+[462:20] that they're looking for that result in particular. That just comes with time, by the way, experience. You know, I said, eventually you're able to, eventually you're able to anticipate their needs, you know what they're gonna order, you know what they're looking for.
+
+[462:40] But keeping yourself organized is going to be important. Like if an EKG was ordered, you have to get that interpretation from them. You're going to have to seek that out. So when it comes to this section, you need to be proactive. You need to take initiative. You need to follow up on things. You need to...
+
+[463:00] speak to staff members if I needed an EKG to be printed because it wasn't in the system or I couldn't find a copy of it to bring it to them to get the interpretation and I didn't know how to use the EKG machine. I would find Camillo who was one of the techs and I would say hey can you help me print this out?
+
+[463:20] And then I learned it, you know, the first time and then I was able to do it myself after that. But you have to learn who everyone is in the emergency department. I want to encourage you to do that because guess what? They're going to come to you. They're going to ask you, where is the doctor? Did the doctor talk to this other doctor? Do you know?
+
+[463:40] the CT result is back. Do you know what's going on with this patient? Blah blah blah. So we are absolutely the middle man. They know what our role is and they do often come to the scribes and ask us for help for information. So you know you're going to do that in turn.
+
+[464:00] Let's open a random one. Chess Paine is my go-to template for an example. So we are talking about this section right here. Let me pop this out.
+
+[464:20] You'll always have physical exam. You're going to have your scoring tools after, which had talked about using this link takes you to a bunch of scoring tools like heart, score, and perck score, and wells criteria, and different things like that. You will learn more about those on screen.
+
+[464:40] site, but basically if you have to fill out a scoring tool, the clinician will tell you what to put. And then following the scoring tool, you are going to see this ED course and MDM header. And then right underneath it, this is where all your results go. Now this patient doesn't have any results pulling in.
+
+[465:00] that you will see labs populate here. There are things that we also have to free text, ultrasounds and CTs will come across as well. So this is the section before we get into the medical decision making, or if you wanna call it narrative, sometimes I use that term, it's the narrative.
+
+[465:20] that was provided. It does sort of make things out of order. So we report results before we even talk about why they're ordering the results. That's just the structure of our notes. Let me go back to this.
+
+[465:40] There are some common diagnostic tests that you're going to encounter in the ED lab specimens, radiographic studies, telemetry, so your electrocardiogram, your rhythm strips, things like that, and then of course cultures.
+
+[466:00] Okay. This is just an example of some of the things that you'll be capturing there.
+
+[466:20] or electrocardiogram. This is a normal sinus rhythm at 86 beats per minute with normal access, normal intervals. This patient has ST segment elevations in 2, 3, and AVF. And then we always use this phrasing. I'll explain with, you know, the coding and billing stuff as interpreters.
+
+[466:40] by me. We also capture rhythm strip readings. When we go over this I'm going to explain that when you get an EKG your next like question to them should be what should I put for the rhythm strip. This is a chest x-ray.
+
+[467:00] Right middle lobe infiltrate. So this patient has a right middle lobe infiltrate no cardio megal, no enlargement of the heart. We do typically report findings as positives and negatives in x-ray readings. Some of the EKG interpretations include
+
+[467:20] positive signs, sometimes instead of saying no, we use a negative sign. Some findings are just reported. Normal axis normal intervals do not require positive signs. They already say normal, essentially. So this is a left wrist x-ray, no fracture. And then this is just a
+
+[467:40] free-texted version of a head CTs are read by the radiologist. They are transcribed and they populate into the system so they will pull in to your diagnostic section. This is without contrast and they are looked to
+
+[468:00] to rule out an intracranial hemorrhage. The result is there was no intracranial hemorrhage read by the radiologist. Again this is just like a free-text inversion you won't have to put this information in it's gonna populate in your note.
+
+[468:20] All right, so first up, point of care tests. These are tests that they can quickly do at the bedside in order to diagnose and treat a patient. Let's imagine an elderly patient who's sick maybe chronically
+
+[468:40] ill, very thin muscle wasting comes in and they are they have abnormal vital signs. They're trying to figure out what's going on with the patient so they can start treatment right away and they try to get IV access on this patient and they're having a
+
+[469:00] hard time. Has anyone heard of a hard stick? They'll sometimes call it a hard stick. This patient's a hard stick. They're going to get someone else in there, give it a try, they might have to use an ultrasound machine or something like that. A clinician might even have to put the line in, but let's...
+
+[469:20] say some time passes and they finally get access, draw the labs, label the tubes, send it off to the lab, the lab spins it down, that's a good amount of time before that result comes back. So there are some things they can do quickly at the bedside. These are some examples.
+
+[469:40] fingers stick glucose is a great example. I'm sure many of you have seen a glucoseometer. They can get the patients glucose reading right away. Someone typoglycemic. They can give some glucose. Now we have improvementation. Respiratory panels they can also do strap flu COVID.
+
+[470:00] They can test stool at the bedside for a coat blood. So if they are concerned about gastrointestinal bleeding, they have what they call gui-ac cards. They get the card, they put a stool sample on it, they use this developer, put a couple drops, and if it changes,
+
+[470:20] color, I think it is. It indicates that there is a cult blood in the stool. And now they start the protocol to treat for a GI bleed. I-STAT is a handheld blood analyzer. This can look at coags, blood.
+
+[470:40] gas levels, electrolytes. So they can use this, let's say the patient's hypercalemic. What is hypercalemia, by the way? That's an important one to know. Hi potassium, yeah, hypercalemia. So they can
+
+[471:00] start protocol to treat for hypercalemia, which is an emergency. Pocus, the last one here is a point of care ultrasound, also known as a bedside ultrasound. This is when our clinician, whether it's the doc or the APP, can take
+
+[471:20] portable ultrasound machine to the bedside, and they can perform that on the patient. They are looking at the screen, they interpret that information in real time. This is different than sending the patient to the ultrasound suite, the sonoprofer performing it, sending the image.
+
+[471:40] to radiology and waiting for a result. So bedside ultrasounds are done in the ED. You might hear the term fast, F-A-S-T, or some of those trauma ultrasounds. If your site is a teaching hospital and you have residents, the residents do educational.
+
+[472:00] a bedside ultrasound sometimes as well, but if our our clinician the ED doc or the APP does perform a diagnostic ultrasound it's something that we Enter into the note. It is also available procedure And I'll show that to you guys when we get into
+
+[472:20] some procedure stuff. Alright, so some common blood tests that you're going to encounter. ACBC. We're talking about white blood cells, hemoglobin, hematocrit, platelets. Sometimes it includes something called a differential, a brine...
+
+[472:40] down. Basic metabolic panel is a BMP. You have sodium, potassium chloride, your bicarb, BUN creatinine, and glucose. You might hear that as referred to as like chem seven. Sometimes they say...
+
+[473:00] I'm going to order a CVC and a chemistry. So you might overhear that. Now when you take everything in a basic metabolic panel and you add in liver function tests or your LFTs and a calcium level.
+
+[473:20] You now have what they call a complete metabolic panel. So sometimes they order BMP, sometimes it's a CMP. In that breakdown of the metabolic panel.
+
+[473:40] There was a BUN in creatinine. These are waste products that should be removed by the kidneys, so this can help do determine kidney function. If these levels are elevated, there's some kidney impairment, and this is something that they will track, you know, results of, so that you can look back, you can get their last creatinine level.
+
+[474:00] Here's your breakdown of LFTs. This is all in the manual in more detail if you want to learn more about them. Some cardiac labs. You have your CVK, creatine phosphokinase, and your troponin. These can indicate that there is muscle damage.
+
+[474:20] image. And then BNP is your brain-naturetic peptide. This basically measures the proteins made by your heart vessels, your blood vessels and your heart. BNP is the brain-naturetic
+
+[474:40] can be tracked to see if a patient is in heart failure. So, they'll order this if they're concerned about heart failure, fluid overload, pancreatic cancer, digestive enzymes, amolation, lipace, and then you have your colon.
+
+[475:00] legs, proton, bin time, partial thromboplastin time, INR, which is international normalized ratio, basically, you know, talking about looking to see how well your blood is clotting. The dimer is a small protein fragment that gets
+
+[475:20] It's present in the blood after a clot gets broken up and dissolved in the body. D dimer can be used if they are concerned about a PEDT, that kind of situation. It is like a positive negative test. So if it's negative, it kind of rules out a PE.
+
+[475:40] If it's positive, there's a possibility that it could be a PE or it could be caused by something else. So they have to basically decide if they're gonna further investigate that order a CT andogram of the chest to rule out a PE.
+
+[476:00] And then you have some additional labs in here. HCG, Carboxyhemoglobin, different drug levels, and something called ABG arterial blood gas.
+
+[476:20] I do want to show you a little bit about drug levels. I'm going to scroll down to that area. There we go.
+
+[476:40] test that they can order. You might encounter them order a magnesium level. There's something called Sedbury or ESR. They can also do different titers, lime titer. They can do mono spots. And then here are some examples of different drug
+
+[477:00] So if the patient comes in, let's say they have a history of seizures, they are going to ask them which medication do you take for your seizures? And if it's something that they can draw a level on, like they're on depacote, which is Valproic Acid, they can order that level and determine...
+
+[477:20] How much of that drug or medication is present in the blood? Is it within a therapeutic range? Is it subtherapeutic or low? Or is it at a toxic level? So these are some different meds. And of course if someone comes in for an
+
+[477:40] overdose. They can get different levels like Tylenol, Aspirin, Barbiturates, Lead levels, Opiates, Lead Alcohol levels. This is the breakdown of the respiratory labs, ABGs, and never-
+
+[478:00] understood ABG results. We don't have to interpret anything, like I said, but they usually tell you, like, you know, this is high, this is low, this is what the level is, we're gonna do XYZ. So, this also talks about O2 saturation level.
+
+[478:20] This is obviously through a serum level, like they're getting a blood sample versus using the pulse oxymn around the finger. And then these are just the abbreviations for route of administration if they're on oxygen if they're not. I think we saw that yesterday though.
+
+[478:40] And then it just talks about some urine tests, different urine tests, urine drug screens, things like that. All right. We're going to talk a little bit about cultures. You have any questions so far?
+
+[479:00] Okay, so these are some common types of cultures that they order in the emergency department. They can be very helpful. Let me go to the manual.
+
+[479:20] So blood cultures, urine cultures, I'm sure you guys are familiar with this stool cultures. They can task for OVA and parasites, Lasterium difficile, E coli. They can also send off sputum or respiratory cultures. Wound cultures, so imagine someone has,
+
+[479:40] wound. They've been on a course or two of antibiotics and it's not healing. Of course they can get a culture done from that wound. See what which organism grows out and then change antibiotics if needed. There are also different flu...
+
+[480:00] that can be obtained. CSF is one of those, so if they do a spinal tap on a patient, they're going to send that off. There's also fluid from the pleural cavity or the paratoneal cavity, and they can also do joint fluid. They can draw fluid from...
+
+[480:20] a joint and send that off for a culture. So why is this important? Think about a patient that comes in with a UTI or UTI symptoms and they send off a URI analysis and they also send off a culture that day and the URI
+
+[480:40] analysis is what's going to come back, right? The culture is going to take a few days to result. So let's say that your analysis shows signs of infection. They place the patient on a course of antibiotics. A few days go by and this patient is not getting any better. They come back to the emergency department.
+
+[481:00] and look at their culture results, they can see which organism grew out, what it's susceptible to, and what it's resistant to. Change antibiotics, give that to the patient, and then they feel better, or they get better. This also leads to sepsis documentation.
+
+[481:20] I mentioned yesterday that sepsis is a big hospital initiative. The scribes helped a lot with sepsis documentation. We have, I'm not sure what Olivia's title is, but they do have pilots.
+
+[481:40] sepsis at the sites and some of them are using the scribes for communication and documentation, tracking, mortality. And that's really the goal is to reduce mortality related to sepsis. So capturing the time that sepsis.
+
+[482:00] eSepsis alert triggers in the system. Following the protocol, documenting the broad spectrum antibiotics that they order, the cultures that they send off for the patient, the fluids that they give to the patient for sepsis and the reassessment, it's all very important.
+
+[482:20] important documentation for patient care and you know capturing all that into the note. All right. Any questions? Put a move on.
+
+[482:40] All right, so cultures, by the way, we don't manually really like add anything to the note. It's an order that gets captured. It's just understood that it's something that's pending and is not going to result the same day. There are some smart phrases like steps.
+
+[483:00] that you're going to pull in where we specifically state that cultures were sent and those are sent prior to antibiotics being given to the patient. So, you know, there's not too much unless the patient's returning like the UTI where you're going to talk to.
+
+[483:20] much about cultures. The UTI is probably the exception because they're coming back and you're going to say this patient had a culture on the last visit. This is what it showed. This is what it's susceptible to that kind of information. They do have someone that follows up on culture results, by the way, and will contact the patient if needed.
+
+[483:40] So we've talked about labs so far. Those are populating into your note. You don't have to do anything with the labs. You're simply refreshing the smart link if needed.
+
+[484:00] it's pulling in, but I do want you to know that each time you open the note, it automatically refreshes the smart links. So it will pull in any more result once you go back into that note. Now radiographic studies.
+
+[484:20] with exception of the ones that say radiologists on this slide, basically it's going to be X-rays. That's something that you have to free text. There is an exception to this. It has to do with wet reads. We'll talk about that. But for the most part, most of your sites, the scribe will see
+
+[484:40] out the x-ray interpretation from the clinician and free text that into the note. And that is why in Epic, there are prompts for that. So the higher acuity templates where they would typically order an x-ray on the patient, have a prompt here for that.
+
+[485:00] When you document X-rays, there are some requirements. You should not just leave X-ray and then type in, let's say they told you it's no fracture, no dislocation. That's great. That means X-rays...
+
+[485:20] normal, but what is this an X-ray of? It does not say that. And we cannot assume, or the coding and billing team, whoever our readers are, of these notes that we create, they can assume that it's, I don't know, a left ankle. We have to say that specific...
+
+[485:40] So you should always add to the note what it's an x-ray of. That's the first thing required. The second is going to be the result, the interpretation that you're getting from your colonization. That can be as much information or as little information as they-
+
+[486:00] would like, there's no requirement to how much or how many findings they put in here. As long as you have the result in, that's what you need. But there's one more thing and that's going to be this phrase and it's built into the template so that it always gets out.
+
+[486:20] added, if you ever have to free text it in, please add it. This is required as interpreted by me. So when we talk about coding and billing, there is a guideline that the coding and billing team follows and interpretation.
+
+[486:40] of test results is something that the clinicians get credit for towards coding and billing. The data that they review and interpret leads to complexity level for medical decision-making for that code. Now, let's say they ordered more than one x-ray for this.
+
+[487:00] patient. I'm just going to put it on a new line. No infiltrate. Okay, I'm just going to leave it like that. Let's say there's also a left hip x-ray.
+
+[487:20] So you're just putting it on a separate line. Each x-ray gets its own line. Couple other things about x-rays.
+
+[487:40] Radiology. So let me say this first. Our clinicians are trained. Part of their training is that they can provide preliminary interpretations of x-rays and electrocardiograms. That's part of their training. The EV clinicians...
+
+[488:00] docs, APPs. So this again is data that they're interpreting and providing an interpretation of. Now, radiology is still at some point going to review the X-ray, but you're working in an ED. These are stat studies that are being...
+
+[488:20] done. They are urgent. They need to be interpreted right away. So our ED clinician will read the x-ray first. There are some situations where radiology is just like on the ball that day. And the radiologist will read the x-ray and it will pull into your nose.
+
+[488:40] X-ray interpretations, just like CTs and ultrasound, they will populate into your note once the radiologist reads it. Sometimes it doesn't happen until the next day. Sometimes it happens the same day. You always should capture the ED clinicians.
+
+[489:00] interpretation of the x-ray. Even if the radiologist read comes back first. Now what should you do if you see the radiologist read and you don't have the x-ray from that let's say we're working with Dr. Nelson? If I see it I'm gonna look at the result and I'm gonna go to Dr. Nelson and I'm gonna say hey Dr. Nelson
+
+[489:20] in the patient you saw on bed 5, the chest x-ray was read by radiology and it's normal. What do you want me to put for your interpretation? That is your question to them. So we always capture the ED clinicians interpreters.
+
+[489:40] even if radiology gets to it first. Some of your sights use a wet read. So, Hettle showed us this a little bit. There's this link in here. And it does...
+
+[490:00] say in the tip, provider should document chest x-ray as a wet read. Really, it's any x-ray. I don't know why they said chest x-ray specifically. Any x-ray that the ED doctor APP orders should be added as a wet read. The reason behind that is it goes in the system so that
+
+[490:20] The radiologists can see what they read it as, what the ED doctor, APP, read it as. That helps them to know if there's a discrepancy between let's say Dr. Nelson and the radiologist reading. If there is a missed fracture, let's...
+
+[490:40] Let's say there's a missed fracture. The radiologist looks at it and says, you know what, there's a possible fracture here. They're gonna look at the wet read and then they're gonna call the emergency department for that specific patient and say, hey, you guys read this as negative, but I see a possible...
+
+[491:00] fracture. That's one of the reasons wet reads are so important. There's a push to get all of the docs and APPs to put in wet reads, but that's, it takes time. There are 12 sites, there are so many clinicians at the site.
+
+[491:20] So if your site does not use wet reads, you are free texting. You will learn that very quickly once you get on site. So default free text it unless you find out they do wet reads.
+
+[491:40] free text it even if the radiologist reads it. You still need the interpretation of the 80-docker APP. Do you have questions about that? I hope I didn't confuse you. Guess Ellie
+
+[492:00] So if we ask the clinician and then their interpretation is different from radiology, when we're writing their interpretation, should we mention that it was different or should we just like write what they said and then like, like should we mention the interpletions Okay, so if there
+
+[492:20] is a discrepancy, the ED doctor, APP would comment on that. They will have you enter something. If you, let's say you put in the reading, their interpretation, and then the radiologist read comes back and you see a discrepancy, you should go.
+
+[492:40] to the whoever read it initially. Like, let's say it's Dr. Nelson, say, hey, Dr. Nelson, the radiologist read came back and it says this. You told me this, but the radiologist is seeing this. Like you should let them know. Okay. As...
+
+[493:00] interpreted by me basically means by the doc. Yes, so as interpreted by me is reserved for the physician. So one more question about that. If they have like a different approach to whatever the interpreted.
+
+[493:20] like the actress as. So they basically like talk to each other before we actually put anything down, right? Like it's because they have to be like, there's a common ground. It's like it's not subjective. It's objective, right? At the end of the day.
+
+[493:40] I mean, they're not going to, if there's a discrepancy, they will have a discussion. Yes. But let's take the scenario where the radiologist
+
+[494:00] reads it first and they say, I don't know, the patient has a pneumonia on the test x-ray. And I go to Dr. Nelson and say, hey, Dr. Nelson, the radiologist read the test x-ray. It shows a right middle lobe infiltrate, suspect pneumonia. And I say, what do you want me to put?
+
+[494:20] for your interpretation. They're going to look at the x-ray, are they going to go against the radiologist? No. They're not. They're going to go along with that unless they absolutely completely disagree, which I doubt because radiology, that's their specialty. But sometimes, it's a-
+
+[494:40] Right? Like they the ED doc reads it first and then the radiologist reading comes up and it's different. That's when That's when we need to go to them and say like you know, oh by the way the radiologist now read this and it shows this It's likely that they're gonna update it or they're going to say my interpretation
+
+[495:00] was, you know, that it's clear. However, radiology sees a suspicious XYZ and then they'll talk about the next step. I'm going to order a chest CT to rule out, you know, I don't know, a mass or something like that. And they will sometimes have a discussion, like you said, like they'll call and they'll
+
+[495:20] talk about the results and they'll talk to the radiologists and say like what do you think? Should I, you know, maybe we should order a CT? Should I get contrast? Blah blah blah. So they will talk about, you know, what's appropriate and pull them into that that patients care. Does that make sense? Is that what you're asking?
+
+[495:40] I think that's everything for...
+
+[496:00] X-rays. I just wanted to show you that there is more information about X-rays in the manual, and they also tell you like, you know, what they might be looking for, what it shows an image of. Sometimes because, you know, we're working in the ED, some patients are too sick to go to radiology to get that done.
+
+[496:20] and they will come to the bedside and do portable studies, portable films. They are not as high quality as a standard film. They are a bit limited, so sometimes we will indicate that by adding portable. So basically if they ordered a portable chest X, right? I can see.
+
+[496:40] that through the order set and I would just type in portable. The other way will sometimes capture it is you might see the scribe say single view like a one view of the chest. You know it depends on you know how the clinician wants to...
+
+[497:00] it reported, but we will often indicate portable studies by just saying that. Sometimes you'll see them do this P, lowercase P to indicate portable. That's another way to do it.
+
+[497:20] Where would we insert the screpancy? So, the free texted version from the, let's say Dr. Nelson, it's going to go in the diagnostic section. The radiologist read is still going to pull into that section.
+
+[497:40] populate there, but the discussion would go more so in the MDM section. So we have that labs imaging reviewed line. This is kind of like a prompt to add information here. That doesn't mean that it's...
+
+[498:00] exactly going to go in this spot you can move these things around because this is reported in chronological order but this is basically like a place that you could capture the discrepancy, the discussion about it.
+
+[498:20] Okay, everything else, CTs, ultrasound, MRIs, VQ scans, anything like that, where the patient is going for a study. The images are going to be sent to the radiologist. The radiologist is going to read it, it's going to get transcribed. It will populate into your...
+
+[498:40] No, there are links to pull in the results. So you don't really have to do too much with that. I do want you to be aware because we're supposed to keep track of results and delays in results that with CTs, they can do non-contrast studies, so they're not.
+
+[499:00] giving any dye. Generally, those studies can be done very quickly. Like the patient can go to the CT suite quickly, but there are contrast studies. So they can give oral contrast. I don't know if you guys ever saw like that big clear jug of liquid that the patient has to drink.
+
+[499:20] That's PO contrast by mouth and usually they have to, the nurse will have to capture the time the patient starts drinking. It's usually two hours from the start when they're ready to actually go for CT. So there's a two hour.
+
+[499:40] window where they have to wait. I know this. I mean they educated us on this because we're supposed to be keeping track of results, but this is something you hear about like a lot from the patient. Like when am I going for my CT? When am I going for my CT? Hopefully, you know, whoever the nurse is is going to exit.
+
+[500:00] like you have to drink this, we have to wait this amount of time. And I also know because sometimes I would call the CT sweet and say, you know, hey, this patient had a CT ordered three hours ago. Can you tell me the status? Can you tell me when they're going up?
+
+[500:20] And they'll say, oh, this is an oral contrast study. Do you know when the patient started drinking? And then you can find that information in the nurse's notes, or you can actually, you know, get, if you don't feel comfortable doing that, which I think the scribes don't do that as often. Now, you can
+
+[500:40] Just get the nurse on the phone and the nurse can talk to them and tell them the start time There's also IV contrast so they have to put a large bore IV in They're gonna take the patient. They're gonna give that IV contrast and do the study some patients also get oral and
+
+[501:00] IV contrast. So it depends on the study, depends on what they're looking for. Do we wait to mark the note ready for review until after the results? Yes, absolutely. We want to have everything in there. The note completed all the way through to the plan section.
+
+[501:20] stations on before you're going to mark that as ready for review. I know we marked ours ready, you know, and we didn't have complete notes yesterday. Again, just a formality to get you used to marking the note ready. Find out where it is, but yes, generally you're going to wait for everything to be filled out before you say, hey, this note's ready to...
+
+[501:40] be reviewed. I mentioned like titers and cultures, those things we don't wait for. But everything else that's a stat study that will be reviewed, you're going to wait for those results to come back.
+
+[502:00] ultrasounds don't get contrast. Sometimes they ask them to drink water and have a full bladder defending again what they're looking for, but just keep in mind that the focus the bedside ultrasound that is the exception to radiology reading it because the bedside ultrasound is done by
+
+[502:20] our clinician. They're looking at it in real time on the screen as they're in the room conducting that ultrasound. So they're going to give you the interpretation. That's on something you're going to wait for. Bedside ultrasound is different than sending the patient to the ultrasound suite for the synographer to perform it.
+
+[502:40] Do you have any questions about that? Okay, MRIs. Same thing. VQ scans. I just want to talk about VQ scans because you're going to encounter these in the emergency department. So we're going to take it back to the labs what we were talking about earlier.
+
+[503:00] Let's say that they have a patient that they're concerned about a PE and they order a D dimer on this patient and it comes back quote unquote positive. So now they're even more concerned than they're gonna order a CT and G.
+
+[503:20] gram of the chest to rule out a PE. This CT, CTA or CT angiogram actually requires that they administer IV contrasti. Now let's say that our patient has
+
+[503:40] normal kidney function. There's kidney impairment, elevated BUN creatinine levels. They cannot give IV contrast dye to that patient because it's toxic to the kidneys. There are some exceptions, but let's just go with this scenario.
+
+[504:00] There's a workaround. If they cannot do IV contrast CTA, they can order this Ventilation and perfusion scan of the lungs. It looks for the probability of a PE So because this is something
+
+[504:20] And that gets ruled out fairly often. Shorten its breath is a pretty common chest pain. Those are common complaints. You are likely going to encounter weak use scans working in the ED. Read by the radiologist, populates into your note.
+
+[504:40] All right. Do you have any questions about radiographic studies? All right. Before we go over cardiovascular tests, let's take five here.
+
+[505:00] [silence]
+
+[505:20] [silence]
+
+[505:40] [silence]
+
+[506:00] [silence]
+
+[506:20] [silence]
+
+[506:40] [silence]
+
+[507:00] [silence]
+
+[507:20] [silence]
+
+[507:40] [silence]
+
+[508:00] [silence]
+
+[508:20] [silence]
+
+[508:40] [silence]
+
+[509:00] [silence]
+
+[509:20] [silence]
+
+[509:40] [silence]
+
+[510:00] You
+
+[510:20] [silence]
+
+[510:40] [silence]
+
+[511:00] [silence]
+
+[511:20] [silence]
+
+[511:40] [silence]
+
+[512:00] [silence]
+
+[512:20] [silence]
+
+[512:40] [silence]
+
+[513:00] [silence]
+
+[513:20] [silence]
+
+[513:40] [silence]
+
+[514:00] Alright guys, let's talk about cardiovascular tests. So if they order an EKG and electrocardiogram, which obviously is a snapshot of the electrical activity of the heart, you are going to capture...
+
+[514:20] their interpretation of this study. So this is you know one of those tests that they can interpret. There are some documentation requirements. Now they don't directly order.
+
+[514:40] rhythm strip readings, but they interpret rhythm strip readings. So those are available on the EKG machine. A rhythm strip, by the way, is a six-second long tracing of the electrical activity. So electrocardiograms a snapshot, rhythm strip six seconds long.
+
+[515:00] Sorry. We will always capture the EKG, but the other aspect of it is that we need to get a rhythm strip reading. And the rhythm strip is going to go in the proctor. That is something
+
+[515:20] that they can bill for and it needs to be captured in the procedure section. So the requirements for documentation for both an EKG and rhythm strip are the same. It's rhythm, rate, two additional...
+
+[515:40] elements which we'll talk about and then you're also going to use as interpreted by me just like the x-rays. Now you don't have to interpret an EKG. There are some basic things that you want to know about an EKG. A standard EKG is 12 leads.
+
+[516:00] We've got lead 1, 2, 3, AVR, AVL, AVF, V1 through V3, and then you have V4 through V6. This is lead placement on the patient. They use these leads or the placement.
+
+[516:20] to talk about where they're seeing things. It is important for you to know how to capture it, meaning formatting. So if they tell you, you know, there's ST segment elevations in leads one and two, something like that, that's the four.
+
+[516:40] It's Roman numerals. This is how you format AVR. This is how you format V1 if they say that to you And we had that on the example here ST elevations in 2, 3 and AVF With time you're gonna learn that there are certain things
+
+[517:00] like common, not common, let's say some conditions, like clinical conditions that you'll hear about, you'll learn like things like PT waves, indicates hypercalemia, you'll hear about ST elevation MI.
+
+[517:20] or non-stemming, non-SE elevation MI. You're gonna hear different things, WPW, now a complex, TACACARDIA SVT. One of the things that I sent you is, let's see if it pulls up in the viewer.
+
+[517:40] Yeah, I sent you this document. It's a reference. I would maybe take some time before we meet again just to familiarize yourself with some of these different terms used for EKGs because what happens on site is when they give you the interpretation of the...
+
+[518:00] EKG, they very quickly dictate those findings. So they're going to tell you normal access, normal intervals, SD segment elevations in 2, 3 and AVF. It just like spitted out real quick and you have to be able to take shorthand for it. So you need to be able to jot that down so you
+
+[518:20] can get that into the note correctly. The ones that are in black font here, these are like acceptable or preferred abbreviations that you can use in the physician note, which is great because you don't wanna have to type out right bundle branch black, that's a lot. So you can use RBBB.
+
+[518:40] for example. The ones below it in red, this was just me giving you some shorthand tips. For poor R-wave progression, I use PRWP. So looking at this, oh, and by the way, ST elevations, ST depression,
+
+[519:00] I use like an up arrow, a down arrow. If it's changes, I use like a delta sign. So look through this because if you get used to kind of how to capture those things on your short hand, it's going to make it a lot easier for you to get the dictation down for those.
+
+[519:20] Okay. All right. So this just talks about documentation. Own it.
+
+[519:40] them in rate, then you need two elements. So the element can be an access finding, interval finding, ST segment change, comparison to a prior EKG, an old EKG, or even summary of a clinical condition.
+
+[520:00] So look at this example here. We have normal sinus rhythm at 85 positive pt waves in v3. No evidence of ischemia as interpreted by me. This meets documentation requirements. They've got rhythm and rate.
+
+[520:20] Technically, rhythm and rate is one element to an EKG, but that's always given. So we need two more elements. We've got peak T waves. That's an ST segment change. No evidence of ischemia is a summary of a clinical condition.
+
+[520:40] So, as interpreted by me, ends it and that's all the documentation requirements for an EKG and a rhythm strip reading. There's another one here that's a fib. This one also says unchanged from prior EKG 320-2021.
+
+[521:00] this is just comparing what they see on the EKG today to a prior EKG to see if it's new. Does this patient have new changes to their EKG or is this an old issue or an old condition that they've had in the past?
+
+[521:20] There are rhythm findings listed here, access findings, interval findings, SC segment changes, examples, some examples of clinical conditions. Here's the EKG leads.
+
+[521:40] And I want to show you how to enter the Rhythm Strip in the Proc Doc, which is a tip. So all of the updated templates have this tip document EKG Rhythm Strip in the Proc Doc. That is an important step so that they can...
+
+[522:00] code and build for this correctly. So we have this procedure smart block down here. So you have two options to get to the prop dock. You can go to edit smart block by right clicking or what I do which is so much easier is just hit procedures.
+
+[522:20] over here. Now when we're working on practice notes because we don't have an attending assigned to these patients, you're going to have to fill out these boxes for forming an authorizing provider. It does not matter who you choose. It's just again.
+
+[522:40] a formality. So now you can get access to these procedure smart blocks. You're gonna go into the search and you're gonna type in ECG. Headle did this with us yesterday. So it's gonna pop up ECG rhythm report. That's what we want.
+
+[523:00] The first thing you need to do is check yes. ECG interpreted by ED position in the absence of a cardiologist. You do not have to use these buttons here.
+
+[523:20] time consuming. Scroll down to the end. There is a comment box. I'm gonna fill out the CKB. NSR at 85. No CT wave changes. Let's just say that this
+
+[523:40] what the clinician told me the EKG is. I'm going to say, what do you want me to put for the rhythm strip? They're going to say, it's the same, or they might tell me one slightly different finding, or maybe the rate is different that they want to put. But let's just say for this scenario.
+
+[524:00] It's the same. I'm going to my comment box. I'm going to type in rhythm strip and I'm going to paste in the result. And now it is being captured in the physician note, but we're doing it again through the prop dock so that the coding and billing team can code and bill for it.
+
+[524:20] correctly. Questions? Any also order cardiac monitoring on patients?
+
+[524:40] that is possible. That's going to be a continuous monitoring. There's also a central system at the nurse's station where someone is viewing that and then you're going to hear the bell go off pretty often. There's an array.
+
+[525:00] or some ones tack a cardic or braid a cardic or something along those lines. But if they want you to capture cardiac monitor readings, you can also enter that in this section. You just free text it. So let's say they want me to capture cardiac monitor. Whoops.
+
+[525:20] So the requirement for I can't type interpreted. The requirement for cardiac monitors.
+
+[525:40] their readings is to give rhythm and rate one finding and as interpreted by me. EKG rhythm strip, those are going to be two findings or two elements they call it.
+
+[526:00] Sometimes they tell you in the 80s because obviously the rate is not going to stay the same the whole time. So you might hear in the 80s.
+
+[526:20] Okay. You might encounter some echocardiograms that are ordered. Generally, cardiology reads echocardiograms unless it's like a bedside ultrasound.
+
+[526:40] that you know our resident or someone is doing. Here they have a chart common ed diagnoses and diagnostic tests that they would order. There are some questions on the quiz Wednesday when we meet
+
+[527:00] again, that pertains to this, takes some time to look at it. It's also on the slide, the last slide. But it is a very good idea for you to understand that if they're concerned about anemia, they're going to alter a hemoglobin. If they're concerned about heart failure,
+
+[527:20] They're going to order a BNP possibly also a chest X-ray. You can go by this chart though. You know, sepsis, white blood cells, blood cultures, lactate level. So take a look at this in preparation for the quiz. This will help you on site to anticipate what they're going to do.
+
+[527:40] going to order what you're looking out for the result of. Oh, there's some more down here. Sorry. Syncope pneumonia. All right, so that's it for diagnostic.
+
+[528:00] we're going to get into the narrative section. We will talk about more procedures but we're going to basically start talking about the narrative section. I'm going to open Chesapean again.
+
+[528:20] so I can start with a fresh MDM. So all these links, of course, are like pulling in information. You can always right click on them, by the way. They're for different, different labs, different...
+
+[528:40] like radiology results if the radiologist reads it, different things like that. The updated templates, which we have a lot of templates that are updated now. There are a few lower-acuity templates that haven't been updated. The updated ones have this
+
+[529:00] smart list at the bottom. The smart lists are specific to the template that you choose. For the most part, they're specific to the template that you choose. So this MDM smart list is for chest pain. What that means is there are certain things built into this.
+
+[529:20] for a chest pain case, for chest pain protocol, for different measures they might report on, for something called a decision tree for admission criteria. So it is important that you use the templates because it has...
+
+[529:40] this built in there. You can get access to these specific smart lists. You can search for them. So if you ever open an outdated template that doesn't have a drop-down list like this, you can go in. You could go into another template. You could copy it. You could paste it in.
+
+[530:00] If we do use any of the templates that don't have this, I am going to have you pull this in. It also has what we call a discussion about disposition which is important for medical decision making, coding and billing. So the MDM.
+
+[530:20] has three options. All of them have three options. These are our workflows. Either your chart is going to be what we call a regular note, so not observation, not critical care, regular medical decision making. If it's
+
+[530:40] It's not regular, then it's going to be either observation or it's going to be a critical care case. We are going to learn about regular today. Next week we will learn about OBS on Wednesday, Critical Care on Thursday. So let's take a look at regular.
+
+[531:00] If you, by the way, let me go back. No, I want to show you one more thing before I choose it. If you look, there's no procedure smart block here. So my procedure button.
+
+[531:20] not up at the top, I actually shouldn't be able, yeah there's no note writer in here, I wouldn't be able to get to procedures. That's because a smart block is actually in this workflow. So you are going to have to choose one of these three first to get the smart block in. So when I choose regular...
+
+[531:40] Now we have a procedure smart block and my button has appeared to access the noterator. So if you ever open one, you're like, I can't get to procedures. That's because a smart block is missing. If you ever try to pull something in and you get an error message and it says there's already a smart
+
+[532:00] block in this template, you can't have two. There's only one per physician note. Everything goes in the same smart block. So let's say...
+
+[532:20] We capture a central line. How do you get another procedure in? It's right up here. Add another procedure. Let's say they do a chest tube. Now you have two tabs here. And you can see it right here. Here's central line. Here's chest.
+
+[532:40] tube insertion. Does the order matter? No. As long as the procedures captured here. Will there be details in the narrative section? Sometimes yes. They want you to specifically say, okay, we're going to place a chest tube because of XYZ. And we'll say C prock dock for details.
+
+[533:00] Sometimes we add in a little note, like, see above or see the prop doc section. Okay, that's the procedure, smart block. Right after that, you are going to have an external records prompt. So this is the first thing that you're going to capture.
+
+[533:20] That's what this section talks about. What we're putting in the narrative. First thing is going to be external records for a regular note. Now with this section, you've got to be proactive. You've got to take initiative. I can't stress this enough. Do not...
+
+[533:40] expect them to come to you and say, Oh, I went in and reassess this patient add to the note. Do some of them do that? Yeah. Some of them are so great about giving you updates, but keep in mind that they are being pulled in multiple places. Everyone wants their attention. They've got a phone call. They've got
+
+[534:00] procedure to do. Family members standing at the counter waiting to talk to them. So you have to seek out information from them so you can fill this out. That means self-management is going to be key for this section of the note. This is also the section that you're going to do the most free text.
+
+[534:20] in other than the HPI. So a lot of text has to be added here. We do use a sentence format, but I do have to say they don't always speak in first person and we are more concise here. So instead of saying, I will place a call.
+
+[534:40] to general surgery. They will say, call place to surgery. You can be more concise. As long as it makes sense and you know, as long as it's you can read it, it makes sense. You do not have to use like a complete sentence first.
+
+[535:00] person narrative in this. Alright, so let's talk about external records. An external record is anything external.
+
+[535:20] to the emergency department, the patient's currently being seen in. There are so many options. EMS run sheet. A patient's brought in by EMS, they have an assessment, they have a run sheet. If the clinician reviews the EMS run sheet, that can be used as an external record.
+
+[535:40] that is external to the emergency department. Any admission record from a past visit, progress note, consultation, primary care physician note, specialist note, anything like that, these are all ex-
+
+[536:00] that's internal medicine department, even a CT result from a past visit or something from micro. Those are all separate external departments from the emergency department. If I go, let's say I'm a patient in the ED.
+
+[536:20] and I don't know, a few weeks ago I had a visit to my primary care physician and they ordered some blood work. If I can pull that up on my phone and show the clinician the ED doc, my lab results, reviewing that information and
+
+[536:40] summarizing it is considered an external record that the clinician has reviewed. Are you following me so far? Questions? See.
+
+[537:00] and I missed your question. Were you talking about the tip? The tip that says document EKG rhythm strip in the prop doc? That you don't touch. That will actually come out of the note.
+
+[537:20] Once the clinician signs it, any of these tips will disappear once the note is signed. So yeah, you can leave those alone.
+
+[537:40] What else I want to tell you about external records? So what do you need to capture for an external record? Well, you should be looking for something that's relevant to their visit today. So if I go in their prior records, their chart list, chart review, head'll show us this chart review.
+
+[538:00] And then I go into notes. This is today's visit. This looks like the nurse's note, but let's see. Let's see if there's one in here in that house.
+
+[538:20] Oh, wow, this one has a lot. Family medicine visits. So great example. This has many visits in here and this is likely what you're going to see on site, especially with patients that have multiple medical problems and have been seen.
+
+[538:40] in the past, they are going to have an extensive list of prior notes to look through. So, what are you looking for? You are looking for something that is pertinent to today's visit. So let's say the patient comes in with abdominal pain. I'm going to go by the most recent and trying to...
+
+[539:00] find something related to abdominal pain and see what what they did for that patient what they were diagnosed with did they have any test-sort or things like that what did they think it was so I'll go through this list this is a progress note
+
+[539:20] Okay, so this it looks like this is their primary care physician, family medicine. It's a pretty good, pretty good HPI here, extensive, review systems, physical exam findings, and then their assessment and their plan.
+
+[539:40] So I'll go through this. See if it's relevant. If it's not, I'll go to the next one. I'm looking for something relevant first. Something pertinent to their visit that day. If I can't find anything pertinent, I am going to just go to the most recent. I'm going to go...
+
+[540:00] I'm going to tell the clinician what I found. You say, hey, for the external record, there were a lot of visits, but none of them were for abdominal pain. Their most recent family medicine visit was for sore throat and viral illness.
+
+[540:20] Do you want me to capture that for the external record? And I'll say, okay, unless they have something else, you know, they'll say okay. So we do look for this information. Unless they tell you directly that they looked at an external record like the EMS Run Shee or Nursing Home documents, that's another external record.
+
+[540:40] It's the scribes responsibility to skim through their records and try and find something pertinent. And then we go by most recent. Gather the information, let them know what you found. If I look back and I do find something...
+
+[541:00] for abdominal pain and they ordered, let's say they ordered an ultrasound and there's an ultrasound result. I want to tell the clinician that, hey doc, this patient was seeing two weeks ago, had an ultrasound of the abdomen, it showed that the patient has gallstones. Now they have some information that's going to guide their medical
+
+[541:20] decision-making for that patient. Maybe they want to get another ultrasound. Maybe they're going to call GI. Maybe they're just going to order labs and give them some meds and go from there. But that would be something they would want to know about. It will take you a little bit of time as you get more comfortable with...
+
+[541:40] the medicine before you can really say, you know what this is what they would need. So, your trainers on site will help you weed through this information and find external records. But this is something that we do.
+
+[542:00] Do you have to run it by the clintion before you go through anything in the past? You're going to look for it unless they told you something you're looking for it, but then yes, what you find you should talk to them about. Yeah, it's our responsibility to look...
+
+[542:20] for this information. If you can't find something, you tell them. Because again, maybe they did look at, I don't know, the run sheet for EMS or some kind of outpatient record that they have access to and you don't have access to. Or maybe the patient had some kind of
+
+[542:40] down or something of, I don't know, like my mother-in-law has a baseline like abnormal EKG and she carries a copy of that with her always. So when they do an EKG, she gives them her old EKG so they know whatever change is her baseline. So...
+
+[543:00] So maybe the patient shows the doctor something in the room and you weren't there for that. You do have to communicate for external records. But it's our responsibility to look for something first, especially if you find something relevant, pertinent, important for that visit today.
+
+[543:20] Where does it say the source of the notes? So just like when we were looking at these like here, progress notes, even this like, this is probably some kind of telehealth visit, telephone encounter.
+
+[543:40] Prove medication It's gonna say 80 provider notes are not external if it's unless it's another emergency department I'm gonna get to that in a second. So progress notes consultation notes in patient notes Trying to think of like what
+
+[544:00] else they might be called. Even like going to like cardiology, you might find stuff in here, imaging, maybe they have an old CT result, that external.
+
+[544:20] You might find some kind of like same day surgery procedures, things like that. Those are all external as long as it's not from the same emergency department they're being seen in, it's considered external. So some of you are working at Jersey City, right? Yeah. Jersey City has
+
+[544:40] a satellite ED in Bayon and you'll work at spot two. But if let's say the patients in the emergency department at Jersey City and you're looking for an external record and they were seen at the site at Bayon that day or you know prior to that day.
+
+[545:00] that is considered external to Jersey City's emergency department. And the reverse is true. If you're working at Bayon, you're looking for an external record. Any Jersey City ED visit is considered external. If I'm working at Clara Moss.
+
+[545:20] And I'm going through these notes and I see an ED visit from NBI, North Beth, Israel. That is considered external to Claremoth's ED. So keep that in mind. There's so...
+
+[545:40] many external options, you should always capture something for an external record. If you truly open this and there's nothing in there, you can't find a single thing. That's the only time which is very rare that you won't have something to capture for external.
+
+[546:00] records. I like your question Nina. What about internal records? So um Murdons e Medicine
+
+[546:20] directly say here if it's the same ED. I mean this is a training environment. You would be able to see which hospital it is. So let's say this
+
+[546:40] This is from the same EB. Internal records, same emergency department, are not going to be external records. What they are technically called in our notes and you might see this, let's go back to the note.
+
+[547:00] You might see this in some of the templates that are not updated. They have prior E.B. records before the external records prompt. So if it's an internal
+
+[547:20] No, that's considered a prior ED record. That's what we call it. You should absolutely add it if it's relevant. If it is not relevant, your focus, your focus is always external records.
+
+[547:40] But the only time you're going to add an ED record from the same ED is if it is pertinent to today's visit. So if they were seen in the emergency same emergency department yesterday, and they're coming in today for the same thing, I will absolutely add the...
+
+[548:00] information from yesterday's visit. Sometimes they even add that in the HPI. There's no requirement to capture internal records if you want to call it that. The requirement is to always capture an external record.
+
+[548:20] There are
+
+[548:40] There are a lot of questions when it comes to external records. I have a little like Q&A, so I haven't told you guys about Dr. Giles. Those of you that are going to be working at Clara, you're going to meet Dr. Giles times two actually. Dr. Giles, the father and the son both work there.
+
+[549:00] But the father, Rob Giles, is a certified coder. He's an emergency medicine physician. He's also the co-chair of our revenue cycle team. He's a certified coder. So he is the educator as far as coding and billing.
+
+[549:20] We work very closely with the revenue cycle team and Dr. Giles comes to us when there are changes or if there are things that the coding and billing team is reporting are missing or different things like that. So he educates the clinicians.
+
+[549:40] the APPs, the doctors, the residents, and then he'll tell us and you know we educate the scribes if there's a change. Listen, documentation, coding and billing, it is fluid. There are changes all the time. We are always sending out emails.
+
+[550:00] for workflow changes, updates to the templates. I don't know that that will ever be stable. So it's something that you have to just continually adjust to and be up to date on whatever the current requirements are. So.
+
+[550:20] What am I point of telling you this? Oh, the Q&A. So when we started talking about external records, they changed the coding guidelines three years ago. And there were so many questions coming in. So I took everyone's questions. I brought them to Dr. Giles. We did a Q&A and I sent it out to the...
+
+[550:40] department. I'm going to send you a copy of that in case you have questions about how to translate the natural conversation into clinical action with modmedscrib 2.0. Our AI-powered clinical documentation solution listens like a human and documents like a scribe. That's because it's for doctors. We'll find doctors.
+
+[551:00] with real data from millions of encounters. That insight and data drive the specialty specific workflow designed to reduce documentation time, enhance face-to-face patient engagement, and improve clinical efficiency. As you have a normal conversation with your patient, mod med software is listening, and simultaneously acting by...
+
+[551:20] automatically suggesting visit notes, ENM, ICT, and CPT billing codes. It's capable of understanding both everyday language and your specialty's language. Once the provider approves, all of those AI suggestions, along with provider-specific preferences and diagnosis summaries, are then pre-populated into the relevant sections of...
+
+[551:40] the visit note, including the chief complaint into HPI, exams, impressions, plans, and more. And unlike other AI scribes that never acquired manual data entry into the EHR after the visit, MADMED scribe helps automatically generate downstream clinical actions in seconds, all intended with our EHR.
+
+[552:00] for additional software or manual configuration, which means after you're done, you simply review and finalize your notes, then move on with your day with another exam fully documented in just minutes. Mod medscribed to me. A difference isn't how we listen. For me about this topic.
+
+[552:20] All right. So in the regular MDM, you're going to see patient treated with next.
+
+[552:40] And then this example, this patient that I chose actually has a medication ordered or Tylenol. This is so great. It pulls in that medication for you, whatever is ordered, but Hettle told us yesterday that it pulls in everything.
+
+[553:00] That's the only problem with this. It continues to refresh. We document in chronological order. So if two hours from now, the patient is septic and they're going to order antibiotics. I don't want that to come in this spot because I'm going to have more documents.
+
+[553:20] in between when the Tylenol was given and now the patient's septic and giving antibiotics. So we document every step, every event that happens during that patient's stay. I would not say patient treated with...
+
+[553:40] three doses of morphine. I'm not going to summarize their care over let's say they're there for six hours. I'm not just going to say they were given three doses of morphine. That's not how we capture information. We say first dose of morphine. Later on, patients still in pain, addition,
+
+[554:00] dose of morphine given. Does that make sense? So you can use this, just keep in mind if you want to make the selected text editable that will take out the refresh. So you can adjust that and you can pull it in later, maybe later
+
+[554:20] we have pneumonia or maybe the patient has spiked a fever, spiked a temp again, and I want to pull in.ed meds. So maybe they ordered a second dose of Tylenol pretend. I can put this in later if I want. And of course I'll make it a no referral.
+
+[554:40] fresh and add in more information later. Some of your sites are old school. They don't use this ED meds. So you're gonna type in whatever that was. Tylanol, I don't know what the dose was. Let's just say P.O. for now.
+
+[555:00] free text. We're gonna free text because we don't have the active edimeds in training. That's what this talks about and then I just want you to know if you're gonna free text this is a correct format.
+
+[555:20] Medication name goes first, then it's dose, then it's route of administration. That's what you should have. There's also no room for error here. So if you are free texting in that information, make sure you get it correct, spelled correctly, correct units of measurement.
+
+[555:40] There are some abbreviations you can use. You guys have seen this, I'm sure. IVPO stuff like that. I am. There are a couple questions on the quiz Wednesday where it gives you like information out of order, like a medication out of order or
+
+[556:00] It's missing something like PO and it's gonna ask you for the correct format. So make sure you know that. This is very important. The type of medication that they are giving and the route in which they are giving it lends to complexity level of decision making.
+
+[556:20] So if you think about benadryl, an oral dose of benadryl, that's considered a lower complexity level than if they administered that medication intravenously. That would be higher complexity. Does that make sense? Okay. So that's why it's important to include this in.
+
+[556:40] information. It will lend to medical decision making complexity and the overall code can be affected by that. All right. Same thing with fluids. You want to know the correct format. In case you have to free text that, it can be name total volume.
+
+[557:00] they're giving route and rate. If it's being controlled given at a specific rate over time, we say that. If it is not being controlled, they generally call that bolus. Sometimes you'll hear them say running wide open.
+
+[557:20] With fluids, by the way, when we capture them, we usually say why they're giving it. It's a hospital initiative. So if it's for dehydration, we say for dehydration. If it's for volume depletion, we'll say that. If you're not sure.
+
+[557:40] or while they're giving it, you can ask the clinician. All right, do you have any questions about the medications or the fluids? Do you put in time for meds in the chart sometimes?
+
+[558:00] If they want you to specifically say when something was given, they will tell you. If it's a critical case and you're in the room, you can absolutely timestamp. We're going to talk about timestamping with reassessments too. Sometimes they order repeat EKGs and they want to...
+
+[558:20] when that was done and when they spoke to the cardiologist and stuff like that. So yeah, you can time stamp stuff. Usually it's at their direction. And then... Did I answer your question already?
+
+[558:40] I think that was a question before regarding the external records, but yeah. Okay. Yeah, we're free texting. Yep. Are orders only input from the collision? Yes. That is true. Only the ED docs and APPs enter orders.
+
+[559:00] you will be able to see those orders. The fluids also automatically, yes. With the dot edimeds, yeah, the fluids will populate as well.
+
+[559:20] Okay. Yeah. If there's like a code or something and they're giving lots of meds at once and it's like time-specific like this med and then they have to give another one like three minutes later or something. Do we just like should we track all of the time and
+
+[559:40] and everything, even if they don't tell us or something. Yeah, if you're in for a critical case like that and they're giving like Epi and atropine and they're doing CPR and stuff, we usually do capture the time that that's happening. There is like nursing staff also has their own documentation and...
+
+[560:00] someone will capture the steps of the code in times, but yeah, you should also do that for the note. Okay, sounds good. Thanks. Mm-hmm. Okay, let's talk about reassessments and then we'll take lunch.
+
+[560:20] So right here you have this on reassessment, patient link. Sometimes there are brackets within the text you can tab into these and it's just giving you an idea of like what to put here. So it says a physical exam finding, patient improved.
+
+[560:40] Whatever the clinician tells you, this is something that you're going to have to get from them. A lot of this stuff, you know, we just talked about you're getting through the system or it's populating, but a reassessment, you have to ask them for that. The worst thing for a clinician is to open a...
+
+[561:00] note and the patient's been discharged and we have left all this stuff blank. So make sure that you're filling everything out to completion. Reassessments are also referred to as re-evaluations and sometimes re-examinations. So they use all those interchie-
+
+[561:20] changeably. You might hear them say, I re-valuated this patient. I just want you to know it's the same thing as reassessment you could use that. This can be moved around by the way, like I said before, this order of information, it's not set in stone. It's just the typical way things
+
+[561:40] go personally, I find that the clinicians do this first. Review labs and imaging, decide what they're going to do next, and then they go in and talk to the patient, reassess them, discuss the results and what the plan is.
+
+[562:00] So I find that, you know, when I work, this is done first and then you get a reassessment. So again, you can move stuff around. Let me go back to the manual.
+
+[562:20] So what can you capture for a reassessment? It can be subjective information from the patient. It can be objective information from the clinician. It can be both, but typically it is going to lead to more medical decision making. If you think about a patient who is feeling
+
+[562:40] feeling better, has improved, pain resolved, tetheric resolved, whatever it might be, they're probably going home. If it's someone who is continuing to have symptoms or new symptoms have started or they haven't improved, then they're probably going to be admitted.
+
+[563:00] or more tests will be ordered. So this information does lead to more medical decision making. You will have more reassessments depending on how complex the case is. So maybe they initially give some fluids to hydrate the patient. And then they reassess...
+
+[563:20] them and now the patient is feeling nauseated, they're vomiting and they're going to order some zofran at this point. Later on they'll probably do another reassessment to see if the nausea has resolved. Are they feeling better? Are they able to tolerate PO? Are they
+
+[563:40] patient home at that point. So you can add more, you can add more reassessments, re-evaluations, re-examinations. Repeat vital signs can go here. So one of the things that we do is look at initial vital signs. If someone...
+
+[564:00] tack a cardic initially. I'm gonna actually go to this spot in the reassessment and I'll put a reminder for myself in here. I'll say repeat heart rate and I'll put a little like you know.
+
+[564:20] wild card for later on. So this will help me to remember that I need to look for vital signs later. If I can't find a repeat set of vital signs I'm gonna go to the doctor, APP and say, hey that patient that you're sending home was tachycardic.
+
+[564:40] at one 10 or whatever initially, and there aren't any repeat vital signs documenting a normal heart rate. You know, maybe they did this at the bedside when they went in to reassess them, maybe they wanna order it and have it through the system, so it's recorded, but that's something that I would bring to there.
+
+[565:00] attention. So this is something that eventually you want to work your way up to once you get comfortable with like documentation. Don't forget about these little things here. What else? This is
+
+[565:20] true you absolutely need to be aware of when it's time to get a re-evaluation or a re-assessment. It's usually about an hour after they see the patient or medicate the patient, but you're working in an ED so it's going to vary 45 minutes could be less time, could be more time, but there are things to look
+
+[565:40] out for if you see new medications ordered or new tests ordered. That tells you something has happened, something has changed with the patient, you need to get an update. If you see they have now selected discharge or admission or they're putting a call out to that patient's doctor or specialist.
+
+[566:00] There's more information to add. If you see them go back in the room, you know they saw that patient already. They just looked at the results, asked them about the reassessment when they come back. And the reassessment that you enter should be relevant.
+
+[566:20] Now, what we've talked about so far is them telling you a reassessment, but sometimes they come back and they're like, you know, I'm discharging the patient, the reassessment's normal, just put in one of my smart phrases. So on site, the scribes share a lot of different...
+
+[566:40] different smart phrases and re-evaluations are one of them. And what the clinicians were seeing happening is the scribe would put in something for, let's say like a respiratory complaint, instead of putting in like
+
+[567:00] repeat lung exam, no wheezing, no rails, no wrong guy, they would put in like a repeat abdominal exam. So just make sure that it's relevant to why the patient came in. It should fit. If it's something neurological, you should have a repeat neural. That makes sense, right?
+
+[567:20] Okay, Rinsha. So I was going to ask, like, is that why you said, like, to know about the normal levels comparatively to like what's abnormal, even for adults and for children. So we know in the reassessment, which we should like have a keep an eye on.
+
+[567:40] You know, like a heart rate or a beep or a respiratory rate or anything. Yeah, exactly. That's the next level of scribing, I guess you could say. Like, when you're comfortable with all the documentation, like these are the things you want to watch out for. I'm normal vital science. Epic does flag them for you. They'll make them red. They'll be like an exclamation.
+
+[568:00] But yes, it is a good idea for you to know like what's normal, what's abnormal. So you can keep track of that. If I know someone's tachycardic and hypertensive, that also tells me that's probably critical care. And one of our responsibilities is to capture critical care services when they're providing.
+
+[568:20] So. Good question. Thank you. Yeah. Just to kind of finish up, you can time stamp reassessments. There's an example in here. We'll talk about labs and images.
+
+[568:40] reviewed in discussion next but do you have any questions about the reassessments otherwise? Where do you put in the chart when patient oh we're going to talk about that that's the plan section
+
+[569:00] All right. I'm going to have you guys come back at 1240. I want to try and push through the material so we can start our notes in the afternoon. If you can't get into epic, please make sure you call it at lunch. We're going to have some afternoon notes to do. All right. I'll see you.
+
+[569:20] Is the working, covenizer working? Can you hear me? I actually can hear me, covenizer. We just set out the business phone and worry about going to medical cells. Everything is just a node. Once you get a node right, everything works out. You understand? So...
+
+[569:40] Yeah.
+
+[570:00] [silence]
+
+[570:20] [silence]
+
+[570:40] [silence]
+
+[571:00] [silence]
+
+[571:20] [silence]
+
+[571:40] [silence]
+
+[572:00] [silence]
+
+[572:20] [silence]
+
+[572:40] [silence]
+
+[573:00] [silence]
+
+[573:20] [silence]
+
+[573:40] [silence]
+
+[574:00] [silence]
+
+[574:20] [silence]
+
+[574:40] [silence]
+
+[575:00] [silence]
+
+[575:20] [silence]
+
+[575:40] [silence]
+
+[576:00] [silence]
+
+[576:20] [silence]
+
+[576:40] [silence]
+
+[577:00] [silence]
+
+[577:20] [silence]
+
+[577:40] [silence]
+
+[578:00] [silence]
+
+[578:20] [silence]
+
+[578:40] [silence]
+
+[579:00] [silence]
+
+[579:20] [silence]
+
+[579:40] [silence]
+
+[580:00] [silence]
+
+[580:20] [silence]
+
+[580:40] [silence]
+
+[581:00] [silence]
+
+[581:20] [silence]
+
+[581:40] [silence]
+
+[582:00] [silence]
+
+[582:20] [silence]
+
+[582:40] [silence]
+
+[583:00] [silence]
+
+[583:20] [silence]
+
+[583:40] [silence]
+
+[584:00] [silence]
+
+[584:20] [silence]
+
+[584:40] [silence]
+
+[585:00] [silence]
+
+[585:20] [silence]
+
+[585:40] [silence]
+
+[586:00] [silence]
+
+[586:20] [silence]
+
+[586:40] [silence]
+
+[587:00] [silence]
+
+[587:20] [silence]
+
+[587:40] [silence]
+
+[588:00] [silence]
+
+[588:20] [silence]
+
+[588:40] [silence]
+
+[589:00] [silence]
+
+[589:20] [silence]
+
+[589:40] [silence]
+
+[590:00] [silence]
+
+[590:20] [silence]
+
+[590:40] [silence]
+
+[591:00] [silence]
+
+[591:20] [silence]
+
+[591:40] [silence]
+
+[592:00] [silence]
+
+[592:20] [silence]
+
+[592:40] [silence]
+
+[593:00] [silence]
+
+[593:20] [silence]
+
+[593:40] [silence]
+
+[594:00] [silence]
+
+[594:20] [silence]
+
+[594:40] [silence]
+
+[595:00] [silence]
+
+[595:20] [silence]
+
+[595:40] [silence]
+
+[596:00] [silence]
+
+[596:20] [silence]
+
+[596:40] [silence]
+
+[597:00] [silence]
+
+[597:20] [silence]
+
+[597:40] 
+
+[598:00] [silence]
+
+[598:20] [silence]
+
+[598:40] [silence]
+
+[599:00] So, starting you know I was able to get a tap back. It's fine, Molly. Yay! Okay. Good.
+
+[599:20] [silence]
+
+[599:40] [silence]
+
+[600:00] [silence]
+
+[600:20] 
+
+[600:40] [silence]
+
+[601:00] [silence]
+
+[601:20] [silence]
+
+[601:40] [silence]
+
+[602:00] [silence]
+
+[602:20] [silence]
+
+[602:40] Thank you. Thank you for telling me. Okay. So what I was saying is that I gave you guys this document yesterday. This is our template structure and documentation tips. So this is a great reference. It's a great...
+
+[603:00] down on everything. It has little tips on the side to tell you, like, you know, what different links are and things like that. This is a diagnostic section tells you about like capturing the rhythm strip and the prop dock. Talks about the wet read and stuff like that. So it's a great reference. Some of the templates also have...
+
+[603:20] a drop down smart list for EKG. So if it's like a case where maybe they'd order an EKG, maybe not, it gives you a choice and you can drop in that EKG text information or if you choose like ED, no EKG, it basically just doesn't.
+
+[603:40] we eat it from the template. But we're kind of talking about this section going into the EDM-DM narrative and the options there. So I have Epic open. So I'm going to continue here. So we talked about.
+
+[604:00] reassessment last and then we're going to move on to Lebs Imaging Reviewed which is pretty straightforward. Honestly if they want to discuss any of the results and talk about more medical decision making this is the spot to do it there's a prompt built in to the template.
+
+[604:20] so you can capture something. Sometimes they just say they're unremarkable and they don't have anything that they want to comment on. If they specifically say they're unremarkable, you would type that in. But if they want to say, you know, the chest x-ray shows a pneumonia, I'm ordering a dose of...
+
+[604:40] antibiotics for this patient, then you're going to fill in that information. So does say document pertinent results begin MDM narrative. So again, it's just like more medical decision making can be added here along with a discussion about results. I see a lot of people get confused with what...
+
+[605:00] goes here and what goes in the diagnostic section. So just keep in mind this section right under EDCorson MDM. This is where we report results, interpretations. No sentences go here.
+
+[605:20] here, there's no discussion about results here. If they're going to talk about the results and kind of summarize things, that's typically going in labs imaging review line. This is where the discussion goes. Same thing as I said for reassessment.
+
+[605:40] you can have more than one labs imaging review line, you can move it around. Wherever it is appropriate in the timeline of events.
+
+[606:00] So, the next prompt is going to be case discussed with and it gives you some suggestions again. Another doctor, an APP, nurse practitioner, social worker, case management, the lab, any healthcare
+
+[606:20] that they have a discussion with about this patient's care would be captured here. I'm not talking about like, you know, let's say you have two ED docs sitting next to each other and they're talking about a case and going back and forth. Talking about like a professional consultation with a specialist.
+
+[606:40] So, if Dr. Nelson gets on the line with the radiologist and says, I think this patient might have XYZ. Would you recommend that I order a CT with contrast or can I get a CT without contrast? Would an ultrasound be more appropriate?
+
+[607:00] Should I order an MRI? They can get advice from specialists, other healthcare providers, and that's what we would cap here here. The reason it's built into the template is from a coding billing standpoint. I mean, it's just good documentation.
+
+[607:20] It's good practice and everything for the patient's care and capturing all that information but they specifically built it into the template because it is one of those key documentation points. When they capture a discussion with another qualified healthcare provider, they get
+
+[607:40] credit for medical complexity. Medical complexity. So if you're going through like they're giving you an update, if they're giving you an update and they don't mention anything about a discussion and you don't see any phone calls in the orders to...
+
+[608:00] other providers. I would ask them, did you have a discussion with anyone? This is something that we absolutely want to capture. Do you have any questions about discussions?
+
+[608:20] Right, professional consult specifically like if it's the ED, APP or nurse practitioner know they wouldn't capture that here. The reverse is true though. If an APP consults the attending and pulls the attending in to manage a case.
+
+[608:40] then they usually do mention something like that. But we're generally, we're talking about like other specialties. I also want to point out that you should always use this for a beach. So if for some reason this is not here and you have to capture a discussion.
+
+[609:00] We start with case discussed with that specific verbiage is what the coding and billing team is looking for. Let's see. By the way.
+
+[609:20] It's not enough to say case discussed with Dr. Raj. You have to capture substance of conversation. What did they have a conversation about? Dr. Raj is requesting a repeat your opponent to be ordered in four hours.
+
+[609:40] pretty much a given for any patient who's admitted or transferred because they have to have a discussion with someone who is going to accept care of that patient going forward. So if you know they were admitted or you know they are being transferred to another facility, you shouldn't ask them.
+
+[610:00] who they spoke to about that patient. Those of you that have an RDEU, Rapid Decision Unit, or it's also known as the Adult Observation Unit, this is also a given. The ED will have a discussion with RDEU when they send the patient.
+
+[610:20] over. So ED patients going to the RGU should include case discussed with the RGU clinician. If you are the RGU scribe in the note for RGU, you're going to say the reverse case discussed with the ED clinician and then they might include some like details about
+
+[610:40] concerns what they're ordering those types of things. OK. I'm just looking.
+
+[611:00] looking through. So Steven, for the smart text, if you look at that template structure, some of them are built in, not built in. Some of them are dot phrases you have to add.
+
+[611:20] So I'm going to go up on this document a little bit. Let's see. So for example, if you need to pull in like the medical history link, it's .pmhv. surgicalis.pshp. If it's some
+
+[611:40] in the MDM, you're generally going to have to either search for it or with time you'll know what the dot phrases if you want to pull something in medications, if you want to pull in the medications, that's going to be dot ed meds, for example. But the rest of this is all text that's built in.
+
+[612:00] to the workflow that you choose, like if you choose regular. What else did I see in here? Conversation with a nurse. Yeah, so those are like other discussions, not case discussed with. If it's just...
+
+[612:20] Like they're talking to the ED nurse about what's going on with the patient and they feel it's relevant. You can include it. It would go in the MDM section, but it's not necessarily going to count towards a discussion with a qualified healthcare provider. This is really like outside the emergency.
+
+[612:40] department case discussed with. Yes, I do have a document that has a list of dot phrases and we have a document that has the templates.
+
+[613:00] I usually give that out to you around when you go for epic training. So I will send that to you either today or I'll send that to you on Tuesday. There's some like epic content.
+
+[613:20] There are other discussions that happen. If it's a discussion with the family, if they're talking to the patient and there's something they want to capture, again, it's not going to be case discussed with. It's just a separate, you know, free text paragraph. There is, I think there's a...
+
+[613:40] example below this. Yeah. So in this example, the patient has a Glasgow colma scale of less than 15, making it necessary to discuss pharmacological treatment with the family and then they said family does not want this medication to be administered. So if anything like this happens.
+
+[614:00] It's just adding free texting and other paragraph. This particular MDM, the Chess Pain MDM, has this Chess Pain Criteria smart list. So this first one.
+
+[614:20] It's a decision tree they call it. So this is where they talk about if they considered observing or admitting the patient. And then if let's say that our patient had an ST elevation MI, you would change that negative to a positive.
+
+[614:40] or maybe they're discharging them home. All of these are negative. They have a diagnosis of, I don't know, pericarditis. So although it says in mission observation, it can be used in...
+
+[615:00] if they are going to discharge the patient. There's a discharge option, but it drops in some text. So if they want you to use that, they'll tell you. What else?
+
+[615:20] Do you have any questions about the discussion otherwise? Some other things that can go in here before we go to like prescription management and kind of the end.
+
+[615:40] If they counsel a patient, you can add that information in. Again, that's like a discussion that they're having with the patient. They'll tell you, I spoke with the patient. I told them that they need to stop drinking or stop using drugs or whatever the case may be. There's any kind of counseling like that.
+
+[616:00] They'll tell you what they want you to put in the note. That's a little bit about counseling, for example, smoking cessation, seeing critical care. Are there other workflows we're going to talk about next week? I did talk about, we spoke about
+
+[616:20] like restraints yesterday. Just keep in mind if we do have to document restraints that you're going to add that face-to-face note, which I'm going to send you a workflow for. That is something new, so it's not on my regular agenda.
+
+[616:40] Making myself a note so I can send that to you. What else? Restrains turn over. So yes, there are situations where your clinician that you're working with goes home in the middle of your shift and someone else comes.
+
+[617:00] in any active patient that they have has to be turned over to the oncoming physician or APP, the supplies for the APPs as well. So with turnovers there is some information that we have to include. We input the turnover smart phrases. There are two. There's one
+
+[617:20] where let's say the morning physician turns the case over to the afternoon physician. This is what it looks like. They say who they're endorsing the case to. And then there's a turnover received. And that is the
+
+[617:40] afternoon physician now saying I received the care from the morning physician. So they start documentation. Why do we do this? It's because the first physician, the one that's going home does not sign the chart. We have one continuous chart per patient and patient.
+
+[618:00] counter, even if it crosses midnight and goes into calendar day two. So we're continuing to document until disposition, till they're admitted or discharged. So Dr. Nelson in the morning is not signing the chart so that the
+
+[618:20] Next doctor can't document. We keep the chart open, we put in the turnover smart freezes. The next doctor continues to document on that same physician note. They have to have required documentation in there though. These smart free...
+
+[618:40] by the way. .ED turnover takes you to endorsed and rec. So I'm going to put in endorsed. That's the one you do first. Case endorsed too. Let's say it's Dr. Giles in the
+
+[619:00] afternoon pertinent history physical exam lab data reviewed signed by let's say it's Dr. Nelson in the morning. Dr. Nelson, date and time stamp. This is his what we call an identifier. This ends his documentation.
+
+[619:20] Sometimes we'll put a little like page break here and then I would drop in .ed turnover receive. Again at time stamp set this is where dr
+
+[619:40] would start his documentation. He's saying he received the patient from the previous physician, Dr. Nelson. I can curve with prior findings if he wants to add any details here. He can data reviewed patient disposition arranged as noted.
+
+[620:00] continue his documentation until disposition. Once Dr. Nelson puts this identifier at this point, that means everything above all this documentation above it belongs to him.
+
+[620:20] It's the work that he did, the medical decision making he performed. And then everything from this point below belongs to Dr. Giles. We actually put a scribe smart phrase for Dr. Nelson within the narrative here. And then at the...
+
+[620:40] and you'll again capture your scribe's mark freeze, but for Dr. Giles. Any questions about turnovers? We're gonna practice, we'll have a case with a turnover, so you get to practice using it.
+
+[621:00] [silence]
+
+[621:20] talk about plan in a little bit, all this stuff in a little bit. There's a little about attestations. Just some general information about the procedures which you know we already saw where it goes in the note writer. The things that you're
+
+[621:40] typically capturing include performing clinician, the name and type of procedure that's being performed, that's captured through the system. The only time you have to change it is if you choose general because what drops here in this little red box is general. So you do want to rename it to the
+
+[622:00] procedure it is. Pretty much every case that where they do a procedure gets a time out for patient verification. So this is where they stop and they make sure, you know, what's your name? Let me see your wristband. This is the procedure we're doing. This is
+
+[622:20] the site we're doing it on, so on and so forth. And then it will include details of the procedure like location complexity, material that they use if time applies, medications that they administered, things like that. And you'll also see success of the procedure.
+
+[622:40] at the end. They typically say like tolerated well or if it was unsuccessful or if it had to be stopped, you know, maybe the patient said stop or something happened. The coding manual has more information about the procedures.
+
+[623:00] with screenshots from epic. So, and of course, I mentioned, you know, the procedures are gonna come up here. That's because that's the location of the smart block. So, in the note, sometimes we'll say, glass or Asian repair.
+
+[623:20] performed, C, prock doc for details. It's just like a placeholder to explain what's happening. If this is a timeline of events, they'll capture what they're doing at some point. Like, let's say they decide to intubate a patient or place...
+
+[623:40] the patient on a bypass or something like that, they're going to see how they're doing. They would want to say that and kind of capture that in the timeline of events. And by the way, sometimes in things like reassessments or even labs and imaging, we'll say things are pending. So pending, tripona.
+
+[624:00] at this time. This is a placeholder. Like they're saying, I don't have all the answers right now. So we're waiting for this test result before I can make a final decision about disposition. That does not mean when the tripol...
+
+[624:20] results that we would remove this. Later on we would say, you know, triponing, triponing, resulted, and is normal, will discharge patient. Something along those lines. You would keep this here even when it comes
+
+[624:40] back. Everything is like a time stamp in the event that's occurring throughout their stay even if it doesn't have a time stamp. What else?
+
+[625:00] I think that's it from the manual as far as what goes here. We talked about chest pain criteria. That's in that particular MDM. I do want to talk a little bit more about this. This is in on. Exactly.
+
+[625:20] all the updated MDM smart list. Disposition care of the patient included a discussion of admission hospital stay versus outpatient management. Basically, they're explaining medical decision making here. I am thinking about discharging the patient.
+
+[625:40] patient home, but I considered admitting them. I considered observing them. It's not warranted. I had a discussion with the patient. The patient's agreeable. You know, we're going to decide to do XYZ. That's basically what this captures. Based on the patient's clinical course results on tests.
+
+[626:00] response to treatment shared decision making arrangements made for and then there's a drop down. So it's admission to the hospital, transfer to an obs unit, discharge or you can free text. Get thrown in the wild card and just free text it. Really this should be in all of
+
+[626:20] our notes. That's why using these updated MDM smart phrases, smart lists are the best thing to do. We're going to talk about why this is important when we get to coding and billing stuff. All right, any questions before I go to prescription?
+
+[626:40] management. Alright, I think I already talked a little bit about this, but if they prescribe something through the system, you do not have to type anything here. It is actually going to pull in.
+
+[627:00] It's going to pull in the, I don't think this is the right. I'm not sure what this smart link is for. There is a prescription smart link.
+
+[627:20] I will pull in any prescriptions. I'm going to have to clarify this with MAT. MDM and it might be embedded in this code here, the MDM end. But prescriptions will pull into the note if they're given through the system, which is pretty much the case.
+
+[627:40] they don't really write prescriptions. Just keep in mind that if you get a patient that didn't receive any ED medications or prescriptions to go home with, that is when you want to ask them. Is there...
+
+[628:00] anything I should put for prescription management. That's where I considered giving antibiotics. However, this is likely viral in nature comes in. It is about capturing their thought process. Even if they're not doing something like this, if they considered it...
+
+[628:20] They have to get it down, let's say, on paper. That contributes to a more complex medical decision making. Do you have any questions about prescription management?
+
+[628:40] Okay. I don't think there's much for clinical impression. You guys have seen this. They have a tip that says document clinical impression. This pulls in the diagnoses that they choose.
+
+[629:00] The only thing you have to watch out for is if you're in the note and let's say while you're in the note they're working on discharge instructions and they put in the diagnosis at that point you would have to hit refresh smart link for it to...
+
+[629:20] pull in. But like when they open the note later to review it, it will it will do it automatically. We don't really free text in anything here. They're going to do that through the system. It will pull in through the smart link.
+
+[629:40] And then I think that just takes us to my favorite smart list, which is for the plan section. So we're going to go through each of these. You guys saw a discharge already.
+
+[630:00] The only thing for that one I want to know is of course if you know that it's a parent, mom, or if it's a patient who has dementia or something like that, nonverbal, just make sure you choose the appropriate option for this.
+
+[630:20] And then the follow up arranged by, you're going to use me when our ED Docker APP gets on the phone with someone or yeah basically gets on the phone with someone in arranges an appointment. So we saw that with the burn case.
+
+[630:40] If they call a specialist because someone has a fracture and the specialist, the orthopedist says, send them to my office. I want to see them. They've arranged a follow-up. If they tell them, you know, tell the patient to come in tomorrow at one o'clock. They've arranged a follow-up. So that's when you'll use a ranged by me.
+
+[631:00] Otherwise, you know, for the most part, it's going to be them telling the patient you've got to follow up with your primary. You've got to follow up with this referral. And then this smart link right here, follow up, pulls in all the data for who they referred.
+
+[631:20] them too. So for training, we're just going to free text that information just so you could see some examples of follow-up.
+
+[631:40] I guess it's new first Christians. Let's start. There was a different link that they were using for prescriptions, but maybe this is an update.
+
+[632:00] one. Okay. So that was discharge. There's an admission one which you're going to learn a little bit more about in an asynchronous assignment. Choosing admission drops in that statement, but it also...
+
+[632:20] include something called a two-minute-night rule, two-minute-and-mission rule. Basically, when they admit a patient, they have to explain why they feel it's appropriate and necessary for that patient. So, there are brackets within this two-minute-night rule that have to be filled.
+
+[632:40] out. This is where you put the diagnosis. The next one is what they are concerned about. So again, reasoning for admitting the patient. This you can't get on your own. You're going to have to ask them, what is your concern? What should I put for this? And then this...
+
+[633:00] There's need for treatment, antibiotics, surgery, whatever it might be, continued monitoring. So you have to fill that out as well. We do not want to be the reason someone gets denied admission. So please make sure that you tab through this and fill out every single...
+
+[633:20] section. There are three to fill out. Don't leave this blank or delete what's in the bracket. There has to be justification or explanation for admission.
+
+[633:40] Okay, there's a transfer option. This one has more choices. Burn, cardiac, cardiovascular surgery, pedes, obstetrics. There are many options in here. You choose whatever is appropriate. Let's say that it's um...
+
+[634:00] I think this is psych. Yeah. So let's say that there's no psychiatric service at the hospital that they're in, and they have to be transferred to another hospital. You would basically choose that. This is generally what...
+
+[634:20] they all look like, but they have some details in about why they're transferring the patient, and then they have some wild cards to add details. So you drop that in, you ask the clinician what they want you to put, fill this out, just in FYI, they have...
+
+[634:40] to capture who they spoke to for the receiving position at that facility for a transfer. Do you have any questions about transfers? Okay. Those of you that haven't already...
+
+[635:00] there's an option to choose that. So we didn't talk about Rdu too much. Basically, you know, we said it's an observation unit. I know how to mention it a little bit yesterday. Many of your sites have it. You'll find out very quickly if you have an Rdu because you're going to be...
+
+[635:20] set up to train in that area. It is another area of the ED, but it's run a little bit differently. RGU has separate RGU providers over there. It's emergency medicine. There's a little internal medicine.
+
+[635:40] over there as well. Basically, if your site has an RDEU and let's say a patient comes in with abdominal pain and they're like, you know what? I'm not sure what's going on with this patient. I have to order some tests. They're in a lot of pain. I'm gonna order some morphine.
+
+[636:00] They need to be hydrated. They're going to be here for a couple hours until we figure out what's going on. They can place the patient in RDU in this observation unit. So we would create an ED note. We would choose this option in plan. Patient is placing an observer.
+
+[636:20] reservation to whatever further work up, CT, more meds, reassessments, things like that. So basically, it would be like a quick note for you and then if they order tests.
+
+[636:40] RDEU is going to wait for the results. The patient is going to get transferred over to the RDEU. Our note will end and then an RDEU note is started. It's a new encounter. So the RDEU APP or DOC will see the results.
+
+[637:00] the patient until the RDU scribe and they will create an RDU chart. RDU is observation so that's the workflow that you would be choosing over there. The notes are a little bit different basically in this section. The beginning of the note is pretty much the same.
+
+[637:20] The HPI does say RDEU transferred from ED to RDEU, but like the ROS, the medical history section, the physical exam, it's pretty much the same setup. It's just the MDM is a little bit different. It is more detailed.
+
+[637:40] It's more detail, like I said, there's little internal medicine there as well. They manage daily medications, the patients on. They can call specialists to come in and see the patient. They can send patients for different tests they wouldn't do in the ED, like stress test, nuclear stress test.
+
+[638:00] ERCP and different things like that and the patients tend to stay for, you know, they could stay essentially like two, three days sometimes in the RDEU Observation Unit. They're not an admission at that point. Okay. That one's observed.
+
+[638:20] That's what you're gonna use if they're going to an RDEU. If your site doesn't have an RDEU, you're not really gonna use this one This one's AMA So if they're leaving against medical advice You input this in the plan section There are two different
+
+[638:40] This one's refusing tests, this one's refusing treatment. Just drop that in. They decline diagnostic, whatever the test is. Captures all the verbiage. They can add details if they want to. This one says they declined to have further medical evaluation.
+
+[639:00] treatment and they wish to leave the emergency department. So this is generally the one like if they don't want to be admitted to the hospital, they want to be discharged home and they're refusing admission, you use this one. The other one is for testing, refusing a CT, refusing an X-ray.
+
+[639:20] And then the last one is for allopement. It's just a quick statement. Allopement is when a patient comes in, they've been seen evaluated, likely ordered test on that patient, and then someone goes in the room, let's say the nurse.
+
+[639:40] goes into draw labs and the patient's not there. They didn't tell anyone they were leaving, they walked out of the emergency department without notifying anyone. That is an allotment from the hospital. Usually we won't have all this documentation. They'll probably
+
+[640:00] have you say XYZ was ordered however patient aloect. I think that's it for elopement. Do you have any questions about that or AMA? Okay.
+
+[640:20] There's one more thing. Don't know where it is. Okay, here it is. Elwab. There are also Elwabs left without being seen. These are the patients that let's say come into the waiting room, sign in. They might even be registered.
+
+[640:40] They're waiting for a bed to open up so they can go into the emergency department and be seen and I don't know they Maybe it's a long wait time they get frustrated and they walk out they leave We call them L. Wabs for that reason, but
+
+[641:00] from the standpoint of the clinician, they never saw the patient. They did not have a conversation with the patient, they did not examine the patient, there's no orders in the system, so we aren't going to create a chart. There's really nothing for us to do in that regard. I just want you to be aware of what...
+
+[641:20] Elwabs are because they may show up in the system. Usually the nurse will then assign them as an Elwab and they'll leave the track board. During the very busy season, during winter, our respiratory infections, and viral illnesses and stuff like that going on.
+
+[641:40] They will put a pit doc or app in triage. Pit is provider in triage. So they will actually have someone stationed in triage to do what they call a medical screening exam.
+
+[642:00] Um, we do have an MSC medical screening exam template. But well, let me show you that first. Hello.
+
+[642:20] So, this is what it looks like. It does have like a full note here, but the MSC is really this part at the beginning. This is also a dot phrase that you could very easily pull into any note. It says medical screening exam initiated by me. So let's say they put a P.A.
+
+[642:40] in triage. The patient comes to get triaged. The PA is there, you know, ask them what's going on, can do like a quick exam, listen to their lungs, things like that, press on their belly. They could do a focused physical exam, maybe...
+
+[643:00] They're completing a sore throat, and they look at their throat and they check their ears. You can add in why they're coming in. A lot of times, by the way, the pit-docker APP will do this themselves, and then we'll do the rest of the note. But they put in why they're coming in. They put in their focused exam. They put in their focus.
+
+[643:20] hemodynamically stable pending further EDE evaluation, initial care plan orders placed. So this goes at the beginning of the note. Once the patient comes back to the emergency department into a room, they are seen by a different ED clinician who then has a scrived document of full note.
+
+[643:40] The great thing about this is it prevents L-wabs and it can start the process. So sometimes they can do like the rapid strep for, you know, like, you're in dip or something like that. They can give very straightforward PO meds like a dose of Tylenol.
+
+[644:00] something like that. They can order a couple things and then when they come back into the room, they have some answers already. They already have some results. But then they can do a more thorough exam when they're in an emergency department like in one of the beds. So...
+
+[644:20] That's MSc. Okay, it's .edmse. So .edmse pulls in.
+
+[644:40] [silence]
+
+[645:00] [silence]
+
+[645:20] [silence]
+
+[645:40] Okay. This document, the template structure document also has things like some banners that come up in the system. We're going to talk about MIPS measures next week, but that's an example of how they show up. This is what...
+
+[646:00] the sepsis alert looks like. There is something on your track board. There is a sepsis column. If it's not there, you can add it. And when...
+
+[646:20] When the sun shows up, there's a little like sun that will show up. Olivia is going to talk to us about this, but that's when the sepsis alert goes off. And there's also a banner that says sepsis criteria met. This is a clinician function.
+
+[646:40] address it, but I just want you to be aware if this pops up, that means the patient may be septic, and then we have to put in that specific documentation for it. I think that's everything, and then it just goes into your scratch.
+
+[647:00] attestation. I'm sending you an education piece over the weekend to look at for what we call split shared services which is when an APP is involved in the case. When you're scribing for a doc and an APP you always need your scribes.
+
+[647:20] smart freeze. That dot ed scribe is always going to be the first thing you enter. If the PA gave you the note or the NP gave you the note, you put their name. The doctor gave you the note, you put their name. If it's a doctor, then you just need one attestation. You need them.
+
+[647:40] to a test to the work that you did. If it's an APP, you need two. You need the APP to test your work and then you need the doctor to a test to the APP's work. So you need two for that.
+
+[648:00] So we always use this one. I know it says attending a test station for scribes, but we use this for the dock and the APPs to a test to our work.
+
+[648:20] This one's a resident attestation if you're going to a resident site like a site with resident you'll use this But these are the two for when you scribe for an APP APP alone is when the APP manages the case on their own
+
+[648:40] The physician is not involved. All they do is at the end, they look at everything and they sign the chart. The last one which says MDM, this is when the physician is involved in the case. It says I, the physician, perform substantive MDM approval.
+
+[649:00] of the orders, discuss the patient's condition, blah, blah, blah. So it's over. It is very important that you choose the correct attestation when an APP is involved, because this affects reimbursement. So we want to make sure that we're capturing it correctly. That depends on where your work is.
+
+[649:20] working and what the workflow is. You're working in a low-acuity area that's run by the APPs. Pretty much you're going to use a loan. They manage those cases on their own. If they do have a case and they want to go talk to the ED attending, they'll come back and they'll say, hey, put in...
+
+[649:40] note that I spoke to Dr. Nelson about this patient. You know, he feels it's appropriate that we order a CT to rule out and abscess. Once you hear them say that to you that they had a discussion with the ED attending, it's
+
+[650:00] that means Dr. Nelson's involved in the case, an SVM DM. If you're not sure which attestation to use, make sure that you ask them. We do input the attestations for everyone. This is part of our workflow so that it doesn't get missed. But you do have to be careful because...
+
+[650:20] because if it's stamping your name, you have to change it to their name. They review everything in the end. All right. Do you have any questions about anything that we...
+
+[650:40] discussed today so far. I'm looking at the chat. What about refusing a medication? They can say that to, you know, like, considered giving this, considered giving percassette, the patient refused.
+
+[651:00] this medication or something was ordered however the patient refused it wasn't given. Alright so we just have to talk about the coding stuff.
+
+[651:20] [silence]
+
+[651:40] [silence]
+
+[652:00] Okay, so you have
+
+[652:20] copy of this coding manual, you know, basically after they sign off on the chart, that's when the coding and billing team looks at the chart and determines the appropriate code so that they can build a patient.
+
+[652:40] or build their patients insurance. Keep in mind that if we are missing information or have incorrect information, that can have an impact on the coding and billing decision. If things are missing, if there are errors, then that can delay the bill.
+
+[653:00] process and there is a time frame in which they have to send this to the patient or insurance companies, let's say. So that can equal a loss of revenue if it's not being built for and the services were provided.
+
+[653:20] And the coding team, they are not, you know, clinically trained. They can't infer anything. That's why we have to be very clear with the information that we input because this is solely what they use. They don't go through Epic and search for things. Everything has to be basically spelled.
+
+[653:40] out that is also why you need to use the RWJ templates because that is what they are educated on and how to find information in our charts. That's why we talked about case discuss with different phrasing. That's why we have those like prompts in there.
+
+[654:00] So just keep that in mind when you are going through the charting for these patients. They say services are billable if there is medical necessity, if they were provided, and if it was documented. I mentioned this that the history section has no-
+
+[654:20] true impact on the coding that is decided. However, there's one thing to note, and that is when we talk about the external historian. If we are capturing someone else providing history, that does count. I will show you that on the coding document.
+
+[654:40] that does count. It's just that the amount of information and the content there doesn't really have an impact on the code. Same thing with physical exam. That portion of the note has no true impact on the code that they decide.
+
+[655:00] That leaves medical decision making. We say that's the driving force behind the code that they place in the chart. It's all MDM. That has to do with the diagnostics they interpret. It has to do with the medications that they give, the discussions that they have, prescriptions, disposition care.
+
+[655:20] there's so much involved with it, but we need to have a really good narrative, a really good MDM section so that there is no loss of revenue or delays in billing. And before we talk about this in more detail, I want you to understand that we would never embellish.
+
+[655:40] We would never falsify information. Anything like that for the sake of having, let's say, let's call it a higher code, a higher level. That's not what this is about. It's about capturing the care that was provided and getting it into the note. And if you're... That's why you have to have good...
+
+[656:00] communication with them and understand what we're looking for because if you're not asking them for it, they're probably not going to tell you about it because they're doing so many things. They expect that we know what we have to get in the note and we ask them for information. That's the expected
+
+[656:20] honestly this document the template structure document is the newest thing that we've created and this lays everything out Not just what's built into the templates that we created and The dot phrases and the smart links and all that stuff, but it also has all of the coding
+
+[656:40] tips, all of the key documentation points. So you can definitely reference that at any point working as a scribe. Just so you are aware there are different evaluation and management levels.
+
+[657:00] that they choose based on the information that we put in the chart. So there is what they would call like a minimal problem. Let's say it's the lowest evaluation and management level. This generally does not even require a health care provider.
+
+[657:20] to see this patient. We generally don't see these very low level minimal problem patients in the emergency department. I would say a very small percentage of our notes are going to be straight forward and deep.
+
+[657:40] We do sometimes get patients that come back for a simple wound check. They had a lack repair. I don't know. I don't know what the period is. Let's say 10 days. 10 days ago, they were told to come back for a wound check. That's a very straightforward medical decision making. There's low risk.
+
+[658:00] here. Rabies vaccination, same thing. Low risk, no infection, nothing like that. Straight forward medical decision making. I would say, I don't know, maybe like one to two percent.
+
+[658:20] of our charting. I would say low level is probably around I don't know maybe like a 6% 6% of our charts are low MDM. We're talking about abrasions, sunburns, again low risk here.
+
+[658:40] Most of our charts are going to be moderate and high level. This makes up the rest of our charting. I would say it's probably split half and half. It does depend on your site. Like if you're working at New Brunswick, it's a trauma center. You see...
+
+[659:00] more high level than moderate. Those that are not a trauma center probably could see more moderate than high, but these two make up the rest of our charts. So this is what we're focusing on. We're going to focus on how we...
+
+[659:20] can capture information for moderate and high level MDM charts. And of course, moderate level, they say an ankle injury, they're ordering an X-ray, they're going to interpret that X-ray, and they're going to have a discussion about prescription management.
+
+[659:40] High level is your chest pain cases, shortness of breath. They have a discussion, capture some, them weighing admission versus observation, versus discharge, disposition of care they call it. So this does break it down a little.
+
+[660:00] bit and there is a document in here. I don't know why there's a giant space here. Where is... Hmm.
+
+[660:20] I had this happen before where I had a PDF open and it was just blank so I'll go to this document. This is in the coding manual. Before we go through this, I want to show you something.
+
+[660:40] Let me open this one. All right, so this is the coding document from AMA. This is...
+
+[661:00] what they use to kind of go through the note and decide if it's going to be moderate, high, low, straight forward, so on and so forth. This is crazy looking to me. I don't know about you guys. So what we did again is to just focus on moderate complexity and...
+
+[661:20] high complexity and we made documentation suggestions from the standpoint of a scribe. So this is provider focused. They're telling the provider, you know, document this, new problems undiagnosed.
+
+[661:40] cute problems, things like that. We tried to simplify this, I guess you could say, and break it down in this manner. So we've talked about a lot of these points already, but I just wanna review some things with you. They break it down into three different areas.
+
+[662:00] They call it something else on the on this crazy document, but we're going to call it areas. So there are three that they focus on the number and complexity of problems being addressed, which is referred to as COPA. Area 2 is
+
+[662:20] complexity of data they're collecting and reviewing or data for short. And then the last one is risk. It's the risk of complications, the risk of limitation of function, morbidity, mortality, all of that. That's associated with that problem.
+
+[662:40] they're coming in with. So we have these three areas. The first one, COPA, we really don't have too much of an, we're not really involved in that. Like there's nothing that we can specifically document to help the clinician in capturing COPA.
+
+[663:00] Copa, just so you're aware, has to do with listing all of the diagnoses they're addressing, and also that any that would impact the patient's treatment. Let's say, let's say the patient's immunocompromised.
+
+[663:20] on chemotherapy or something like that. If they're, let's say they're admitting for abdominal pain, they would also want to include as part of their diagnoses that this patient is immunosuppressed. They're on chemotherapy, something along those lines. So that's what the message for this one is. It says, especially capture.
+
+[663:40] high acuity diagnoses and they list some of them. Diabetes, hyperglycemia, DKA, hypertension, stroke, stuff like that. They also give an example. I'm just going to go through this one example. So, patients coming in with cellulitis, they're a diabetic.
+
+[664:00] and they get, of course, lab work. They're admitting this patient with an infection and they find this patient to be hyperglycemia. So they're also going to treat for hyperglycemia. They're going to whatever, give fluids, give insulin, whatever the case may be. When they set up in Michigan,
+
+[664:20] and they input those diagnoses, cellulitis is not enough. Because they're also treating for hyperglycemia, this patient is a diabetic. So what would be more appropriate in that scenario that would capture high-level decision-making is to say,
+
+[664:40] cellulitis and hyperglycemia and I would also argue history of diabetes. Does that make sense? So here it's just capturing more diagnoses, being more specific.
+
+[665:00] because they're gonna get credit for the number and complexity of problems they are addressing during that patient's ED visit. Area two is more complex and we can help here with prompting them for information. But,
+
+[665:20] The area 2 is more complex because it actually breaks down into three different categories. I'm going to start with the more straightforward categories. So category 3, document discussion of management or a test with another provider. This is where that case discussed with...
+
+[665:40] to come in. If you know they spoke to the radiologists and the radiologists said this patient has appendicitis. That's a discussion with another health care provider that we want to get in the note. They are going to get
+
+[666:00] They're going to meet the requirement for this category by capturing that information. Are you following me? Okay, do you have any questions before I move on? No. I promise this is like...
+
+[666:20] the last like content for today. We're going to do notes after this. So we just got to focus a little bit longer to get through the coding part of it. Category two is documenting interpretation of a test by the provider, by our ED.
+
+[666:40] clinician. This is where as interpreted by me comes in. That is why we also say, let's just pretend they didn't order an x-ray. All they did was get an EKG. No, let's do the reverse. I'm sorry. I want to use the example of the radiologist reading an x-ray.
+
+[667:00] So let's say they just order an x-ray. Patient comes in, they're going to order an x-ray of the ankle, let's say. And then the radiologist reads it before our clinician and we pull in the x-ray report from the radiologist and we never ask our clinician.
+
+[667:20] what their interpretation is. So all we've got is the radiologist read. That's why we say you need to say to them what do you want me to put for your interpretation. They can interpret that study still.
+
+[667:40] and provide that information in the note using as interpreted by me. That will capture the requirement or meet the requirement for Category 2. Category 1.
+
+[668:00] is a point system. This one's a little more complex because you have to achieve or meet three points here for the category. So how do you get three points? Documenting and okay.
+
+[668:20] external historian gives you one point. That's an easy one. If it's a pediatric patient and we say who's caretaker, who's mom, who's dad, reports XYZ. That's one point already. So keep that in mind for all of your patients.
+
+[668:40] in the HPI. The other way they can get a point is capturing external records. So that's why there's such a focus on always capturing something for an external record. We said go buy what's relevant and pertinent first.
+
+[669:00] If you can't find anything like that, then just go to the most recent and capture it. Tell your clinician what you found, of course. The capturing any external record gives them a point. So now we've got two points. We've got a PEDS patient.
+
+[669:20] His mom is reporting history and we've captured an external record in the MDM section. How do we get a third point? Well, if they ordered a point of care test, they ordered a urinalysis.
+
+[669:40] ordered any blood work, CT, anything like that. Each test that they order is worth one point. Just keep in mind that, yes, you can achieve three points here very easily from just them ordering diagnostic tests.
+
+[670:00] but not every patient gets three labs ordered. Some get, like I said, let's say, a urinalysis, or maybe they just get a finger stick glucose. We can still get two other points from an external record and an external historian.
+
+[670:20] The one thing I want to caution you about is if they order an x-ray or an EKG that they're going to use the interpretation in category 2-4, they can't use the point for ordering it. So there's no-
+
+[670:40] double dipping for the categories. It's either using one category or the other. I don't know if I confused you on that one. Do you have questions about that?
+
+[671:00] So if they're going to interpret something like an x-ray, they can't use it for a point here. That's why it's so important, again, to have external records always captured, or if there's another source for history. Now just a heads up, if they meet all three...
+
+[671:20] category is great. It's high. But they only need to meet two. So let's say we only get category two, category three, that meets high. So these can be used different ways. But there's a big impact.
+
+[671:40] Like if we only meet one category, it's going to be moderate. If we missed a discussion, that could have been two categories. It could have been high MDM for this case. That's why all that stuff is built into the templates. It's good practice, it's good documentation, but it also...
+
+[672:00] captures their medical complexity for decision making. Okay, last part. So we've got this risk area.
+
+[672:20] The way I always thought about like this area is when a patient comes in, there's some risk already. We talked about that, low risk, high risk. There's already risk in place in caring for that patient. But then every decision that they make.
+
+[672:40] make every test they order, every medication that they give could potentially increase risk. They could have, let's say, an allergic reaction to a medication or going to anaphylactic shock or something like that. Procedure could go bad, whatever it may be.
+
+[673:00] every decision they make increases risk. So there are some things that can get captured that contribute to higher risk level. Sorry, trying to enlarge this, so you can see it.
+
+[673:20] better. So for the moderate MDM option, if we include any type of prescription drug management, even if they don't give something to go home with, they don't prescribe anything, but they think about doing it.
+
+[673:40] lens to moderate MDM. And that's also why it's built at the end. Because if they didn't prescribe something, you want to stop and say, Hey, I didn't see a prescription, but is there anything you want me to capture here? Did you consider giving them something?
+
+[674:00] they are educated on all this stuff too, so they should be able to say, you know what? I did think about giving them a prescription for Al but they said they have enough refills at home, so I'm not going to. That's something you would capture.
+
+[674:20] You'll see this kind of theme throughout like where it's consideration and it's capturing their thought process. When they made the coding changes in 2023, there were all these like meetings that we were going to talking about how our documentation had to change.
+
+[674:40] and you know what we had to focus on, make sure we're communicating with them and stuff like that. And one of the docs on the meeting said, get credit for your work. And thought that was like a great way to explain what this is about. They have all these thoughts in their head when they're
+
+[675:00] caring for a patient and if they're not putting that down or telling us about it, they're missing out on like the note is missing out on that information and that is like a billable service. That's higher complexity medical decision making.
+
+[675:20] That's going through their brain, but they're not saying anything. So that's why the templates are set up the way they are, and that's why we talk about this in so much detail. It's about you communicating with them and saying, is there anything I can get for prescription management? Did you have a-
+
+[675:40] a discussion with a healthcare provider. Did you talk to their PCP? I saw you put a phone call out. Who should I say you spoke to? What should I say the conversation was? Is there any medical decision making you want me to capture? This talks about social determinants of health as well. This...
+
+[676:00] This is really something they're going to have to tell you. We don't have a prompt for this, but if there is anything that is a social determinative health that impacts their treatment or their diagnosis, it is something that we would capture. They would have to offer us this information though.
+
+[676:20] Are you guys familiar with social determinants of health? Okay. Ellie, that's a great question. So when they review our work, can they make edits or do they tell us what they want to change? It depends on who you're working with. Sometimes they go
+
+[676:40] and they make the changes themselves. Sometimes they close out of the note and they say, hey, I need you to change this. I want you to say XYZ and they have you put it in. Depends on their style. I know for me, when they would sign one of the charts I did, I would go and open it and see what they changed.
+
+[677:00] I wanted to know like what they did differently. What could I change next time? If I have any questions, I'm going to ask them, why did you change this? Like, that helps you to become a better scribe, so. All right, do you have any questions?
+
+[677:20] about prescription drug management, social determinants of health before we talk about the last section. Guys are doing great. Okay, so finish off. Hi MDM. There's a lot that can be captured for-
+
+[677:40] this and by the way, simply adding in one of these, even if let's say we had social determinants of health or we had prescription drug management, simply having any one of these automatically high MDM, that's going to overrule whatever moderate would be.
+
+[678:00] There are a few options here. You can go through the straightforward ones first if they speak to a patient about do not resuscitate, do not integrate any type of code status like that. And we capture it in the note. That's high MDM. Sometimes the RGU charts will capture this.
+
+[678:20] know, hospitalist medicine, the hospitalist scribes, they capture DNR a lot. There are two for medications. There's this one. When they order a medication that requires monitoring for toxicity, dejuoxin is...
+
+[678:40] an example of that or they order a parental controlled substance, morphine given IV. That's an example of that. That's high MDM. We said the medication and how they administer it can lead to higher complexity level. Do we expect
+
+[679:00] Or do they expect us the scribes to know what's, you know, could potentially be toxic or what's a print? I think like last year I found out what a parental controlled substance is. So, no, they don't want to expect us to know that it's just about adding in the meds. Use .edu.
+
+[679:20] meds or free texts, all the medications. Coding and billing team, they will figure that information out. Okay, last two. Consideration for procedures or surgeries in the emergency department or even
+
+[679:40] other department. What does that mean? Let's say there's an example here, but I'm gonna give you a different example. Let's say that a patient comes in, they're eating wings and they swallow it a bone and they feel it, they come in, get evaluated. I don't know. I don't know.
+
+[680:00] Maybe they can visualize it, maybe they get an x-ray and they see it, but this patient has an esophageal foreign body. And they say, I'm not removing this in the emergency department, I am going to send this patient to endoscopy. They're going to do this procedure. We captured that information in the note.
+
+[680:20] That's high complexity level. This one talks about draining a tonsular abscess. They say it's complex. Nope. We're gonna call ENT for this. Anything like that is lending to high MDM.
+
+[680:40] All right, last one, disposition escalation. This is what I mentioned earlier. This is also about consideration. Let's say we have a patient come in with chest pain. And they order.
+
+[681:00] some labs, a triponin, EKG X-ray. And they say, they review everything and they talk to the patient and they're like, you know what? I thought about keeping you in the hospital.
+
+[681:20] It was something I was considering. However, I think it's appropriate for us to send you home at this point. Your tests results are normal. Your EKG is normal. You're low risk. You don't have any cardiac risk factors. You have good follow-up. We arranged an appointment for you tomorrow to see cars.
+
+[681:40] ideology, something along those lines. So they did weigh the possibility of keeping them, but they decided not to do it. If they can capture that thought process there, that's high MDM. And that's what they have in the example, considered admission.
+
+[682:00] Stable vitals, normal EKG, this one they say they're going to go to RDO. That's also disposition, escalation. They're sending them to another area, another department. It doesn't have to be home. Could be that they place them in observation. That is...
+
+[682:20] [silence]
+
+[682:40] That is this paragraph here. If you're using that new EDM-DM smart list and you choose regular or you choose observation or critical care, it drops in some verbiage about them considering admitting versus outpatient.
+
+[683:00] stay. So that captures disposition. This lends to high MDM here. I think that's everything.
+
+[683:20] Do you have any questions about the risk section? In the end, what they do is they look at all three areas and only two have to meet. So if we have a
+
+[683:40] moderate in area one, an area two and three are high, that's high MBM. So two out of three areas and that's how they decide on the final code.
+
+[684:00] When we meet on Wednesday, there won't be any coding questions on the quiz. I will focus on diagnostics.
+
+[684:20] Make sure you look at the PowerPoint, make sure you look at the chart at the end that said, like diagnosis and the test they would order. Know like the EKG documentation requirements and rhythm strip, X-ray, stuff like that, but there won't be any questions.
+
+[684:40] pertaining to that chart with the coding stuff. Your coding quiz will be on day seven because we won't have any material that we've covered in class. So you have time to review it more, look through the coding manual, ask questions, things like that.
+
+[685:00] Okay. I am going to have you guys take a break, but I want you to, when you come back, log in to Epic because we are going to do our two notes and then I will...
+
+[685:20] I'll let you guys go for the day. I'll see you in five.
+
+[685:40] [silence]
+
+[686:00] [silence]
+
+[686:20] [silence]
+
+[686:40] [silence]
+
+[687:00] [silence]
+
+[687:20] [silence]
+
+[687:40] [silence]
+
+[688:00] [silence]
+
+[688:20] [silence]
+
+[688:40] [silence]
+
+[689:00] [silence]
+
+[689:20] [silence]
+
+[689:40] [silence]
+
+[690:00] [silence]
+
+[690:20] [silence]
+
+[690:40] [silence]
+
+[691:00] [silence]
+
+[691:20] [silence]
+
+[691:40] [silence]
+
+[692:00] [silence]
+
+[692:20] [silence]
+
+[692:40] [silence]
+
+[693:00] [silence]
+
+[693:20] 
+
+[693:40] [silence]
+
+[694:00] Alright, once you're back, just make sure your camera's on so I know I have every
+
+[694:20] Everyone, I'm gonna give some instructions. Whatever you need for a short hand note taking, make sure you get that ready.
+
+[694:40] [silence]
+
+[695:00] We're going to use NBR emergency, so make sure you go into that department.
+
+[695:20] Can you show us the MBR department? What do you mean by that? Hmm?
+
+[695:40] Okay, so once you log in, it's going to ask you which department you want. This is the one you're going to choose. NBR emergency.
+
+[696:00] We have two patients that we're going to work on chest pain, Cp's chest pain for this one. That's a great example of why we don't abbreviate in the notes.
+
+[696:20] could be cerebral palsy. So I know that not everyone was using Epic. And by the way, everyone is in Epic now. Like, is there anyone that needs templates? Okay.
+
+[696:40] All right, so for those of you that didn't get a chance to do this yesterday, you want to just follow along. We're going to add in our first patient. You're going to click on on way right underneath ED track board top left corner. And you're going to type.
+
+[697:00] in your name and then you could put a dash if you want and you're going to put in the chief complaint. So I'm going to do back pain first and it's a male and it's a 20 year old.
+
+[697:20] That math I can do easily. Okay. And once you fill in name, sex and birth date, you can then click on Find Patient.
+
+[697:40] and it should tell you there are no patients that were found and you're going to create a new patient.
+
+[698:00] Stopping here for a second just in case anyone's catching up. I'm sorry could you please repeat that? Sure.
+
+[698:20] you want me to start from like clicking on onway? Yeah, it was just taking a second to load like after I signed in. So I just opened the track board. No worries. So right underneath where it says EDI track board, there's an onway button. You're just going to click on that and then put in your own name. Put a dash.
+
+[698:40] Put the chief complaint. I'm doing back pain. Select your gender. He was male and he is 20. So set up a birthday. Any birthday is fine as long as the year comes out correct.
+
+[699:00] And once you fill in those three demographic areas, you can hit find patient. No patients were found, but there's a blue link that says create a new patient. Got it, Tray? Cool. All right.
+
+[699:20] The last step is just create patient. Bottom right corner, there's a green plus sign. That's gonna like finalize it. It's gonna open up the tabs. It's basically opening the patient's chart for you.
+
+[699:40] you're going to be an expected patient. You just want to make sure that you have a my note tab. If you want to get back to the track board.
+
+[700:00] There's a little tab on the left hand side underneath ED chart with ambulance. You click on that, that will take you back to the board.
+
+[700:20] is good? Okay, let's do the second patient. We'll just add the min while we're doing this. So I'm going to add in my chest pain case. You can abbreviate it as CP if you want. This is just for training. So this is a meal.
+
+[700:40] Also, very far. Oh, did anyone figure out the year for this yet? What is their birth year? Like, 1992. Yeah. Okay, thank you.
+
+[701:00] If you create a new patient for the second one, will it save the one that we did for the first one? Yeah. And I, oh, gosh. Yep. It will have two tabs open now for you. Should be your back pain.
+
+[701:20] and then a chest B. You can have, I think, a total of four tabs open. So four charts you can be working on at once. After that, you have to, like, physically close out of the chart if you wanna open like a new patient.
+
+[701:40] And again, most important thing, once you have those open is that you are able to access the MyNote tab.
+
+[702:00] They do not. You should trip. Oh, good. Can you just repeat what the last patient, what the complaint was? Chest pain. 34, okay. It was tospain. Yeah. Okay, thank you. I know.
+
+[702:20] that yesterday. Some of you were asking me like about templates ahead of time. I do have to say that we don't template ahead of time too often because you really need to
+
+[702:40] to hear the story before you decide the template. Like it may say, like let's say they put in a chief complaint of I don't know, chest pain. And when the physician or APP goes in, it actually turns out to be a headache or abdominal pain or something like that. So templating ahead of time.
+
+[703:00] time, it's a little tricky. Also, you, I don't want you to get too used to doing that. And like, if you open a template, you're typing directly into the note because that's not the workflow on site. If, if I'm working on a chart and Dr. Nelson comes up.
+
+[703:20] and says I have three patients. He's not going to give me a chance to open up a chart for all those patients. I have to have like shorthand ready like a paper or sticky notes or something like that ready. So I don't want you to get too comfortable with typing directly into the note with your shorthand. You should be.
+
+[703:40] really get used to doing your shorthand first, then opening a template, and then typing in. Later on, when you've created a note and they're coming back to you and saying, hey, I re-evaluated this patient, you can very quickly open the note you're already created and go to the spot and start typing directly in the note. So that's possible.
+
+[704:00] but from the beginning they're coming to you with a bunch of cases. You just got to take shorthand and worry about getting that down. So... Oh yeah, I taught yesterday to like just print it out right in on the paper, but then I thought about it and then I was like, okay, they're not diagnosed yet. So like we can't know whether it's gonna be like the...
+
+[704:20] complain or it's going to be at the end, it's going to be something different. Exactly. That makes sense. True. Where do you suggest we do short-hand online? Like, is there a place you would suggest we put short-hand on when we're typing it up? You mean like during virtual training or on-site?
+
+[704:40] Like on site. Where would you? They use sticky notes on site. Sometimes they use like a word pad. Okay, so you guys will definitely get a chance to see that during the shadowing shift what they use. There is a sticky note option in here by the way, but it's limited and there's no way to
+
+[705:00] expand this so it's not ideal. Maybe for like short things you could use this. Oh, so we have to hand in our short notes as well. Yes. Okay. So if like if you hand right your short notes today, or you
+
+[705:20] type it up. That's totally fine. You just have to send it in because your shorthand is a is really like helps us to understand like if you're missing something, did you get it in your shorthand? Maybe you just need to like cross out information and state organize that way. It's a good way for us to figure out like what you might be struggling.
+
+[705:40] with. Okay. Let me tell you about the first case. We're going to talk about the back pain case.
+
+[706:00] [silence]
+
+[706:20] Okay, I'm just going to record. This meeting is being recorded. Okay, I am going to tell you about the back pain keys. We're going to work on the back pain first. All right, so we have this 20 year old mail.
+
+[706:40] The reports having severe burning left-sided lower back pain that began this morning. He said his pain started when he was lifting weights at the gym. He said that his pain...
+
+[707:00] is radiating down his back and into his left leg. He has been ambulatory since onset of symptoms.
+
+[707:20] Use the back pain template. You're gonna see a big list of pertinent negatives. So you can leave those in there. All the pertinent negatives apply their negative. His PCP is Dr. Brown. His ROS is negative.
+
+[707:40] He has a history of type 2 diabetes, no surgical history. He's a daily smoker. He drinks alcohol socially.
+
+[708:00] No illicit drug use. He is alert awake in moderate painful distress. His 10th is 98.4.
+
+[708:20] rate of 16, pulse is 90, BP 117 over 72, O2 is 97% on room air. Let's see. So
+
+[708:40] On his heart and cardiovascular exam, he has two plus D P pulses, symmetric bilaterally. On his back exam, he has mild, left, parallel, vertebrae.
+
+[709:00] He also has mild spasm. His straight leg raising is positive at 45 degrees in the left leg.
+
+[709:20] His neuro is normal. So EOMI, Pearl, his strength is 5 out of 5, all extremities, sensation is intact and equal.
+
+[709:40] Normal speech, normal gait, and his deep tendon reflexes are two plus bilaterally, knee, ankle, and plantar.
+
+[710:00] Everything else for his exam, you can leave in it's all normal, double check it, but everything else is normal. So let's see. Let me tell you what is being ordered for him. You can jot this down if you want just...
+
+[710:20] to, you know, so you know what to expect, what results are gonna come back. He is gonna get an X-ray of the Lumbar spine, a urinalysis, and a point of care test for glucose.
+
+[710:40] And when you get to the medical decision making section, you're going to choose the regular workflow. We do have an external record that was reviewed. There is a radiology report from two years ago where they...
+
+[711:00] red and x-ray of his right ankle, which was negative for fracture or dislocation. He is being treated with flexoril, 10 milligrams PO,
+
+[711:20] and Demerol, 20 milligrams I.M. So I'm going to stop the dictation there. I'm going to let you guys ask questions. You can go in, start
+
+[711:40] working on that note and then at some point I'm going to interrupt you. I'm going to give you the x-ray results. The your analysis and the point of care test I'm going to put in the chat. You're going to have to copy that information and paste it in your diagnostics. This is just
+
+[712:00] a sort of mimic results coming back. And then once all the results come back, I'll tell you what to put for the rest of the note. I'll tell you disposition and all that good stuff. What questions do you have? For the medication. For the medication, did you say that it was lexarine?
+
+[712:20] gross 10 milligrams L-E-X-R-L-R-O-S-E. Flex-R-L, like flex F-L-E-X-E-R-I-L. Thank you. Yeah. Can you go over the vitals again? Mm-hmm.
+
+[712:40] Okay, so 98.4, 16, 90, 90 is the heart rate, 117 over 72 and 97% on room air.
+
+[713:00] tenderness was on the back it was mild left para lumbar. Which template are you choosing? I kind of mentioned it but...
+
+[713:20] Did anyone pick a template yet? Oh yeah, back pain. It's a click button. Choose back pain. Oh.
+
+[713:40] Most of the part where you said art, right now, straight leg raising is possible for something. Yeah, straight leg raising, positive at 45 degrees in the left leg. Okay. Like I'm just gonna...
+
+[714:00] Can you say that again? Sorry. Yep. Straight leg raising. Positive. At 45 degrees in the left leg. Is that one sentence? Yeah, that's one finding. It's actually built into the back.
+
+[714:20] exam. There's a prompt for straight legaries, so. She had, it was, he was lifting way to the gym this morning. Can you move over the card?
+
+[714:40] video that you wrote you said that part? Yeah, so under heart and cardiovascular, you're gonna see the distal pulses that are mark positive. You just gotta change it to two plus DP pulses symmetric bilaterally.
+
+[715:00] What would it be for a duration since it began this morning? Would it just be like a few hours? I wouldn't use that. I would like capture it the way it was dictated, like the sentence.
+
+[715:20] structure that they use like during the dictation versus trying to use like the template. Does that make sense? Yeah, it makes sense. How was the fox role minister? I think that was PO. Yeah, PO.
+
+[715:40] What did you say before negative surgery? Type 2 diabetes medical history.
+
+[716:00] Okay. You shouldn't have any prior history of back pain, right? Nope. No history. For the PCP, you said Dr. Brown, which one should we select on? No. What's the first one in the list? I think that's...
+
+[716:20] like Allen or something. That's fine. I could use Allen. Just as a reference guys, if you are trying to like fit it to away the template is set up for the HPI, I would just delete it.
+
+[716:40] like delete before otherwise and I'm gonna just type it in the way it was dictated.
+
+[717:00] I'm not going to do the whole HPI but just to give you an idea. Isn't it moderate to stress?
+
+[717:20] Yes, moderate painful. After you select the BCP, like, what are you supposed to do that it shows up? Close it so that it saves and then refresh.
+
+[717:40] the smart link. Do I'm going to do it on my screen? Yes please. Okay so let me select. Okay so I'm going to hit accept.
+
+[718:00] So there isn't a close, it's just accept. And then refresh smart link and then it should change. I was looking at that tending part. I was like, I know, I got it. Okay.
+
+[718:20] Do you show us how to edit the medical history again?
+
+[718:40] [silence]
+
+[719:00] [silence]
+
+[719:20] [silence]
+
+[719:40] [silence]
+
+[720:00] [silence]
+
+[720:20] [silence]
+
+[720:40] [silence]
+
+[721:00] [silence]
+
+[721:20] [silence]
+
+[721:40] If it's already positive for distal pulses, do we edit that to say the 2 plus more specifically?
+
+[722:00] Exactly. Do you have any questions? Yes. Rohan, I would go through the system and use the smart link to update the medical history. Like med medical history? Sorry.
+
+[722:20] medical history, surgical history, those two I definitely want you to go through the system versus typing it in.
+
+[722:40] [silence]
+
+[723:00] [silence]
+
+[723:20] [silence]
+
+[723:40] [silence]
+
+[724:00] [silence]
+
+[724:20] His mucus membrane is moist. Yep, correct.
+
+[724:40] [silence]
+
+[725:00] [silence]
+
+[725:20] [silence]
+
+[725:40] [silence]
+
+[726:00] For the external records, should we free text that?
+
+[726:20] Yes Yeah, I mean you're gonna you have like a prompt for it, right? Yeah, once I click the back pane part at the bottom Yeah, then you could just choose like well, there's not a choice But double click on the drop down and then you're just gonna
+
+[726:40] to type in the information. Okay. What about the specialist? Should we delete that? Yes, there was no specialist for this patient, so you can remove it. What about the allergies? You can skip the allergies. We're not going to...
+
+[727:00] to fill out anything for the meds or allergies for the patient. Okay, so like completely take it out because we shouldn't leave the stars, isn't right? You mean like how they have allergies and blue with the dots?
+
+[727:20] It's, yeah, it's a... Can't think of the name. It's just something that can be expanded. They minimized it. So it's not really like a wild card, I guess you could say. You can leave it alone.
+
+[727:40] [silence]
+
+[728:00] [silence]
+
+[728:20] Okay. How do you look up like the physician name again? Okay. Let me walk you through that. So on the left hand side.
+
+[728:40] you'll see no assigned attending. Just hover over it and then when you scroll down to the or go to the green part primary care provider there's a link open care teams and then when you click on that it's gonna open the text box for you to search and you just have to hit accept.
+
+[729:00] and then refresh the smart link. Okay, thank you. Yeah. What was the third test that was ordered after the your analysis? A point of care test for glue.
+
+[729:20] post. Thank you. For DP, we write out our Salis.
+
+[729:40] You can use DP. Oh, okay. That abbreviation is fine. Okay. Thank you. Yeah.
+
+[730:00] And do the labs would I be able to write you
+
+[730:20] for your analysis and then POCT for point of care. Testaries should I spell it out? You don't have to do either. I'm going to give you the results of them, so you're just going to copy them for the diagnostic section. So you don't have to worry about like inputting
+
+[730:40] tests. For the deep tendon part where does that go? The neuro section. I would add it last and I actually Muhammad asked about.
+
+[731:00] Like how to kind of format it. I put it in the chat. If you want to take a look, they're kind of like reporting it and then listing the reflexes. I see. Okay, end of the video. Oh, could you please go through?
+
+[731:20] how to put in the medications again? Like format for the med? Yeah, like how to follow the smart link for it? Oh, so for the medications in training, you won't be able to use the smart link because
+
+[731:40] the provider has to put, like the provider would have to put an order in. It's not something that we could do. So you're just free texting it. You're just gonna... So I should just change it. Like, should I use make the text editable? Fuller, should I just delete this one? You can delete it. Okay, thank you. Yep.
+
+[732:00] We can write DTR. Yes. Okay.
+
+[732:20] [silence]
+
+[732:40] [silence]
+
+[733:00] [silence]
+
+[733:20] [silence]
+
+[733:40] [silence]
+
+[734:00] [silence]
+
+[734:20] [silence]
+
+[734:40] [silence]
+
+[735:00] [silence]
+
+[735:20] [silence]
+
+[735:40] [silence]
+
+[736:00] [silence]
+
+[736:20] [silence]
+
+[736:40] [silence]
+
+[737:00] [silence]
+
+[737:20] [silence]
+
+[737:40] [silence]
+
+[738:00] [silence]
+
+[738:20] [silence]
+
+[738:40] [silence]
+
+[739:00] [silence]
+
+[739:20] [silence]
+
+[739:40] [silence]
+
+[740:00] [silence]
+
+[740:20] [silence]
+
+[740:40] [silence]
+
+[741:00] [silence]
+
+[741:20] [silence]
+
+[741:40] [silence]
+
+[742:00] [silence]
+
+[742:20] [silence]
+
+[742:40] [silence]
+
+[743:00] [silence]
+
+[743:20] [silence]
+
+[743:40] [silence]
+
+[744:00] [silence]
+
+[744:20] [silence]
+
+[744:40] [silence]
+
+[745:00] [silence]
+
+[745:20] [silence]
+
+[745:40] [silence]
+
+[746:00] [silence]
+
+[746:20] [silence]
+
+[746:40] [silence]
+
+[747:00] [silence]
+
+[747:20] [silence]
+
+[747:40] [silence]
+
+[748:00] [silence]
+
+[748:20] [silence]
+
+[748:40] [silence]
+
+[749:00] [silence]
+
+[749:20] [silence]
+
+[749:40] [silence]
+
+[750:00] [silence]
+
+[750:20] [silence]
+
+[750:40] [silence]
+
+[751:00] [silence]
+
+[751:20] [silence]
+
+[751:40] [silence]
+
+[752:00] [silence]
+
+[752:20] [silence]
+
+[752:40] [silence]
+
+[753:00] [silence]
+
+[753:20] [silence]
+
+[753:40] [silence]
+
+[754:00] [silence]
+
+[754:20] [silence]
+
+[754:40] [silence]
+
+[755:00] [silence]
+
+[755:20] [silence]
+
+[755:40] [silence]
+
+[756:00] [silence]
+
+[756:20] [silence]
+
+[756:40] [silence]
+
+[757:00] [silence]
+
+[757:20] [silence]
+
+[757:40] [silence]
+
+[758:00] [silence]
+
+[758:20] [silence]
+
+[758:40] [silence]
+
+[759:00] [silence]
+
+[759:20] [silence]
+
+[759:40] [silence]
+
+[760:00] [silence]
+
+[760:20] [silence]
+
+[760:40] [silence]
+
+[761:00] [silence]
+
+[761:20] [silence]
+
+[761:40] [silence]
+
+[762:00] [silence]
+
+[762:20] [silence]
+
+[762:40] [silence]
+
+[763:00] [silence]
+
+[763:20] [silence]
+
+[763:40] [silence]
+
+[764:00] [silence]
+
+[764:20] [silence]
+
+[764:40] [silence]
+
+[765:00] [silence]
+
+[765:20] [silence]
+
+[765:40] [silence]
+
+[766:00] [silence]
+
+[766:20] [silence]
+
+[766:40] [silence]
+
+[767:00] [silence]
+
+[767:20] [silence]
+
+[767:40] [silence]
+
+[768:00] [silence]
+
+[768:20] [silence]
+
+[768:40] [silence]
+
+[769:00] [silence]
+
+[769:20] [silence]
+
+[769:40] [silence]
+
+[770:00] [silence]
+
+[770:20] [silence]
+
+[770:40] [silence]
+
+[771:00] [silence]
+
+[771:20] [silence]
+
+[771:40] [silence]
+
+[772:00] [silence]
+
+[772:20] [silence]
+
+[772:40] [silence]
+
+[773:00] [silence]
+
+[773:20] [silence]
+
+[773:40] [silence]
+
+[774:00] [silence]
+
+[774:20] [silence]
+
+[774:40] [silence]
+
+[775:00] [silence]
+
+[775:20] [silence]
+
+[775:40] [silence]
+
+[776:00] [silence]
+
+[776:20] [silence]
+
+[776:40] [silence]
+
+[777:00] [silence]
+
+[777:20] [silence]
+
+[777:40] [silence]
+
+[778:00] [silence]
+
+[778:20] [silence]
+
+[778:40] [silence]
+
+[779:00] [silence]
+
+[779:20] [silence]
+
+[779:40] [silence]
+
+[780:00] [silence]
+
+[780:20] [silence]
+
+[780:40] [silence]
+
+[781:00] [silence]
+
+[781:20] [silence]
+
+[781:40] [silence]
+
+[782:00] [silence]
+
+[782:20] [silence]
+
+[782:40] [silence]
+
+[783:00] [silence]
+
+[783:20] [silence]
+
+[783:40] [silence]
+
+[784:00] [silence]
+
+[784:20] [silence]
+
+[784:40] [silence]
+
+[785:00] [silence]
+
+[785:20] [silence]
+
+[785:40] [silence]
+
+[786:00] [silence]
+
+[786:20] [silence]
+
+[786:40] [silence]
+
+[787:00] [silence]
+
+[787:20] [silence]
+
+[787:40] [silence]
+
+[788:00] [silence]
+
+[788:20] [silence]
+
+[788:40] [silence]
+
+[789:00] [silence]
+
+[789:20] [silence]
+
+[789:40] [silence]
+
+[790:00] [silence]
+
+[790:20] [silence]
+
+[790:40] [silence]
+
+[791:00] [silence]
+
+[791:20] [silence]
+
+[791:40] [silence]
+
+[792:00] [silence]
+
+[792:20] [silence]
+
+[792:40] [silence]
+
+[793:00] [silence]
+
+[793:20] [silence]
+
+[793:40] [silence]
+
+[794:00] [silence]
+
+[794:20] [silence]
+
+[794:40] [silence]
+
+[795:00] [silence]
+
+[795:20] [silence]
+
+[795:40] [silence]
+
+[796:00] [silence]
+
+[796:20] [silence]
+
+[796:40] [silence]
+
+[797:00] [silence]
+
+[797:20] [silence]
+
+[797:40] [silence]
+
+[798:00] [silence]
+
+[798:20] [silence]
+
+[798:40] [silence]
+
+[799:00] [silence]
+
+[799:20] [silence]
+
+[799:40] [silence]
+
+[800:00] [silence]
+
+[800:20] [silence]
+
+[800:40] [silence]
+
+[801:00] [silence]
+
+[801:20] [silence]
+
+[801:40] [silence]
+
+[802:00] [silence]
+
+[802:20] [silence]
+
+[802:40] [silence]
+
+[803:00] [silence]
+
+[803:20] [silence]
+
+[803:40] [silence]
+
+[804:00] [silence]
+
+[804:20] [silence]
+
+[804:40] [silence]
+
+[805:00] [silence]
+
+[805:20] [silence]
+
+[805:40] [silence]
+
+[806:00] [silence]
+
+[806:20] [silence]
+
+[806:40] [silence]
+
+[807:00] [silence]
+
+[807:20] [silence]
+
+[807:40] [silence]
+
+[808:00] [silence]
+
+[808:20] [silence]
+
+[808:40] [silence]
+
+[809:00] [silence]
+
+[809:20] [silence]
+
+[809:40] [silence]
+
+[810:00] [silence]
+
+[810:20] [silence]
+
+[810:40] [silence]
+
+[811:00] [silence]
+
+[811:20] [silence]
+
+[811:40] [silence]
+
+[812:00] [silence]
+
+[812:20] [silence]
+
+[812:40] [silence]
+
+[813:00] [silence]
+
+[813:20] [silence]
+
+[813:40] [silence]
+
+[814:00] [silence]
+
+[814:20] [silence]
+
+[814:40] [silence]
+
+[815:00] [silence]
+
+[815:20] [silence]
+
+[815:40] [silence]
+
+[816:00] [silence]
+
+[816:20] [silence]
+
+[816:40] [silence]
+
+[817:00] [silence]
+
+[817:20] [silence]
+
+[817:40] [silence]
+
+[818:00] [silence]
+
+[818:20] [silence]
+
+[818:40] [silence]
+
+[819:00] [silence]
+
+[819:20] [silence]
+
+[819:40] [silence]
+
+[820:00] [silence]
+
+[820:20] [silence]
+
+[820:40] [silence]
+
+[821:00] [silence]
+
+[821:20] [silence]
+
+[821:40] [silence]
+
+[822:00] [silence]
+
+[822:20] [silence]
+
+[822:40] [silence]
+
+[823:00] [silence]
+
+[823:20] [silence]
+
+[823:40] [silence]
+
+[824:00] [silence]
+
+[824:20] [silence]
+
+[824:40] [silence]
+
+[825:00] [silence]
+
+[825:20] [silence]
+
+[825:40] [silence]
+
+[826:00] [silence]
+
+[826:20] [silence]
+
+[826:40] [silence]
+
+[827:00] [silence]
+
+[827:20] [silence]
+
+[827:40] [silence]
+
+[828:00] [silence]
+
+[00:00] [silence]

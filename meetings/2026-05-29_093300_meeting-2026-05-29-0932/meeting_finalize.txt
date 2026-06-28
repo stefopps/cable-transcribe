@@ -1,0 +1,45 @@
+**Meeting Overview**
+
+This session was a recording of our team's discussion on patient data management, critical care time, and procedural statements. The conversation revolved around accurate documentation, patient safety, and technical aspects of record-keeping.
+
+**Topic Groups**
+
+**Critical Care Time**
+HIGHLIGHT: Accurate critical care time is crucial for accurate documentation.
+- The total critical care time for the cardiac arrest case was accurately recorded as approximately 45 minutes.
+- Critical care time should be clearly stated in the HPI.
+- Total critical care time should include any separately reportable person.
+
+**Procedural Statements**
+HIGHLIGHT: Procedure to pronounce death is just a statement in the critical care section.
+- The procedure to pronounce death is only for administrative purposes and does not require clinical documentation.
+- It is essential to understand that procedural statements are separate from clinical notes.
+
+**Patient Safety**
+HIGHLIGHT: Patient safety is a top concern in this situation.
+- The conversation was recorded due to a concern about patient safety.
+- A cardiac arrest occurred, and CPR was administered.
+- Patient had a cardiac pulmonary condition, but no cardiopulmonary breathing.
+
+**HIPAA/PHI**
+No discussion or action items were noted for HIPAA/PHI during the session.
+
+**Benefits**
+No discussion or action items were noted for benefits during the session.
+
+**IT Systems**
+No discussion or action items were noted for IT systems during the session.
+
+**Onboarding Logistics**
+No discussion or action items were noted for onboarding logistics during the session.
+
+**Action Items & Next Steps**
+
+* Dauphin will review charts and provide feedback to participants on Monday.
+* Participants can request extra time to complete notes if needed.
+* The recording will be sent over to Dauphin's email address with a link to this report.
+
+**Unanswered Questions**
+None noted.
+
+**MOST IMPORTANT**: Accurate critical care time is crucial for accurate documentation, patient safety, and procedural statements.

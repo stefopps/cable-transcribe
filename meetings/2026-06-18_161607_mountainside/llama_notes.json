@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "time": "2026-06-18T16:17:05",
+      "transcript_chars": 57,
+      "most_important": "Discussion has just begun.",
+      "notes": "Running Notes:\n\n* No content has been discussed yet in the meeting.\n* The audio transcript is currently showing silence at 00:20.\n\nMOST_IMPORTANT: Discussion has just begun."
+    },
+    {
+      "time": "2026-06-18T16:18:03",
+      "transcript_chars": 114,
+      "most_important": "Discussion about the new project requirements is expected to begin shortly.",
+      "notes": "Here are the updated running notes:\n\n* No content has been discussed yet in the meeting.\n* The audio transcript is currently showing silence at 00:20 and 01:20.\n\n MOST_IMPORTANT: Discussion about the new project requirements is expected to begin shortly."
+    }
+  ]
+}

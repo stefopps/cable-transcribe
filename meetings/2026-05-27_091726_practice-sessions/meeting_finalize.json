@@ -1,0 +1,61 @@
+{
+  "finalized": [
+    {
+      "time": "2026-05-27T16:37:24",
+      "most_important": "Critical care documentation requires a well-structured workflow to ensure accurate and effective patient care, and it is essential to proofread charts carefully before sending them out to avoid errors and HIPAA compliance issues.",
+      "topic_groups": [
+        {
+          "name": "Critical Care Documentation",
+          "highlight": "Accurate and timely documentation is crucial for effective patient care.",
+          "details": [
+            "Ensures accurate assessment and diagnosis",
+            "Facilitates communication among healthcare team members",
+            "Meets Medicare requirements for MIPS measures",
+            "Requires attention to detail and adherence to HIPAA guidelines"
+          ]
+        },
+        {
+          "name": "Observation Notes and Lab Results",
+          "highlight": "Official results from radiologists should be listed at the top of diagnostic sections.",
+          "details": [
+            "Use timestamps for lab results",
+            "Include vital signs, chief complaint, and physical exam findings",
+            "List medications administered and dosages",
+            "Plan for care and disposition"
+          ]
+        },
+        {
+          "name": "MIPS Measures",
+          "highlight": "Observation documentation and critical care documentation will be a major focus area for review tomorrow.",
+          "details": [
+            "Ensure accurate coding and billing",
+            "Focus on patient safety and quality metrics",
+            "Review and discuss cases to improve skills"
+          ]
+        },
+        {
+          "name": "HIPAA/PHI Compliance",
+          "highlight": "Proofreading charts before sending them out is crucial for avoiding errors and HIPAA compliance issues.",
+          "details": [
+            "Review charts carefully for sensitive information",
+            "Use secure communication channels for PHI",
+            "Familiarize yourself with HIPAA guidelines and regulations",
+            "ACTION ITEMS & NEXT STEPS",
+            "* Send in notes by 4:20 PM today to avoid delays in chart reviews",
+            "* Complete any outstanding HIPAA or asynchronous education pieces before the next shift",
+            "* Review answer keys and feedback tonight for the quiz on observation documentation and MIPS measures tomorrow",
+            "UNANSWERED QUESTIONS None noted.",
+            "MOST_IMPORTANT: Critical care documentation requires a well-structured workflow to ensure accurate and effective patient care, and it is essential to proofread charts carefully before sending them out to avoid errors and HIPAA compliance issues."
+          ]
+        }
+      ],
+      "report": "MEETING OVERVIEW\nToday's session focused on reviewing critical care documentation and observation notes, with a emphasis on accurate and effective patient care. The discussion covered key aspects of critical care documentation, including lab results, imaging studies, and MIPS measures. Students were also reminded to proofread charts before sending them out to avoid errors and HIPAA compliance issues.\n\nTOPIC GROUPS\n\nGROUP: Critical Care Documentation\nHIGHLIGHT: Accurate and timely documentation is crucial for effective patient care.\n- Ensures accurate assessment and diagnosis\n- Facilitates communication among healthcare team members\n- Meets Medicare requirements for MIPS measures\n- Requires attention to detail and adherence to HIPAA guidelines\n\nGROUP: Observation Notes and Lab Results\nHIGHLIGHT: Official results from radiologists should be listed at the top of diagnostic sections.\n- Use timestamps for lab results\n- Include vital signs, chief complaint, and physical exam findings\n- List medications administered and dosages\n- Plan for care and disposition\n\nGROUP: MIPS Measures\nHIGHLIGHT: Observation documentation and critical care documentation will be a major focus area for review tomorrow.\n- Ensure accurate coding and billing\n- Focus on patient safety and quality metrics\n- Review and discuss cases to improve skills\n\nGROUP: HIPAA/PHI Compliance\nHIGHLIGHT: Proofreading charts before sending them out is crucial for avoiding errors and HIPAA compliance issues.\n- Review charts carefully for sensitive information\n- Use secure communication channels for PHI\n- Familiarize yourself with HIPAA guidelines and regulations\n\nACTION ITEMS & NEXT STEPS\n\n* Send in notes by 4:20 PM today to avoid delays in chart reviews\n* Complete any outstanding HIPAA or asynchronous education pieces before the next shift\n* Review answer keys and feedback tonight for the quiz on observation documentation and MIPS measures tomorrow\n\nUNANSWERED QUESTIONS None noted.\n\nMOST_IMPORTANT: Critical care documentation requires a well-structured workflow to ensure accurate and effective patient care, and it is essential to proofread charts carefully before sending them out to avoid errors and HIPAA compliance issues."
+    },
+    {
+      "time": "2026-05-27T16:43:11",
+      "most_important": "Send in notes by 4:20 PM today to avoid delays in chart reviews.",
+      "topic_groups": [],
+      "report": "MEETING OVERVIEW\nThe session focused on critical care documentation and simulation, with a discussion on observation notes, lab results, and imaging studies. The importance of proofreading charts before sending them was also emphasized. A 24-hour backlog of charts is expected to start being reviewed on Monday after the holiday weekend.\n\nTOPIC GROUPS\n\n**Critical Care Documentation**\nHIGHLIGHT: Critical care documentation requires a well-structured workflow to ensure accurate and effective patient care.\n• Critical care cases will require managing multiple notes and overlapping information.\n• The critical care quiz will focus on observation documentation and MIPS measures.\n\n**HIPAA/PHI and Onboarding Logistics**\nHIGHLIGHT: Proofreading charts before sending them is crucial for HIPAA compliance and avoiding errors.\n- All team members are expected to proofread their notes before sending them in.\n- The first day's notes should be sent in by 4:20 PM today.\n\n**MIPS Measures**\nHIGHLIGHT: Critical care documentation and MIPS measures will be a major focus area for review tomorrow.\n• A critical care case with overlapping notes will be reviewed tomorrow, focusing on observation documentation and MIPS measures.\n• Labs are ordered and results will be discussed in the 80 course section.\n\n**IT Systems and Day 3 Agenda**\nHIGHLIGHT: No updates were provided on IT systems or Day 3 agenda.\n- No IT system updates were announced during the session.\n\nUNANSWERED QUESTIONS\nNone noted.\n\nMOST IMPORTANT:\nSend in notes by 4:20 PM today to avoid delays in chart reviews."
+    }
+  ]
+}

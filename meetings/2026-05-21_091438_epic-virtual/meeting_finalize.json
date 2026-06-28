@@ -1,0 +1,51 @@
+{
+  "finalized": [
+    {
+      "time": "2026-05-22T08:55:59",
+      "most_important": "Complete all assigned tasks and quizzes within the designated time frame (by 8 PM tonight) to ensure a successful onboarding process.",
+      "topic_groups": [
+        {
+          "name": "HIPAA/PHI",
+          "highlight": "Scribes must ensure confidentiality of patient information in all notes.",
+          "details": [
+            "Patients' personal identifiable information (PII) should not be included in any notes.",
+            "Scribes are responsible for reporting PHI breaches to management and local authorities if necessary."
+          ]
+        },
+        {
+          "name": "Benefits",
+          "highlight": "New hires will receive a welcome package with comprehensive benefits, including medical, dental, vision insurance.",
+          "details": [
+            "All new hires are eligible for these benefits within the first six months of employment.",
+            "Employees can access their benefits through the company intranet or HR portal."
+          ]
+        },
+        {
+          "name": "IT Systems",
+          "highlight": "All scribes must log in to the Symplr/NetLearning platform by the end of Day 3 for onboarding and training materials.",
+          "details": [
+            "Scribes will have access to comprehensive documentation, tutorials, and live support during office hours.",
+            "The company will provide a login tutorial on Day 1 to ensure seamless integration."
+          ]
+        },
+        {
+          "name": "Onboarding Logistics",
+          "highlight": "New hires will receive an email with detailed instructions on how to complete their first task within two weeks of joining the team.",
+          "details": [
+            "Scribes are expected to familiarize themselves with all systems, tools, and procedures by the end of Day 10.",
+            "Regular check-ins will be scheduled for new hires to ensure a smooth transition.",
+            "ACTION ITEMS & NEXT STEPS",
+            "* Send welcome packages with comprehensive benefits information to all new hires within the next two weeks.",
+            "* Schedule a follow-up training session on Day 3 for scribes to complete their onboarding process.",
+            "* Ensure all IT systems, including Symplr/NetLearning, are accessible and fully functional by the end of Day 10.",
+            "UNANSWERED QUESTIONS",
+            "None noted.",
+            "MOST IMPORT ANT",
+            "Complete all assigned tasks and quizzes within the designated time frame (by 8 PM tonight) to ensure a successful onboarding process."
+          ]
+        }
+      ],
+      "report": "MEETING OVERVIEW\nThe session was about conducting a scribe training simulation for medical professionals, focusing on accurate note-taking and completing quiz assignments by 8 PM tonight.\n\nTOPIC GROUPS\n\nGROUP: HIPAA/PHI\nHIGHLIGHT: Scribes must ensure confidentiality of patient information in all notes.\n- Patients' personal identifiable information (PII) should not be included in any notes.\n- Scribes are responsible for reporting PHI breaches to management and local authorities if necessary.\n\nGROUP: Benefits\nHIGHLIGHT: New hires will receive a welcome package with comprehensive benefits, including medical, dental, vision insurance.\n- All new hires are eligible for these benefits within the first six months of employment.\n- Employees can access their benefits through the company intranet or HR portal.\n\nGROUP: IT Systems\nHIGHLIGHT: All scribes must log in to the Symplr/NetLearning platform by the end of Day 3 for onboarding and training materials.\n- Scribes will have access to comprehensive documentation, tutorials, and live support during office hours.\n- The company will provide a login tutorial on Day 1 to ensure seamless integration.\n\nGROUP: Onboarding Logistics\nHIGHLIGHT: New hires will receive an email with detailed instructions on how to complete their first task within two weeks of joining the team.\n- Scribes are expected to familiarize themselves with all systems, tools, and procedures by the end of Day 10.\n- Regular check-ins will be scheduled for new hires to ensure a smooth transition.\n\nACTION ITEMS & NEXT STEPS\n* Send welcome packages with comprehensive benefits information to all new hires within the next two weeks.\n* Schedule a follow-up training session on Day 3 for scribes to complete their onboarding process.\n* Ensure all IT systems, including Symplr/NetLearning, are accessible and fully functional by the end of Day 10.\n\nUNANSWERED QUESTIONS\nNone noted.\n\nMOST IMPORT ANT \nComplete all assigned tasks and quizzes within the designated time frame (by 8 PM tonight) to ensure a successful onboarding process."
+    }
+  ]
+}

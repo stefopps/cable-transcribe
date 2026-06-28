@@ -1,0 +1,2454 @@
+
+[00:00] [silence]
+
+[00:20] Bell things out, you know, you might see PTA used from time to time in the notes, but our job is to be very clear. Think about who the readers are. Pay attention to details. Make this look like a professional.
+
+[00:40] note so for the most part we're going to be spelling things out. There are some medical abbreviations certain things that you will come across that are preferred. There's no real list of what you can what you can't use because there's no true
+
+[01:00] like guidelines for that. I know that with medications, there are very few medications that we abbreviate, but there's nothing really for like medical terminology specifically. There's no one like overseeing that basically. So it's just something that's going to come with more time. I
+
+[01:20] wouldn't use PT for patient in the note. Sometimes the clinicians do that when they're typing very fast through the note and then if I go in, I write it out. Like I'll fix their typos or their abbreviations and things like that because they're typing for each other. They're thinking about...
+
+[01:40] okay, you know, another doctor or PA or NP is going to look at this note, but it's beyond that at this point. The patients can read these now. So we want to make sure that everything is very clear to the readers.
+
+[02:00] Okay, let's move on. We had a bunch of medical history for him. You should have added the appendectomy and keep in mind if we find something out in the external records that we're reviewing that you want to ask, do you want me to ask?
+
+[02:20] that to their history and then update accordingly. So this is where we had some important information to add. If you have a notice, I stopped labeling things for you because this is what they do on site. They just say they're tachycardic, they're regular.
+
+[02:40] really irregular. They have, you know, right-sided facial drooping. So they're just going to give you all the findings. They're not going to label stuff. So I want you to get used to that trying to figure out on your own where it should go. And again, just asking, you know, if you're not sure where something goes, make sure that you ask. You do not want to...
+
+[03:00] to put that on an incorrect system. That would definitely call that the integrity of that chart into question if it ever goes to court. All right. So Taka Cardia, regularly.
+
+[03:20] regular. They already had positive distal pulses. I didn't give you anything specific for the pulses, so you leave that. Even if they don't tell you pulses, the patient's going to have pulses. Unless it's you know someone in cardiac arrest, someone that doesn't have a limb or you know a trombone.
+
+[03:40] or something like that, you're gonna learn with time like who to watch out for, but don't change positive disillposis to negative disillposis just because it wasn't dictated. This skin changes could have been a skin finding. So if you put it
+
+[04:00] Even if you've got feedback, you know, it should have been under extremities. That's because they're looking at the answer key. It could have been under skin. That would have been fine. This is just related to their chronic venous stasis. If you hear them talk about extremities, usually they want it captured in the extremities.
+
+[04:20] section but again if you're not a hundred percent sure and you're like you know what I think this is a skin finding where should I put this ask them for clarification. We had some stuff in here so EOMI they couldn't assess so the clinician basically said
+
+[04:40] take it out, but they did have a gaze preference. No nice tag mist. That's that rapid eye movement when they have vertigo, sometimes associated with vertigo. Right-sided facial drooping, tongue in new gula, deviated to the right, weakness on the right side.
+
+[05:00] So this is the format for how you can kind of add that information in Strength and then put all the findings Left side was normal And this is like a decrease sensation on the right side intact on the left. They couldn't complete the fingers
+
+[05:20] to nose testing with the right hand. So this is all consistent with his left-sided bleed. I don't know, do you have any questions about physical exam portion?
+
+[05:40] There were things I did not dictate, like gate. If someone's weak on one side, they are not going to stand them and make them walk across the room. Very unlikely. Heal to shin. They didn't assess that. I don't know if that was like...
+
+[06:00] built into the template. I think I'm wondering if this is the one I looked at. That was a little bit different. Since they updated the templates, there are some changes in the Neuro section. Again, if you see something in Neuro, this is the section that's most frequently overlapped.
+
+[06:20] ask them. You will come to find with time that there are certain patients that they don't assess gate four. So, all right. So, this is what you should have had in your diagnostic section. So, the first part right after ED course and
+
+[06:40] MDM, I know we don't have diagnostics as a header here. The RDN notes do have it, but we call, sorry, we call it the diagnostic section because that's where all the results go. EKG, a portable chest X-ray, the head CT result which you could have had here or
+
+[07:00] below the labs either would have been fine. So as you had the report here and then we had results for the labs. In the Prokduck you should have had two things. That was the rhythm strip reading.
+
+[07:20] and also total critical care time. Very important so that these things can be coded and built for properly. Questions about the diagnostic section? Can you show?
+
+[07:40] one more time how to put the ECG with them report. All right, well there.
+
+[08:00] opening. It's going to take a minute for epic to open. I'll scroll down a little bit. Okay, so if you hear critical care, if you know this patient's coming in with medics, if they say severe respiratory distress or stroke symptoms, things like that.
+
+[08:20] severe abdominal pain. Those are key words that tell you it's critical care. So you want to choose the workflow. That means using your EDM DM smart list and select
+
+[08:40] in critical care. I think I kind of recall up.
+
+[09:00] where to put it. When you go to notes on the top, it says procedure, and then you click on it, and then in the selection, you just write eKG, right? Yeah, I think it's ECG. EC? Yeah. That's...
+
+[09:20] it exactly. And of course keep in mind that when you do choose a template the procedure smartbox is not going to be in there until you choose the workflow. So once you put that workflow in it pops up. So yeah hit procedures. This will be filled out for you on screen.
+
+[09:40] site so you don't have to worry about doing this. And then yes, just type in ECG. It's going to come up rhythm report. And that brings it in. So you just need to check off yes for the first point there. And then you just free text it in the column.
+
+[10:00] section. You don't need to use the buttons here. Just type it rhythm strip with a result. Thank you. Yeah. Okay, so they had EMS and patience wife.
+
+[10:20] That was the first thing that you had to fill out. We had the external record. And then I asked you to add in code stroke activated stat head CT ordered. And then right after that you were supposed to add in the stroke smart phrase. So dot edcryt...
+
+[10:40] medical care stroke. Treatment was they continued to provide supplemental oxygen, and they're also giving some gentle hydration, so just 100 ml per hour for this patient.
+
+[11:00] and keep in mind fluid resuscitation. That's the very age that we use when they provide fluids to a patient in a critical care setting. The next thing they had was that blurb about reevaluating the patient.
+
+[11:20] checking the monitor. So if you had you know this update before that information it's fine. This is just them kind of summarizing the care they're providing. It's built into the smart phrase. As long as it like is in there before...
+
+[11:40] I would say I don't know that it would come after this information. It really should be before that because they're talking about like monitoring for vital sign trends and things like that and that's what they're actually doing. So just like no...
+
+[12:00] this and make sure that you have it in a place that would make sense in the timeline of events. All right, we had a time stamp. This is when the radiologist called the emergency department, got Dr. Nelson on the line and
+
+[12:20] Dr. Smith said, hey, your patient has a brain bleed. They called, on call neurology. I'm surprised they didn't say stat. Sometimes they'll say stat. And then they did a reassessment. So now they've got this information. They're going back in the room and
+
+[12:40] making sure that you know has his symptoms gotten any worse is he's still like a wake and alert and talking and you can see his blood pressure is climbing. Now he's 202 over 126 rapid a fib 135 beats per minute so they
+
+[13:00] are at this point going to administer some medication for him. And listen, you want to learn more about medicine? Google this. Look up this medication. There is like a brand name for it. And this is something that when they give it, they're going to start
+
+[13:20] Well, they have been monitoring his vital signs, but they're going to watch very closely to see what the response is to that medication. And that's what we saw here. His blood pressure starts to decline a little bit. He goes into a sinus rhythm, still a little fast. And then when the
+
+[13:40] check it's 92. Before I talk about the MIPS or anything, do you have any questions about the beginning of the critical care smart phrase? I just want to ask like, is there a link?
+
+[14:00] where we can find the medication because I think I was having a hard time spelling them. Like I made like two or three mistakes, so I was wondering if we have a list. We don't really have a list, but in Epic, you'll be able to see the medication or you'll use .edmg
+
+[14:20] meds and it will pull it in. So you won't have to worry too much about that. Today I'm going to share orders with you on a document while you're working and you'll see the medication so you can just pull it from there. But don't be afraid to again like Google stuff you guys will have access to something.
+
+[14:40] called up-to-date on all the desktops. So you can go in to update up-to-date, or you can use Google or something like that, and look up medications and ask them to, if you are not absolutely sure, like let's say you find something in Google.
+
+[15:00] and you're like, you know what, I'm not really sure if this is the medication that they said and maybe the order's not in Ask them because you don't want to enter the wrong medication Yeah, I was trying to make my own list to make sure like I'm spelling stuff right so that's why I was wondering if Yeah, we don't really have anything
+
+[15:20] Okay, thank you. Yeah, that's definitely helpful. Use your resources, create stuff, just like, you know, short-hand dictionary for yourself. Like, I used to do that for medications, and I used to do that for frequently misspelled words. Like, if there was something that I knew, I just
+
+[15:40] couldn't remember the spelling of or whatever. I would jot that down on my clipboard, like on a paper or something and just like, you know, then eventually you don't need it, but might be helpful in the beginning. Okay, so they just...
+
+[16:00] just kind of made a statement saying labs and imaging are above, you know, they didn't comment on anything specifically. They already talked about, you know, how he has this intracerebral hemorrhage on the CT. So, and they talked about his with children.
+
+[16:20] and things like that. They did specifically make a statement saying the patient's not a candidate, and then we captured the MIPS measure, saying they have an acute current or history of ICH. They're also already on an
+
+[16:40] and to coagulant. So that's the contraindication. I know the MIPS measures are a little confusing. Epic has a version of MIPS measures. We have a version of MIPS measures. So just be careful when you enter it that.
+
+[17:00] You know, if you need help, like ask, ask the scribe, ask the clinician. All right. And then the neurologist called back, we captured that discussion. We also stated when they arrived in the emergency department and evaluated the patient. And that's when they decided.
+
+[17:20] you know, admit under Dr. Blue's service. And that was it. Total 55 minutes. And we didn't have to add anything like APP or physician critical care time because it was just not Dr. Nelson. That's who we scribe for. So you don't have to be specific in that setting.
+
+[17:40] And that was it. Sorry. Let's go to the mail case because he was the admission. So he was reporting this moderately severe ban.
+
+[18:00] like headache. He had some nausea and some folophobia. I'm betting that the clinician said Tuesday night so the scribe went in and put the date in there just because if someone goes in let's say it's
+
+[18:20] you know, could be months, a couple months from now. Doesn't have to be years. They go in and they see Tuesday night. Now they've got to pull up a calendar, look at the date of service and figure out what the date is for Tuesday. To kind of figure out how long he had this headache. Was it a week? Was it two days?
+
+[18:40] So we will just be more specific in that setting. They say Saturday night, something like that will put in the date. This sentence is common for migraines. They will ask if what they're currently experiencing, if it feels similar to
+
+[19:00] their previous migraine headaches. If he said no, you know, this is different, then maybe they would have, you know, been concerned about other things. There would be more differential diagnoses, or even less. So he tried something, he didn't get...
+
+[19:20] any better. He said he was feeling miserable so basically he's coming in to get some relief hopefully of his headache. Do you have questions about his HPI or anything through ROS?
+
+[19:40] All right, migraines, hypothyroidism. Of course, the meds will be updated on site, the allergies will be updated as well for you. And then his exam was normal, completely normal, neuro, walk.
+
+[20:00] talking, talking, equal strength, sensation, all that stuff. GCS was 15, so you had to go through the scoring tool, and any questions on the physical exam first. So he did
+
+[20:20] didn't have anything. The female had the ENT related stuff. So you had to be careful not to mix up info. He had the head CT and he also had lab results. They got an ESR on him as well, said Rate.
+
+[20:40] And he was observation. So start time, reason, add in the treatment, all that stuff I did ask you to include a little like medical decision making here explaining why they're going to order a head CT in this setting.
+
+[21:00] where he has like a migraine and he's known to have history of migraines. They are just talking about what they're concerned as for. And I don't think I said this to you guys when we were talking about like diagnostics. This is like a question, an important question that you can use on site.
+
+[21:20] to get more information from the clinician that you're working with. Doc, or, you know, if it's the PA, you say, what are you concerned about for this patient? That opens up like the lines of communication so that they can start to talk about, well, you know, I think it's...
+
+[21:40] this or it could be this, I'm going to order this and then you can say do you want me to capture that in the note like what do you want me to say specifically but even if they don't have you enter something like that just having you understand the medicine behind it and what their concern is helps you
+
+[22:00] to know what to look out for, which test should I be, you know, that result, which one should I be like really focusing on, that I want to get back to them when it comes back, when I want to relay that to them. So, um, and you are going to have system...
+
+[22:20] thinking about like things like this. You are going to have clinicians who hoard notes they are going to see two patients and come back put orders in. They're gonna go see another two patients, come back put orders in, go see another patient
+
+[22:40] If they aren't coming to talk to you, you have to get up and go to them and say, hey, can you tell me about this case? And there's a clinician, a Clara that I'm thinking of, that would do this. And while he was like sitting there kind of of putting in orders, I would say.
+
+[23:00] Hey Doc, is this an abdominal pain case? Like I'm gonna open a template for this one and start filling it out. And that would make him like stop and say, yes, it is abdominal pain. Okay, let me just tell you about the case. And then he would tell me about the cases. So sometimes...
+
+[23:20] they get in this rhythm and they forget to talk to us. Don't be afraid to stop them and say like, okay, you've got five notes to tell me about now. Can we talk about this? And that's why it's also good to follow them around because there might be an opportunity while you're walking through the hallway that they just
+
+[23:40] start talking about cases or maybe they'll just say like, okay, we're five notes behind at this point that I have to tell you about just come in with me for this one or whatever the case may be. So little things like that. You're going to learn more about onsite, but
+
+[24:00] ... Um
+
+[24:20] Okay, let's see. All right, do you have questions about the beginning of the observation smart phrase? You know, it kind of went a little bit off on a tangent there. Order of information, anything like that.
+
+[24:40] Yeah. So, if we ask about what template, like, you know, like we're thinking about, or what the patient, they think is like the main complaint, or diagnosis.
+
+[25:00] I would play a then in external records we can go and look for anything that is related to the case as well right? For the doctor? Yes, so what was the example he gave from Shah? I was saying like if we had got...
+
+[25:20] talk to a doctor before we actually have a template and stuff, then we can go in external records to tell them if there's anything, any information. Yeah, absolutely. That is definitely something that can you can start the thought process of...
+
+[25:40] Okay, if it is abdominal pain, like I'm gonna go and look in their past records and see if there's anything that I can find that's important that I can tell them about. And that's also like a good way to say like, oh, you know what? That patient that you just saw, I was just looking through their records and I-
+
+[26:00] I saw that they were here two days ago. And maybe they know about it. Maybe the patient said I was here two days ago. Maybe the patient doesn't say anything about it. So yes, that can also open like the lines of communication and get information about the patient that you can start adding to the note. And it's also really helpful.
+
+[26:20] for them as well so they don't have to go searching through records. Yeah. I have a question. In the template for the treatment, it was labeled as like wrongo and treatment but I see here you did just treatment.
+
+[26:40] Is that like me the same thing or is that kind of different? So I think that so ongoing treatment is only used when there's something from the initial treatment, the first treatment we put in that is still being received on the
+
+[27:00] reassessment. I think the reason they didn't use ongoing treatment is because the fluids were being given bolus. I mean, they're still probably running when, you know, they go in for the reassessment, but it's possible maybe they were done so they didn't include anything for the ongoing.
+
+[27:20] treatment. The morphine is a new order. That's why it's said treated like that's why they say treated with morphine. Okay. So then for like the saline, like do we just ask them, are you still giving?
+
+[27:40] them this from earlier or will they just tell us? You can. You can. Or if you see that it's like, you know, like we had before for the critical case, it was 100 ml per hour and they're giving a full liter. That's like by default, that's going to be an ongoing treatment. Or like,
+
+[28:00] like a nebulizer treatment. There aren't too many medications that you can add for ongoing treatment, but those are a few. If it's being controlled at a rate over time, or it's something extended like a nebulizer treatment, those kind of things go in ongoing treatment. Okay, thanks.
+
+[28:20] sense. Thank you. All right. So okay
+
+[28:40] To finish this one up, we had it crossing midnight. I wanted to give you an example of that. So crossing midnight, day two, there's more medical decision making that's going to go on calendar day.
+
+[29:00] So again, we have like a reassessment, we have labs and imaging, we have a discussion being captured at this point, final reassessment, and they decide on admission. So when you have cases like this that cross midnight, you are going to see that there are problems.
+
+[29:20] going to be there for several hours because they're not always able to get in touch with the doctor in the middle of the night. So they'll just continue to provide treatment to that patient waiting for the office or the answering service to you.
+
+[29:40] you know, give them that call and them to call back. And then he was admitted. This also happens on site. Dr. Kade covering for Dr. Penske, sometimes they call one doctor, another calls back. Maybe Dr. Penske's out. You know, Dr. Kade is covering his patients.
+
+[30:00] So, and that takes us to the end. And don't forget because it crossed midnight, calendar day two, we need to include, I spent greater than 30 minutes dispositioning the patient.
+
+[30:20] this one is for admission. You've got your two midnight rule. This is the end of Observation Time. And that was it. You will see that cases that have an APP involved when the patient is admitted, they typically bring in the physician.
+
+[30:40] and ED attending, they will have a discussion about the case or the ED attending will go see the patient or speak to the consultant or the admitting doc so they will be involved in the case. It's gonna be medical decision-making for those admissions.
+
+[31:00] Do you have any questions about the rest of the note? Okay, I lost track of time. Olivia has joined us. You know, stop sharing.
+
+[31:20] Hi, can you see me good? Yes, now you were blurry at first. Give me one second, I'm getting my dogs to chew it. Okay.
+
+[31:40] Okay, no worries. Hi everyone. Thanks for joining us.
+
+[32:00] us. You want to introduce yourself and tell them your say in everything? Yeah, of course. So my name is Olivia. This meeting is being recorded. Sorry. I'm one of the scribes at Claremoss Medical Center and I've helped lead our subsistence and the sheeted for the past year and a half.
+
+[32:20] So we thought we'd get on to train you guys during training so that you have a better idea once you're on site. So we're just going to go over a little bit of how to document sepsis. And I will pull up.
+
+[32:40] I'm going to share my screen to you guys. Do you want to see this? Yes.
+
+[33:00] Okay, so for those of you who don't know what sepsis is, it's a life threatening medical emergency that happens when the body's extreme response to an infection causes widespread inflammation and tissue damage. Basically, it can lead to organ failure and death if not treated quickly. So because timing is so important.
+
+[33:20] we've been trying to utilize our scribes to quickly alert the department when steps has triggered on a patient so that the providers, nurses, coordinators, everybody in the emergency departments on the same page so that we can treat the patients as promptly as we can. So that's where you guys come in.
+
+[33:40] So we're trying to establish a communication method. The UGuys' message is going to serve as a prompt to everybody else, and it's going to help improve our documentation. So your role helps the team stay organized. So the first thing you're going to see on your...
+
+[34:00] tracking shell, we're going to add the sepsis column. So if a patient does trigger sepsis, you'll see this sun icon alert. Or if the sepsis bundle was ordered, which means they ordered the bundle that they use for sepsis treatment, you'll see this icon. So then if you ever see either of these icons on your board, that should be
+
+[34:20] prompting you to ask the provider immediately, oh look this patient triggered sepsis, what do you want to do with them? Are we initiating it or aborting it? Boring it just basically means it's a false trigger. So like if a nurse documented incorrect vitals or they already have a previous diagnosis that um
+
+[34:40] can be attributed to their symptoms, then that's also reason why sepsis would be awarded. So the first thing we're gonna do is you gotta find times zero. So on the practice advisory tab, which I'll show you on the next page, you should see sepsis alert.
+
+[35:00] You'll see the provider and you see this time, 833. You can also confirm this time in the orders tab. You'll be able to see what time the antibiotics and fluids were ordered and that should usually line up with this time. And if you're not able to find the time, that's okay. Just make sure that you
+
+[35:20] to get everybody on the same page. So this is what I mean by the orders tab, so you can see what time everything was ordered. So for this one, I had to use the time 7-11. So our next step is once we know if sepsis is being initiated or a board.
+
+[35:40] We're going to send it in our group chat. So every ED has its own separate group chat, which includes all of the scribes in the department and then all of the charge nurses and clinical coordinators. So once you send this message in there, that's what serves as an alert to everybody like look this is
+
+[36:00] going on right now and we have to make sure we treat it promptly. So in the chat, you basically just send the patient's last name, first name, their medical record number, which provider is on the case and if it's being initiated or boarded and at what time. So here's an example below.
+
+[36:20] Your next step is documenting in the note. So typically, sorry about that, typically. We will use this one that's underlined the ED sepsis bundled. That will include your what you need for if sepsis is initiated or if it's
+
+[36:40] I usually like the one that includes both, and then I just take out whichever I don't need. And then I'll give you a little bit of an example of that on the next page, but basically it's gonna include the time that you found, that time zero. If they are being initiated, if substance is being initiated, then you have put in not only the time.
+
+[37:00] but what antibiotics and what kind of fluids. So whatever, whatever time you find, one hour later is going to be your reassessment time. So to the fluid.
+
+[37:20] Let's show you this other one first. So this is basically what initiated what the documentation would look like, this box up top. So like I mentioned, that time zero that you found, that goes in this spot, and then you would fill in what antibiotics you used, and then for the fluids, there's a drop down. This part is probably the...
+
+[37:40] most confusing, but you'll get this drop down of your different options. So fluids can either be weight-based, which basically just means whatever the patient's weight is, times 30. That's the amount of fluids that were given, or it could be ideal body weight, which you'll be able to tell, or it could be limited.
+
+[38:00] which means they are given a smaller amount of fluid because they have some type of CHF or end-stage renal disease where they don't want to overload them on fluids. So you just have to document why. So if you look in the orders, you can see the fluids, you can see
+
+[38:20] This is 30 milliliters times 870 kilograms. That's the patient's weight. So on that left, on your left hand column, where you'll see I boxed it off, but this will be where your patient's name is, where you can see vitals and their weight. So if you see that weight times 30, then that's how you know it's the weight-based option. And then if it's ideal,
+
+[38:40] you should see that little ideal number here. And then if it's anything less than this amount, you know that it's got to be limited. And then this is an example of if sepsis was aborted. So these are some examples of why sepsis would be aborted.
+
+[39:00] I was mentioning previously, if the nurse documented incorrect vitals, if they have some type of viral illness, they tested positive for DKA, A5, there's a few different reasons why I could be awarded, but basically you would do the same thing, you find that time, you put your time.
+
+[39:20] and then you put in this blank pink box why, what is the reasoning for why it was aborted? So this is kind of your workflow. You get the alert, your figuring out, is it being initiated, is it aborted? You find that time zero, you send your message in the chat, and then you dock.
+
+[39:40] minute and that's pretty much the whole workflow but basically we're trying to be as prompt as possible is the main goal of this so as soon as you see that icon or are informed by the clinician to make sure you send that message in a group chat and if you have any questions at all make sure to ask
+
+[40:00] because trust me, everybody in the department, rather you ask, then assume something incorrect and everyone's super helpful and nice. So don't be afraid to ask anybody. All your other scribes should also know the process so it shouldn't be too bad for you. If you guys have any questions
+
+[40:20] me now. I know that's kind of a lot a little confusing off the bat, but if you have any questions. Do we have this so available to look over? I can send this to Cheryl and she could send it out to you guys. Thank you. I think I have a copy of this.
+
+[40:40] I can send it to everyone. Perfect. Thank you. No problem. The recording has stopped. Do you have any last questions for Olivia on Supsis documentation?
+
+[41:00] We are going to have a sepsis case that we're going to do together, so we'll get a chance to put at least the bundle in the note and practice filling that out. So the workflow you guys will get to practice that on site.
+
+[41:20] you know, during training and everything. So yeah, all of your trainers will make sure to go over at least one steps this case with you. And if they don't, just ask them and they'll be happy too. But it was nice to meet you all. Good luck with the rest of your training and for any of you at Claremont. So see you on site. Thanks a lot.
+
+[41:40] Olivia. No problem. Jihad, yes, there is an epic messaging system where you can, that's where you'll put in like the sepsis information.
+
+[42:00] If that's what you're asking. We haven't used it in the practice environment, but yes, you can use the messaging. Okay.
+
+[42:20] Let me give you guys a break here. Let's take five.
+
+[42:40] [silence]
+
+[43:00] [silence]
+
+[43:20] [silence]
+
+[43:40] [silence]
+
+[44:00] [silence]
+
+[44:20] [silence]
+
+[44:40] [silence]
+
+[45:00] [silence]
+
+[45:20] [silence]
+
+[45:40] [silence]
+
+[46:00] [silence]
+
+[46:20] [silence]
+
+[46:40] [silence]
+
+[47:00] [silence]
+
+[47:20] [silence]
+
+[47:40] [silence]
+
+[48:00] [silence]
+
+[48:20] [silence]
+
+[48:40] [silence]
+
+[49:00] [silence]
+
+[49:20] [silence]
+
+[49:40] [silence]
+
+[50:00] All right, so what I'm gonna do is just pull up the female Headache from yesterday and also the patient that went the RGU patient and see if you have any questions We don't have to go through it in detail. I want to get started on the notes
+
+[50:20] today, but if you have any question, you can definitely ask. All right, so this is the female case. Do you have any questions about the beginning of her note, especially like anything for the ROI?
+
+[50:40] where we added some information about recent symptoms. Okay. She did have fun.
+
+[51:00] findings on the ENMT exam. So she has bilateral otitis media based on this finding and they did call this cellulitis she has some tenderness there. Sinusitis. I don't know if I'm until you're late.
+
+[51:20] or sinusitis, but sinusitis. And everything else was normal. She was a little bit dry as well. You can remember, you can slightly dry. So sometimes I see like confusion between ROS and physical
+
+[51:40] exam findings. Keep in mind that what we're adding to the ROS are symptoms. You want to think about it that way. This is subjective information. It's coming from the patient and subjective is symptoms. So here we list the patients
+
+[52:00] This is always going to be objective from the clinician standpoint so they are going to give you physical exam findings in this portion, not symptoms the patient has.
+
+[52:20] She had a head CT result and labs and then she was observation. They gave her fluid to give her tort all. She also complained of some nausea later. They gave her dose of zofran, they gave her antibiotics. First dose in the ED.
+
+[52:40] Do you have any questions about her observation section? Okay. This one was APP alone. So Rada.
+
+[53:00] She's going in here. This is her identifier ending her documentation and then this is the physician speaking saying, brought us the one that managed the case. Okay, I don't have yet.
+
+[53:20] another notebook in, let me open that one. Okay. So there, notes in the RDU.
+
+[53:40] Basically, say, R-D-U throughout it. It really should not say emergency department, unless they are saying the patient was sent from the emergency department, or we discuss the case with the emergency department. So you're gonna see R-D-U burbage.
+
+[54:00] throughout the node. Throughout this particular template. Template is a little bit different. You're gonna notice certain things. They tend to have a more detailed ROS for the RDU notes. Physical exams slightly different.
+
+[54:20] I wanted to also give you an example of where they had an interpreter because you will have situations like that. They usually capture the interpreter number. So even if they don't use Marty, which by the way, Marty is basically...
+
+[54:40] a screen that they can roll up in front of the patient, and the patient can actually see the translator on the screen. There is something called a language line that has two phones, so they can also bring the language line to the patient. That's another option.
+
+[55:00] Sometimes they have an in-house interpreter that they can call down. There's a possibility for that as well, but they usually include interpreter number somewhere. I do want to note for you all that if you do speak more than one language.
+
+[55:20] we technically should not be an interpreter for situations like this. We are there solely for documentation purposes and you know someone who is an interpreter has that training and they have the coverage like if they're stealing.
+
+[55:40] medical information so we don't ever want to interpret because we could state something incorrectly or interpret something differently than someone who has the training so I had someone in a past class that went for their shadowing and
+
+[56:00] They let them know that they spoke the language of the patient and then they just kept coming to this person throughout their shadowing shift to translate. And they didn't even get to have a shadowing shift. And again, this could be a liability like issues.
+
+[56:20] So I don't want you to not be helpful, but just keep in mind that technically we cannot be interpreters. So I don't know. Do you have any questions about anything for her note?
+
+[56:40] physical exam. I have a question about the interpretive thing. If you have taken a course and then you get to certification and everything done then a medical scribe can be an interpretive result. I would say no. We can definitely clarify with Matt but I think because of the
+
+[57:00] role you are working under as a scribe, we cannot be the interpreter. We're there for documentation purposes. If you were to be an interpreter, that would be like if you were working in that job. Does that make sense? Okay.
+
+[57:20] Okay. This is what you're going to see on site. This is what the full results look like. So it's definitely more extensive than what I've been giving you like in the free text version. So I definitely wanted to show you something.
+
+[57:40] that looked more like what you'll see on site. They will have this like detailed exam with them going through all of the like important findings and then you're going to see an impression, a final impression where they summarize the most like acute or notable things.
+
+[58:00] So, all right, I will just scroll down to the bottom here. We always capture the discussion. So if you're the ED scribe and the patient's going to RDEU, we always say case discuss with RDEU. And then in RDEU, RDEU scribe captures...
+
+[58:20] the discussion with the easy, it's default in the templates. It is in this spot because they typically have the discussion first and then they go on to explain all the treatment in R.D.U. for the patient. And of course you saw the bullet system. That's how the
+
+[58:40] have it set up in the R.D.U notes. So you're just going through the same process just like we did with ED observation where you're choosing the next step. Is there another reassessment? Are they being discharged at this point? Are they being admitted? Is there a turnover of care it can pull in the turnover stuff for you as well? So...
+
+[59:00] This is what it looked like. So hopefully you got a chance to look at that last night when I said the answer key. Do you have any questions about the already you note? Okay, if you didn't get a chance to look at this one, maybe take some time to do that.
+
+[59:20] over the weekend. Does this auto populate? Do you mean should the ultrasound result? Yes, absolutely. All the ultrasound and CT results auto populate for you.
+
+[59:40] Some of the results populate only the impression part. So if they want the full result, you might have to like open it up and copy it and paste it into the note. That was like an epic issue that was going on. So I don't know if that's actually...
+
+[60:00] been fixed on site, but yeah, this will populate into your note, the result. They also one last thing. They also typically do something like this. So it pops into the note because with R.D.U. cases, they tend to stay too.
+
+[60:20] sometimes even three days and each calendar day needs to have an identifier on it and attestation. So there has to be and there's usually an APP working in R.D.U. so there's always going to be...
+
+[60:40] to be an APP involved in the case and the ED attending. So they'll start off by saying day one, this is who cared for the patient. They cross this midnight, you will see day two, this is who cared for the patient. And there needs to be one attestation per calendar day.
+
+[61:00] So what that means is if the physician is having a discussion, if it's medical decision-making, for the day, it's medical decision-making for the day. The next day, let's say the APP manages the case on their own and there's no...
+
+[61:20] discussion, there's no MDM with the physician, then on calendar day two it would be, you know, APP alone. But if at any point in time they talk about the patient on calendar day two, it becomes MDM. Or if the physician comes in and sees the patient, an examines patient.
+
+[61:40] at 7 o'clock. So, um, one attestation per day. Okay. We are going to start our notes at this point. We have seven charts that we're working on in total today. We're gonna have some that...
+
+[62:00] start before lunch and then some that we're working on after lunch. I'm gonna have you log into Epic if you haven't done so go into NBR and today I'm going to be sharing a document on the screen that you're gonna have to reference while
+
+[62:20] working on notes. It will have all the demographic information on there. I'll show it to you once it opens. Okay close.
+
+[62:40] So one thing you can do today to help yourself like state organized is
+
+[63:00] Once I start to add the patients on the screen and you're like adding them into the system, you can like pre-set up your whatever you're using to take shorthand with like the name, not the name of the patient, the age like the complaint of the patient.
+
+[63:20] However, you identify who you're typing that note on or who's shorthand it is. You can set your page up like that or your note pad, whatever you're using to take shorthand. I'm going to share the document.
+
+[63:40] Yes, we are jumping between notes, so you're going to be managing multiple cases at one time, more than yesterday. It's going to be more challenging than yesterday.
+
+[64:00] Good question. Do you recommend going through as much of one at first and then switching over? Do you think going back and forth is a good idea? That's a great question.
+
+[64:20] what I typically do is, you know, let's say that I got three cases from the clinician. I'm going to start the first one and I'm going to finish it as much of it like that I have a short hand for and then I'm going to move on to the next one. If I...
+
+[64:40] get an update, I will save or I will put that update in immediately. So let's say I'm working on the second case and they give me an EKG for the first patient. I will go back to the first patient and I will put the update in immediately and I'll cross that off my short.
+
+[65:00] hand or whatever. So I know I entered it. I do personally add updates right away so that I don't forget to add it later on. But yes, I try to work through completing as much of the shorthand as I have for each note as I go along.
+
+[65:20] versus, you know, let's say starting an HPI on this patient, but not doing the physical exam, going to the second patient, starting the HPI on that one. Try to work through completing exactly what you said, completing a note as much as possible before you move on to the next note.
+
+[65:40] Okay, sounds good. Okay, so I'm gonna start adding in the information for the patients and then you can add them into the system.
+
+[66:00] And I'll also talk to you guys about this document a little bit.
+
+[66:20] [silence]
+
+[66:40] So I will be giving you less information today. Like I'm going to dictate less information because you will have some of that information on this document. So you will have to like reference this from time to time to see.
+
+[67:00] you know, what the status is, what the orders are, is something new ordered because this is how you're gonna, like this is gonna be the workflow on site really. I'm just gonna add a few patients in for this morning and then we'll talk about some.
+
+[67:20] information for this document. We are going to have a mix of security.
+
+[67:40] Meaning some of our notes will be straightforward medical decision making regular MDM cases Some will be critical care Some will be observation make sure that you know which workflow you should be using
+
+[68:00] Okay, just take a look at this document I'm sharing for a moment. I just want to explain that I will always tell you if it's a regular no or obbs or critical care before we start you know going over that.
+
+[68:20] MDM section, but the status will also reflect that, at least in the beginning until they have disposition. So active is generally gonna be a regular MDM case. If they're observation, you're gonna see obs here. If they are a critical care case, you'll see CC.
+
+[68:40] in the status. Once disposition is made, I will change it. So if they're admitted, it's going to say admit. If they are being discharged, I'm going to put in D slash C. Down here, I am going to
+
+[69:00] to input orders. So I am also going to include who you have described for. So...
+
+[69:20] On this side, I'm just gonna say, hold on when we put in the correct person since I'm throwing it out. Okay, so this one is going to be Rada. And I'll tell you if it's APP.
+
+[69:40] alone or if it's MDM. And then I'm going to list, I will list out the labs that are being ordered for the patient. It doesn't mean that you have to, you know, actually put the labs that were ordered in the note. You just want to make sure like that you have everything
+
+[70:00] and I want you to get more familiar with things that they commonly order, you know, based on presentation. So any name for the patient, so we get something. Use, use your name again. So that they can easily find your note.
+
+[70:20] [silence]
+
+[70:40] Sometimes I will put comments in if something new is being ordered or if we're waiting for a test or phone call I might add a comment to that column.
+
+[71:00] [silence]
+
+[71:20] [silence]
+
+[71:40] The template choice also matters. I think it will help you with some of the cases if you use the right template. So you have any questions about the template to choose.
+
+[72:00] [silence]
+
+[72:20] [silence]
+
+[72:40] [silence]
+
+[73:00] [silence]
+
+[73:20] [silence]
+
+[73:40] [silence]
+
+[74:00] [silence]
+
+[74:20] [silence]
+
+[74:40] [silence]
+
+[75:00] [silence]
+
+[75:20] [silence]
+
+[75:40] All right, so even if you haven't added all the patients yet, I am going to tell you about the first two cases and if you need to add more patients after that, you can do that. So let me tell you about the 45-year-old.
+
+[76:00] who's coming in with palpitations. So he said that he woke up this morning feeling breathless, associated with palpitations. The patient reports that after his symptoms developed, he began to experience...
+
+[76:20] Numbness around his mouth and to both of his hands. He did not take any medications for his symptoms. And he had his wife bring him to the ED for further evaluation.
+
+[76:40] No fever, chills, hemoptysis, chest pain, calf pain, or recent travel. He has a history of similar episodes multiple times since he lost.
+
+[77:00] his job one month ago. In his ROS, please add a psychiatric system and say positive, prior emotional distress.
+
+[77:20] He has no medical or surgical history, otherwise no smoking, alcohol or drug use. The patient was recently laid off from his job. He is awake alert, mild emotional distress.
+
+[77:40] His vital signs are 98.7, 112 over 75, 62, 14, 95% on Rumeir. He has no conjunctable...
+
+[78:00] injection. Nucis membranes are moist. He is not tachycardic. And his neuro is normal. His affect is normal.
+
+[78:20] They did an EKG on him when he came in. So the EKG shows a sinus rhythm at 82 with normal access, normal intervals. He has one PVC, no STT changes.
+
+[78:40] You already have some orders in for labs and also a chest X-ray. He is regular MDM. He's not OBS, not critical care. There is an external record I reviewed.
+
+[79:00] So he was seen in the emergency department at NBI on April 18th for a panic attack where he was evaluated and discharged home. So
+
+[79:20] So after I saw him, I came back to put orders in and his wife came up. So we're going to add in some information after the external record. Say that his wife reported that he was feeling short of breath and like he was choking.
+
+[79:40] I re-evaluated the patient immediately. He was in no respiratory distress. His lungs were clear to ascultation. No tongue or lip swelling. His airway was...
+
+[80:00] was patent or patent. His O2 sat is 99% on room air currently. So I'm going to put an order in for some Zanax for him. I also saw
+
+[80:20] Actually, you know what, I'm going to tell you about the next patient in a few minutes. So do you have any questions on this case? Is- Have you repeated the HPI? Yeah. All right. All right. If anyone needs the HPI or anything is-
+
+[80:40] the HPI, I'm going to do it one more time. So he said that he woke up this morning feeling breathless associated with palpitations. He reports after symptoms developed, he started to experience numbness around his mouth.
+
+[81:00] and to both of his hands. He did not take any medications for his symptoms. He had his wife bring him to the ED for further evaluation. No fever, no chills, no hemoptosis, no chest pain, no calf pain, no recent trouble.
+
+[81:20] and he's had multiple similar episodes since he lost his job one month ago. He said he was awake and alert and my emotional distress. Can you repeat the final
+
+[81:40] Yeah, 98.7, 112 over 75, 62, 14, 95 percent on room there. Would this be the RWJBHED palpitation note or great question?
+
+[82:00] And I think that there is a panic attack. Anacotek. Yeah, look for that one. I think that one will fit the best. Mm, yeah, okay. The only thing to note for that template, or keep in mind any template that you use that doesn't have the EDMD.
+
+[82:20] smart list is I would go into another template or search for the EDM DM smart list and pull in that smart list so you have all the updated information.
+
+[82:40] copy and paste it in. You can, yeah, you can copy and paste it. That means you have to delete what's in the template from basically your procedure section down to the bottom and paste it in.
+
+[83:00] Is there a smart phrase for it? Yes, you can search for EDMDM, like one word, no spaces. And then you'll see all the smart lists come up like that. And you can use like a regular one for this. They might say like EDMDM regular.
+
+[83:20] Okay. I see his PCP, but he doesn't have, I guess, psychologists or psychiatrists, right? No specialist? He doesn't. This is like kind of new for him. Good question though. What was he negative for? Before cat pain?
+
+[83:40] negative chest pain, negative hemoptosis. One strip is the same as the EKG, by the way.
+
+[84:00] [silence]
+
+[84:20] [silence]
+
+[84:40] Any specialist?
+
+[85:00] [silence]
+
+[85:20] [silence]
+
+[85:40] [silence]
+
+[86:00] [silence]
+
+[86:20] [silence]
+
+[86:40] [silence]
+
+[87:00] [silence]
+
+[87:20] Should emotional distress go into medical history? That's going to be an ROS.
+
+[87:40] finding. So you're going to add psychiatric, like a psychiatric system in the list and then put positive prior emotional distress.
+
+[88:00] Did you say no conjunctival injection? Yes, correct. What does that go under the eyes?
+
+[88:20] Yes?
+
+[88:40] Would the onset for this be a month ago? No, because we're talking about this current.
+
+[89:00] event. So it would be this morning. That's when the symptoms started for this particular Paranagatoch.
+
+[89:20] [silence]
+
+[89:40] Is EKG on arrival the same EKG that was ordered or are there two separate ones? The one that I gave you is the EKG that was ordered.
+
+[90:00] Was he like headed or no? He was not.
+
+[90:20] [silence]
+
+[90:40] [silence]
+
+[91:00] So, what was the temperature taken, which source? So, what was the temperature? No, no, no, no. Actually, I mean the pulse. This is the pulse, the solid speed. Oh, um, you.
+
+[91:20] can leave positive distal pulse. They didn't give a specific pulse for this.
+
+[91:40] they Was it one PCV?
+
+[92:00] for EKG? One PVC, yeah. You can say like positive PVC times one or X one if you want to capture it like that. In a PVC is a type of ventricular entropy? I believe so.
+
+[92:20] Let's put it in as a per negative as well. Yeah, I would take it out. All right. How many things for the HBI, how many negatives could we have? Was it five? I just want to make sure I have them all. Six, so no fever, chills, no hemorrhage.
+
+[92:40] no practices, no chest pain, no calf pain, no reason travel. Thank you. We should we put for the provider for the rhythm, should you can use the APP for this one for the entire existence.
+
+[93:00] [silence]
+
+[93:20] [silence]
+
+[93:40] was there a time stamp for the reassessment? Nope. When I put in the APP for the rhythm strip, it says no matches. Not. Then it will. You.
+
+[94:00] just free text in the APP. If you're trying to search for it, yeah, there's a possibility it's not going to come up since it's a training environment. Okay.
+
+[94:20] [silence]
+
+[94:40] The run up hotel is not, I mean, not. Yes, the training environment won't have Radha's name, so you don't have to select the name anywhere.
+
+[95:00] You can if you're trying to do it in the Proc docs section the note writer just choose two names That's fine Wait, who was the EKG interpreted by? The APP for this one. Okay the APP
+
+[95:20] The X-ray tool. Yes.
+
+[95:40] Really EKG, it's just, you should just write like SR at a rate of 82 normal axis, normal interview rolls one PBS and then.
+
+[96:00] the rest of it? Yes, you can use SR for sinus rhythm. And then normal access, normal intervals are just statements, you don't have to use positives.
+
+[96:20] The PVC is a positive finding though. And then, yeah, then STT changes, negative STT changes. I don't know if I answered all your questions. Okay. Yeah. Thank you.
+
+[96:40] Okay Let me tell you about this altered mental status case. I just came back from seeing her the nurse had called me in the room So she has a history of dementia She was brought to the ED accompanied
+
+[97:00] by her family, who noticed the patient was confused and combative this morning upon waking up. Her family called 911 and paramedics found the patient to be hypoglycemic with a finger
+
+[97:20] stick glucose of 47. The patient was given glucose and root to the ED with mild improvement. In the ED, the patient states that she quote unquote does not
+
+[97:40] know why she is here. Per family, patient is currently at her baseline mental status. Otherwise, per family, no fever, vomiting, chest pain.
+
+[98:00] or urinary complaints. Her ROS is negative. So in addition to dementia, she does have diabetes and hypertension. She's not a smoker. She lives with her family.
+
+[98:20] at home and her code status is DNR DNI. On exam, she's awake and pleasantly confused. Her O2 SAT is 98% on RUMAIR.
+
+[98:40] Her exam is normal. Except for her neuro, we are going to say that she is awake and oriented to person only. She is at baseline mental status per
+
+[99:00] family. Her pupils are equal round reactive. She is moving all extremities. Anything else you should remove. And her mucus membranes are moist by the way.
+
+[99:20] So I am going to put some orders in for her. She's going to be just a regular note at this point. I did look at an external record. So she was seen in the ED.
+
+[99:40] at CMC Community Medical Center, CMC, on February 11th of 2020 for bilateral leg pain, and she was discharged home at that time.
+
+[100:00] After the external record, I want you to add in a little MDM paragraph. So skip a line after external records and just type in MDM with a colon. We're just going to summarize some information here. So say she's an 81 year old.
+
+[100:20] female with a history of dementia and diabetes, found altered by family, hypoglycemic in the field, EMS gave glucose and root. Here she's at her baseline mental status.
+
+[100:40] labs, including a UA, EKG and chest X-ray were ordered. An appropriate meal was also ordered and consumed by the patient.
+
+[101:00] And that's all I have for her right now. Let me know if you have any questions. But you repeat the HPI. All right, let's do the HPI one time if you missed anything. So his...
+
+[101:20] history of dementia brought to the ED by accompanied by her family. Who noticed she was confused and combated this morning upon waking up? Family called 911 and paramedics found the patient to be hypoglycemic with
+
+[101:40] with a finger stick glucose, sorry, of 47. She was giving glucose en route to the ED with mild improvement. Here in the emergency department, she states, she quote unquote does not know why she is here.
+
+[102:00] Her family, she's currently at her baseline mental status. And then otherwise per family, no fever, vomiting, chest pain, urinary complaints.
+
+[102:20] What template would this be? Um, I would use Altered Mental Status for her. That probably fits the best. The only thing you have to watch out for is I think the Altered Mental Status template is as a critical care and it says you're just going to have to go into another template.
+
+[102:40] and copy the RLS and you can use the links by the way for pulling in medical history and surgical history. I'll put the dot phrases in the document.
+
+[103:00] [silence]
+
+[103:20] [silence]
+
+[103:40] What do I do I pick up the CVCCMD?
+
+[104:00] put anything in for the CBC or the CMP. No, no, no, for the first page. For the 45 year old. For the 45 year old. Okay, so tell me again what you're asking. So I'm asking do I need to select a CBC or how do I select it? You don't have to.
+
+[104:20] selected. Okay. That like we're not putting in like the orders or anything so you don't have to worry about that. It's just for your own knowledge to know what's going to be coming back result wise. Yep. Are you going to give us in the chat? Yes. I will
+
+[104:40] will give you the results of the labs for the first patient in a moment. I just want to reconfer the first one we were using the template of
+
+[105:00] for any attack or are we just like yeah panic attack for the first time?
+
+[105:20] [silence]
+
+[105:40] See this. It is just not we can do Zoom again that's later than we do want. We need to check this out.
+
+[106:00] like symptom area are we leaving that and there you want me to take that out? No, you're leaving it in there and then there should be like a prompt for affect that you have to fill out. We're in a 45 year old.
+
+[106:20] All interpreted by me is changed to the APP. Right? You have a fact.
+
+[106:40] Okay. Uh, Muhammad, I see a question. Okay. I'm going to repeat the MDM for the second case. Okay. So if you don't need the MDM for the second case, just keep working.
+
+[107:00] MDM was patient is in 81 year old female with a history of dementia and diabetes found altered by family hypoglycemic in the field EMS gave glucose and root here the patients at her baseline mental status
+
+[107:20] Labs including a UA and an EKG and chest x-ray ordered, an appropriate meal was also ordered and consumed by the patient.
+
+[107:40] Sorry, is anyone know what is the template actually called? I couldn't find the... I need to get that one. Hey, I'm gonna tell you because I have...
+
+[108:00] the titles in the answer key. So, RWJBHED panic attack note. Try typing in panic after ED.
+
+[108:20] The chest x-ray is no acute infiltrate, no pneumothorax, no acute disease.
+
+[108:40] Thank you. Um, room should you find the template? Yeah, thank you. Could you repeat what you said earlier? The chest x-ray. Yes. It was no acute infiltrate. No pneumothorax.
+
+[109:00] No acute disease. Is that read by me or read by the physician or is that read by APP?
+
+[109:20] [silence]
+
+[109:40] What are the comments for? Just like updates that you'll see in the system from time to time when there when some things like pending or they're trying to give an update. So I just put in re-eval meaning the physicians or APP in that case.
+
+[110:00] is going to go and revaluate the patient. So you're going to be getting an update soon for that one. Okay, thank you. Is that an RWJ? Amoltenmentos? Yes, there is. It is called...
+
+[110:20] Yeah, it's called Altered Mental Status CC. No history, no.
+
+[110:40] No, no new notes are X. Oh, how many?
+
+[111:00] [silence]
+
+[111:20] [silence]
+
+[111:40] So you dictated when we were doing the social history that the patient had mild emotional distress. Do you put that in the social history like after the drinking, after the smoking like the no smoking no drinking? That's generalized appearance in the physical exam.
+
+[112:00] Okay. What about him losing his job? Do I put that in there? No. Yes.
+
+[112:20] losing his job as social history. Okay, all right. Thank you. At the end.
+
+[112:40] 45 year old one you said Xanax was murdered. Does that do we say Xanax ordered or does it go under like patient treated with Xanax? Yeah you should use like a patient treated with. Okay, isn't I'm not sure it was like there.
+
+[113:00] [silence]
+
+[113:20] is the ROS on the obtainable on up sorry unobtainable or is it it's just like a bunch of stuff that's negative
+
+[113:40] Yeah, I would copy it from another template. Yeah, I did it from like the, I think the site one. It is negative. They did get, they did get ROS, so. They were able to get ROS from that. Yeah. Okay. You know what, just to tell you exactly.
+
+[114:00] so it matches the answer key. They have general no fever and GI no vomiting. So you can capture those two for our list. So we're sure. Can you repeat that? You said general no fever and GI.
+
+[114:20] No vomiting. Okay, thank you. Is it for the auto-neumento style? Correct.
+
+[114:40] You said we should use the AMS template, right? So it looks really strange. Yes, you should use all-term mental status, so the physical exam has what you need.
+
+[115:00] What's the smart phrase from medical history? Dot. Dot pmhp. I put it in the shared document. I can see that. Sorry. Oh, worries. Where should we put the mdm paragraph for the alter mental status? After.
+
+[115:20] external records.
+
+[115:40] [silence]
+
+[116:00] [silence]
+
+[116:20] [silence]
+
+[116:40] [silence]
+
+[117:00] 
+
+[117:20] Okay, so
+
+[117:40] So our first patient is going home. This is the panic attack case about petations. You should have his labs, EKG, X-ray, rhythm strip, all of that. I'm going to give you every assessment. So I went in and talked to him.
+
+[118:00] You could say that he appears comfortable and is in no acute respiratory distress. His labs and imaging were reviewed and noted to be unremarkable based on his heart rate, blood pressure, and diagnostic...
+
+[118:20] test results. Suspicion for cardiac and respiratory etiology is very low. Patient is safe and appropriate for discharge. I spoke with the patient and his wife.
+
+[118:40] who agree with the plan for discharge and outpatient follow up with his PCP. He did get a prescription for a few tablets of Xanax, same dose.
+
+[119:00] His clinical impression is adjustment disorder with anxiety. And he's going to follow up with his PCP Dr. Campos in two days.
+
+[119:20] It was who was the follow up arranged by the patient. And sorry, can you repeat what you said before the prescription? I spoke with the patient.
+
+[119:40] and his wife who agree with the plan for discharge. And now. Oh, yeah. I'll patient follow up with his PCP. Thank you. Hmm. You said diagnostic test results suspicion.
+
+[120:00] for what? Cardiac and respiratory etiology is very low. Could you repeat after what you said about him being comfortable and no acute respiratory?
+
+[120:20] Yes, he appears comfortable and is in no acute respiratory distress. And after that we have just medication listed. We had labs imaging reviewed and noted to be...
+
+[120:40] unremarkable. And then the part about his heart rate, blood pressure, diagnostic results. Do you have that? Yeah. Okay.
+
+[121:00] Can you repeat that, Reval? I had an issue with my computer and it just didn't work. We said for the reassessment it was he appears comfortable and is in no acute respiratory
+
+[121:20] Do you need the labs imaging part? I heard that the imaging was normal and that the labs were all unremarkable. Is there anything else I'm missing? I just want to make sure I didn't miss anything. We said based on heart rate, blood pressure.
+
+[121:40] pressure and diagnostic test results. Suspicion for cardiac and respiratory etiology is very low and the patient is safe and appropriate for discharge. All right, thank you. This is a patient I want to know, the patient, right? Suspicion.
+
+[122:00] palpitations case. No, he's not observation just a regular MDM. Sorry, just to clarify.
+
+[122:20] right at AMS template. It's the one that has all dropped down. Right? Like there's nothing filled out really. It's the one that says, um, I don't know, I don't have an epic open right now, but the title of the template was Al Ohanta Ok, who did it?
+
+[122:40] history. Oh okay that makes a lot more sense thank you. Yeah sorry I'm not an epic right now so I can't see what the template looks like. Good question for the palpitation patient waiting.
+
+[123:00] give any prescriptions for like take-home meds, right? We did. He's getting a few tablets of Xanax, same dose. That's what he got in the ED. Thank you. You never gave the Xanax.
+
+[123:20] Yes, he was treated with Xanax 0.5 milligrams P.O. The water that's in the document. Shared document. I said it to you all casually, but you do want to capture
+
+[123:40] treated with and add that information. What was the clinical impression? Adjustment disorder with anxiety.
+
+[124:00] [silence]
+
+[124:20] [silence]
+
+[124:40] [silence]
+
+[125:00] [silence]
+
+[125:20] Are the labs that are most recently in the chart? Is that for the female or the male? That is for the...
+
+[125:40] the 45 year old. Oh, okay. Got you. Thank you. Yep.
+
+[126:00] [silence]
+
+[126:20] I just want to confirm for the first patient, 45-year-old, he doesn't have any medical or surgical history, right? Correct. Thank you.
+
+[126:40] [silence]
+
+[127:00] Did you give the labs for our AMS patient? Hey, God. Yeah, I'm just looking at five or only. Okay. I see.
+
+[127:20] what I did. I put the... Okay, so I gave you the wrong labs for the 45-year-old. It had a UA and not a trapponin, so good catch. So if you are ready, copy...
+
+[127:40] the labs for the 45-year-old, the palpitations case, the panic attack, take those labs and put them in your altered mental status case. I'm going to repost labs. So 45-year-old, male, palpitations case.
+
+[128:00] [silence]
+
+[128:20] All right, so I just put in 45-year-old male palpitations with the lab results for that one. And then to make it clear, I will put in the 81-year-old next to the mental status. And then to make it clear, I will put in the 21-year-old male palpitations with the lab results for that one.
+
+[128:40] [silence]
+
+[129:00] So how do we know who we're scrubbing for? I think you mentioned the mail is a pp. Yes, it's in that track shell. The track board that's being shared. Okay.
+
+[129:20] It says it on the right hand side. Ah, okay, thank you. Just let you know there is a critical patient that came in by medics. So
+
+[129:40] I'm going to see that patient and I will give you that case in about five minutes. I don't have like a basic question. If there's a critical patient coming in, like, can we stop what we're doing?
+
+[130:00] like just get up and go with them and then write down what we like see in here because and then just come back and like change whatever he wants us to say with like for she wants us to say with the dictation. Yes, absolutely. That's the best case is to actually go in the room and see it firsthand and
+
+[130:20] capture everything that's happening in the room.
+
+[130:40] So, I just want to confirm something for the initials annex administration. Is it places in order or do you say patient treated with? Patient treated with. Okay. And that's immediately after the first reassessment. Yes.
+
+[131:00] that little blurb about the way. Yeah. Right.
+
+[131:20] I think the part I missed was the follow up that was arranged. Was there a follow up arranged for the 45 year old? Mm-hmm. It was arranged. You're going to say arranged by the patient and then it was with Dr. Campos, PCP, and two days.
+
+[131:40] Thank you so much. Yeah. Did the 80 on your old have a last known well time? No, you could take that out. Okay. And then it wasn't a critical case, right? Correct. Okay. So.
+
+[132:00] they didn't need immediate attention. Yeah, you can remove that as well. Okay, thank you. Was the palpitation case discussed with anyone? No. Okay, and when it's APP alone, you can just say as a review book. And be right. Mm-hmm. Okay, thank you.
+
+[132:20] Wait, hold on, no. When it's APP alone, you have to change it from by me to say the APP's name as the interpreter. Was the clinical impression for the 45-year-old just can't-tack? It was adjustment disorder with anxiety.
+
+[132:40] Okay, thank you.
+
+[133:00] [silence]
+
+[133:20] [silence]
+
+[133:40] I'm stepping away for a moment just to get water. When I come back, I'm going to give you this CHF case that's coming in.
+
+[134:00] [silence]
+
+[134:20] [silence]
+
+[134:40] [silence]
+
+[135:00] [silence]
+
+[135:20] [silence]
+
+[135:40] [silence]
+
+[136:00] please.
+
+[136:20] I have a patient that was brought in by Medics to tell you about. So she's 75 and she has a history of CHF. She was brought to the ED by paramedics in severe.
+
+[136:40] respiratory distress. As per medics and the patient's daughter at the bedside, the patient has had progressively worsening dyspnea and orthopnea for the past one week, which
+
+[137:00] became increasingly severe this morning, prompting visit to the ED. No fever, no cough, no hemoptysis, no chest pain,
+
+[137:20] no non-compliance with her medications, no recent travel or prolonged immobility. She has a previous history of ED visits for CHF and
+
+[137:40] She has had previous hospital admissions, but she has not been intubated in the past. So she was treated in the field with LASIX, 40 milligrams IV, Nitro-
+
+[138:00] glycerin, 0.4 mg sublingual, and supplemental oxygen via non-rebrither and root to the ED. The patient required and received my immediate attention upon...
+
+[138:20] arrival for shortness of breath. Her PCP is listed for you. Her ROS is negative. So in addition to CHF, she has a history of A-Fib, C-A-D, hypercollect-
+
+[138:40] Asterolemia and type retention. She is not a smoker. She lives with her daughter. On exam, she is lethargic and she appears to be in severe...
+
+[139:00] respiratory stress. She is able to speak in only one to two word sentences and her vital signs are as follows. So 97.5, 118, 22,
+
+[139:20] 2, 2, 24 over 117, 87% on an on-rore breather. She is diaphyritic. She is tichypnic. She is using a...
+
+[139:40] accessory muscles to breathe. She has bibasular crackles. She is tachycardic and regularly irregular. Just two plus pitting.
+
+[140:00] edema to both lower extremities and for her neuro just say she's lethargic and moving all extremities.
+
+[140:20] Her heart score is five. They did an EKG when she came in. So the EKG is Sinus Tachycardia at 122 with LVH and non-specific ST changes.
+
+[140:40] which are new compared to prior EKG from 315 2025. If you have not already figured it out, this is a critical care case.
+
+[141:00] So make sure you choose that work flow. Let me double check template. I think it's shortness of breath. You can use shortness of breath. She, let's see. She.
+
+[141:20] She has an external record that was reviewed. It was cardiology consultation from two months ago. Reveals she had a stress test that was negative. She was not intubated during that admission.
+
+[141:40] After her external record before you put in the treatment, just add a line decision made to place the patient on BIPAP, C-ProPDoc, or details.
+
+[142:00] I think that's everything for that one for now. What questions do you have? The EKG was done on arrival. It's done in the ambulance. On arrival here.
+
+[142:20] that's the E.D. and there was there was nothing done in the ambulance. Not as far as that just the treatment that they gave. Okay. What did you say between the last sentence? What did you say before vitals?
+
+[142:40] Oh, okay. The sentence before the vitals was that the patient is able to speak in only one to two word sentences. In the field, what was the, did you say a supplemental oxygen flow rate for the non-re...
+
+[143:00] either or no they didn't give it. And your epithem medications given in field? They give, um, conversant, duration of medical license.
+
+[143:20] milligrams IV, nitroglycerin 0.4 milligrams sublegal, and then the supplemental oxygen via non-rebrither. Okay, I'm going to repeat the HPI and just
+
+[143:40] moment but Trey the external record was cardiology consultation from two months ago. Reveal she had a stress test that was negative and she was not intubated during that admission.
+
+[144:00] All right, I'm going to do the HPI one time if you need anything, listen up. If you don't, you can keep working. So she has a history of CHF. She was brought to the ED by paramedics in severe respiratory distress as paramedics and patients daughter.
+
+[144:20] the bedside. Patient has had progressively worsening dyspnea and orthopnea for the past one week which became increasingly severe this morning prompting visit to the ED. No fever cough, hemoptosis, chest...
+
+[144:40] pain, non-compliance with meds, recent travel, or recent prolonged immobility.
+
+[145:00] previous history of ED visits for CHF, previous history of hospital admissions, but not intubated in the past. She...
+
+[145:20] had pressingly worse what two things, dyspnea and orthophnea. Okay. Thank you. your So it's okay? is used? you are is it is
+
+[145:40] What did you say after the vitals? Hold that one again. After the vitals, I said she's diaphoretic. And then there's something.
+
+[146:00] else spread up for that. You can take it, Nick. OK. For the templates, is there a SOB or there's a special critical template for that? You can use SOB.
+
+[146:20] Could you spell after this, this, this, I think, what did you say, ortho? Orthopnea, so ortho and then PneA.
+
+[146:40] It was on the quiz too. I just forgot. I bet you won't forget that one now. Can you spell tick, Kipnek? T-A-C-H-Y P-N
+
+[147:00] EIC. Okay, then you said she's using something muscles or accessory muscles. Okay. And then what kind of crack hopes by basil.
+
+[147:20] I'm a bachelor. I be a bachelor. Yeah, B-I-B-A-S-I-L-A-R. Great things. Does she have a cardiologist? Great question. She does have a cardiologist.
+
+[147:40] Dr. Evans, EVAS.
+
+[148:00] So for comparison, there is a CHF template.
+
+[148:20] That does have some of the physical exam findings in there that I dictated. You know, if you chose SOB, it's fine. But if you want to just look at CHF, it does have some of that stuff built into it.
+
+[148:40] HVIs a little bit different though, but shortness of breath is fine too. I just have a question about the first patient. When we write the rhythm...
+
+[149:00] rhythm strap, not the right, but like in the procedure we get it. Like what do we put for their doctors? Like we can just keep using Dr. you y 0 0 for for the like selection. So we all look the same.
+
+[149:20] That's fine. Dr. You. Thank you. Two sentences after the vitals. Okay.
+
+[149:40] Okay, after the vitals, I said patients diiferetic and then I said patient is to get Nick. I don't know if that's what you were referring to. What are they born in? One day...
+
+[150:00] How do I put in the heart score? Okay, so you mean like what to fill out? Or is the link there? Yeah, the prompt isn't there.
+
+[150:20] Okay, so type in. Actually, I don't know if this will pull in the result. Let me test it.
+
+[150:40] DM scoring tool. Oh, I found it. It's a scoring tools.
+
+[151:00] on the three dots. Oh, like it comes up and then it will be in your tab. Like there will be a tab there. Yeah, it's under um it.
+
+[151:20] It's under EHMRG Heart Failure and then there's HeartScore and then there's the Bagger Strong Test. Wait, what template is that? Did you find that found that in?
+
+[151:40] It's so it should be in your tab list Like where we get triage workup my note disc vote. Okay. I would be in the oh I found it. Yeah, okay Yeah, I found it. I don't know why the link isn't in the note D and D
+
+[152:00] It's quite tall. That's Indy and Indy. How do you find that actually? In your tabs, like, like how you go to the triage tab, it's one of those tabs. Oh. Oh.
+
+[152:20] I see. Oh, scoring two. Uh, for like the first one, uh, first patient, we had, uh, rhythm you're
+
+[152:40] and the labs, right? Other than that, did we get anything else for the first one? I know they have like just X-ray and stuff written out. Yeah, the first one we got everything. So...
+
+[153:00] chest x-ray for the first patient was no acute, well, that, oh, I'm looking at that one. No acute infiltrate, no pneumothorax, no acute disease. That was for the first patient.
+
+[153:20] in case anyone's listening. First patient, did you say anything about LVH or no? The first patient, no, didn't have LVH. I'm not sure.
+
+[153:40] [silence]
+
+[154:00] [silence]
+
+[154:20] [silence]
+
+[154:40] For the 75 year old female mucus number intermoist or yes.
+
+[155:00] [silence]
+
+[155:20] Who's the EKG interpreted by? For the most recent one, the CHF case. Yeah. You can leave by me. Dr. Davis is the one seeking that patient.
+
+[155:40] doing what extent does justice
+
+[156:00] to see us. I think I had a lot of two or so but I want to see the great thing. I'm actually trying to figure this out right now. So she's over 65 that gave two points. Her triponent is 14 so one to three times
+
+[156:20] normal limit for triponin. She has a lemon macek her history. She has high cholesterol and hypercension diabetes. I mean she has CAD so she probably has greater than two risk factors. So that's
+
+[156:40] 5 already. Hmm. Non-specific SD changes. Feel like her heart's
+
+[157:00] score should be higher than 5. Did you select anything Steven? Yes I selected a small resource for us. Significant SDDQ.
+
+[157:20] She's 75, she's 65 plus. I'm already at the health scope, seven. Right. I think the trope and I think the trope and I have one. I said one to three times normal in it, because I think seven is normal by the lab. And it's four.
+
+[157:40] 18. So how did the house call seven? Okay. Okay. All right. So let's change heart score. So you can do slightly suspicious. Significant ST depression.
+
+[158:00] She's 65 and older. She's greater than two risk factors. And Dripodin is 1 to 3 times normal limit. So it comes out to 7. So let's change that to a 7.
+
+[158:20] Did you say slightly suspicious? Yeah. Mm-hmm. I think that's just because our symptoms are more consistent with CHF.
+
+[158:40] And we agreed toxide. Yes? Thanks, Evelyn. Mm-hmm.
+
+[159:00] Oh, does that work? Dot heart. Oh, nice. Okay. Thanks, she has. Dot heart score. Well, is the link that will pull that. Resultant if you can't get it to pop up.
+
+[159:20] Okay, so I want to give you guys a quick update for the Alternmental Status Case, the 81-year-old type of
+
+[159:40] glycemic lady. Let's do an update and then I'll let you guys go to lunch and we can finish up those and get some new cases after. Alright so for the hypo glycemic case put in a labs imaging reviewed line.
+
+[160:00] and say that they are noted to be unremarkable. The patient's serum glucose is 97. On reassessment, the patient is resting comfortably in no acute distress. Call placed to Dr. Ferris.
+
+[160:20] Rook, PCP. Right after the reassessment, I want you to add in your scribe smart phrase. So yes, it's going in the MDM. Say that you scribe for Dr. Nelson. Add in the artist.
+
+[160:40] for scribes, but you can delete the identifier information at the end, like where it pulls in the name, date and time, delete that. So, scribe attestation. Attestation for scribes following that.
+
+[161:00] And then I want you to pull in, I'll type it in the shared document. It's .ed turnover and dorsed.
+
+[161:20] So, ed turnover endorsed your adding. Did you share her EKG? Nope. I'm going to give you that in a second. Who did we subscribe for? Dr. Nelson.
+
+[161:40] Once you add in the .ed turnover endorsed, you're going to say case endorsed to Dr. Davis. That's also in the shared document. Dr. Nelson's turning this case over to Dr. Davis.
+
+[162:00] and then say pending a return call from Dr. Farouk. Now at the end of the turnover you're going to see that it has pulled in assigned by and it probably
+
+[162:20] says Jill E.D. Scrib, change that to say Dr. Nelson. We need his, basically his identifier, if you want to call it a pseudo signature, at the very end to end his documentation.
+
+[162:40] a return call. Right after case endorsed a doctor Davis. Did the patient receive any medications? No. Let me
+
+[163:00] I give you the EKG, which is normal sinus rhythm at 61, normal axis, normal intervals, no acute ST changes. Can you repeat that? Thank you.
+
+[163:20] normal access, normal intervals, no acute ST changes. Chest X-rays, no acute pulmonary disease.
+
+[163:40] And yes, for the reassessment, it was that the patient's resting comfortably and no acute distress. And a call was placed to Dr. Fru, PCP.
+
+[164:00] So, we'll leave it there. I'll give you guys three more minutes to work in case you have any questions while you're adding that stuff in.
+
+[164:20] And it's interpreted by me.
+
+[164:40] Yes, that one's interpreted by me.
+
+[165:00] Aw, I'm pretty full of that all.
+
+[165:20] Well, is she giving anything? Nope, just the meal, which is not really like a...
+
+[165:40] with kind of line so you could take it out if there's a prompt.
+
+[166:00] Well, was anything else given after the reassessment of shortness of breath or now the AMS, my computer crashed?
+
+[166:20] It took me back, but I just want to make sure there was nothing said after that. Okay, so after the reassessment, we said she was resting comfortably, no acute stress called to the PCP. I said to input the scribe. I got that. Okay. And then you got...
+
+[166:40] the attestation and the case indoors. There was no like other updates beyond that. You got the EKG and the chest X array. Let me chill for the AMS. No, I did not. Wait, no, I did, I did, I did.
+
+[167:00] Okay. All right. Yeah. Yep. That was it. Is there anything for case discussed? Not yet. We are going to add updates after Dr. Fruve calls back. So leave the rest of the stuff in there. Make sure that you save your work so you don't lose anything during
+
+[167:20] So this is before clinical impression. Yeah, we still have more MDM like narrative to add to the note. All right, um, saver work. I will see.
+
+[167:40] at five to one. So 35 minutes. Come back at five to one. Have a good lunch.
+
+[168:00] [silence]
+
+[168:20] [silence]
+
+[168:40] [silence]
+
+[169:00] [silence]
+
+[169:20] [silence]
+
+[169:40] [silence]
+
+[170:00] [silence]
+
+[170:20] [silence]
+
+[170:40] [silence]
+
+[171:00] [silence]
+
+[171:20] [silence]
+
+[171:40] [silence]
+
+[172:00] [silence]
+
+[172:20] [silence]
+
+[172:40] [silence]
+
+[173:00] [silence]
+
+[173:20] [silence]
+
+[173:40] [silence]
+
+[174:00] [silence]
+
+[174:20] [silence]
+
+[174:40] [silence]
+
+[175:00] [silence]
+
+[175:20] [silence]
+
+[175:40] [silence]
+
+[176:00] [silence]
+
+[176:20] [silence]
+
+[176:40] [silence]
+
+[177:00] [silence]
+
+[177:20] [silence]
+
+[177:40] [silence]
+
+[178:00] [silence]
+
+[178:20] [silence]
+
+[178:40] [silence]
+
+[179:00] [silence]
+
+[179:20] [silence]
+
+[179:40] [silence]
+
+[180:00] [silence]
+
+[180:20] [silence]
+
+[180:40] [silence]
+
+[181:00] [silence]
+
+[181:20] [silence]
+
+[181:40] [silence]
+
+[182:00] [silence]
+
+[182:20] [silence]
+
+[182:40] [silence]
+
+[183:00] [silence]
+
+[183:20] [silence]
+
+[183:40] [silence]
+
+[184:00] [silence]
+
+[184:20] [silence]
+
+[184:40] [silence]
+
+[185:00] [silence]
+
+[185:20] [silence]
+
+[185:40] [silence]
+
+[186:00] [silence]
+
+[186:20] [silence]
+
+[186:40] [silence]
+
+[187:00] [silence]
+
+[187:20] [silence]
+
+[187:40] [silence]
+
+[188:00] [silence]
+
+[188:20] [silence]
+
+[188:40] [silence]
+
+[189:00] [silence]
+
+[189:20] [silence]
+
+[189:40] [silence]
+
+[190:00] [silence]
+
+[190:20] [silence]
+
+[190:40] [silence]
+
+[191:00] [silence]
+
+[191:20] [silence]
+
+[191:40] [silence]
+
+[192:00] [silence]
+
+[192:20] [silence]
+
+[192:40] [silence]
+
+[193:00] [silence]
+
+[193:20] [silence]
+
+[193:40] [silence]
+
+[194:00] [silence]
+
+[194:20] [silence]
+
+[194:40] [silence]
+
+[195:00] [silence]
+
+[195:20] [silence]
+
+[195:40] [silence]
+
+[196:00] [silence]
+
+[196:20] [silence]
+
+[196:40] [silence]
+
+[197:00] [silence]
+
+[197:20] [silence]
+
+[197:40] [silence]
+
+[198:00] [silence]
+
+[198:20] [silence]
+
+[198:40] [silence]
+
+[199:00] [silence]
+
+[199:20] [silence]
+
+[199:40] [silence]
+
+[200:00] [silence]
+
+[200:20] [silence]
+
+[200:40] [silence]
+
+[201:00] [silence]
+
+[201:20] [silence]
+
+[201:40] [silence]
+
+[202:00] [silence]
+
+[202:20] [silence]
+
+[202:40] [silence]
+
+[203:00] [silence]
+
+[203:20] [silence]
+
+[203:40] [silence]
+
+[204:00] [silence]
+
+[204:20] [silence]
+
+[204:40] [silence]
+
+[205:00] [silence]
+
+[205:20] [silence]
+
+[205:40] [silence]
+
+[206:00] [silence]
+
+[206:20] [silence]
+
+[206:40] [silence]
+
+[207:00] [silence]
+
+[207:20] [silence]
+
+[207:40] [silence]
+
+[208:00] [silence]
+
+[208:20] [silence]
+
+[208:40] [silence]
+
+[209:00] [silence]
+
+[209:20] [silence]
+
+[209:40] [silence]
+
+[210:00] [silence]
+
+[210:20] [silence]
+
+[210:40] [silence]
+
+[211:00] [silence]
+
+[211:20] [silence]
+
+[211:40] [silence]
+
+[212:00] [silence]
+
+[212:20] [silence]
+
+[212:40] [silence]
+
+[213:00] [silence]
+
+[213:20] Okay, sorry everyone. I am here now.
+
+[213:40] Alright, I'm going to put the tracking document back up, that shared document.
+
+[214:00] document. Once you're back, make sure your camera is on. I don't want to give any information before I confirm we have everyone.
+
+[214:20] [silence]
+
+[214:40] How do I get to the by-pad part in ProcDog? Because it's not like popping up. It's actually under general. So if there's like a little arrow next...
+
+[215:00] to general if you go to that you'll see by-pad but I think it's at the very top. I would use it by general. Oh sorry. There should be a general button.
+
+[215:20] in the notewriter. I'm going to log in.
+
+[215:40] Yeah, in the note writer there's a general button that you would select, but instead of clicking on it there's an arrow next to it that has a list of procedures.
+
+[216:00] the by-pap is the top one in the list. Let me know if you need me to share my screen. Okay, I got it. Thank you. Yep. Could you share your screen? I'm not finding it yet. Yes.
+
+[216:20] [silence]
+
+[216:40] Let me share. I think. Okay, so when you're in the proc doc, there's general, but you're going to hover over the arrow. So the little arrow here, by pap is at the top.
+
+[217:00] and when you select it, let me check the answer key to see what they filled out besides the bottom part. Okay, so when you do that, it's there some of these
+
+[217:20] These procedures have macros in, meaning they're going to pre-select some information for you. For this patient, she was critical so they could not obtain verbal consent. You can just use emergent situation for her. And that means you're going to have to uncheck.
+
+[217:40] some of these things. They emergently placed around a by-path. So the only thing you'll have checked off is emergent situation and then scrolling down and you can uncheck tolerate it well at the bottom. Scrolling down there's a macro built-in to
+
+[218:00] this comment box and that's where you have to fill out iPAP and ePAP. So the first one is 10 centimeters iPAP and then the ePAP is 5 centimeters. So it should look like this on the right hand side.
+
+[218:20] Virgin Situation by pap details.
+
+[218:40] Everybody good on that? Wait, how did you get the by-pap details in that again? Like, when you use it from this list, it pulls in the details.
+
+[219:00] Oh, okay. I just like the macro. Got it. I would also just a recommendation like for in the future, when you use the general prop doc, it does type in general in the procedure. Technically, we should.
+
+[219:20] name that so that it's clear because it puts a title in your note as to the procedure. Which patient is this for? That's for the CHF case, the 75 year old.
+
+[219:40] Sorry, could you show one more time how you got the by-pad procedure? So, general, here's general, let go hover over...
+
+[220:00] the arrow part and then bypaps at the top. And if you ever need to remove a procedure, you just hit remove.
+
+[220:20] Any post procedure details? Nope. Just tolerated well. No media, patients. Remove tolerated well. Okay. By C-A-F, you meant like, sharpness of breath is the same one, right? Yes.
+
+[220:40] Okay. Can I take this down and put the document back up? Anyone need this? Okay. Okay. So I want to finish out the
+
+[221:00] the all-turn mental status case with you. All right, so you should have EKG, just X-ray rhythm strip, labs.
+
+[221:20] all that stuff back on her at this point. I gave you a reassessment and then we put in, you know, the scribes, smart phrase and the attestation stuff. We put in the first turnover smart phrase. So after the turnover smart phrase, what you can do if you would like, it's just put
+
+[221:40] a page break, like put a couple dashes because now we're going to basically start Dr. Davis's documentation and you are going to add in the dot ed turnover receipt.
+
+[222:00] So that's the next stop phrase that you have to enter. It's going to timestamp it. It's also going to say patient received from previous physician, Blank. So who would go here? Please, I think. Dr. Nell, so.
+
+[222:20] Yes. So, Dr. Davis is saying, I received this patient from Dr. Nelson, the previous physician. You can leave eye-conquer with prior findings, take out the wild card, data reviewed, patient disposition arranged as noted.
+
+[222:40] And then in that drop down, just select the wild card, because we're just gonna type below, noted below. We have a few things that we're gonna add in at this point. Do you have any questions before I move on? Any questions? Turn over.
+
+[223:00] receive. Go ahead. The Cate, depending on a return call from Dr. Farouk, is that before the line break? Yeah, that's going with the case indoors to Dr. Davis. And then do we have a clinical impression like Trump?
+
+[223:20] Dr. Nelson or no? No. Okay. So. So when it worries is that I can care for para finding findings and then there's three aesthetics. What should go into the US tanks? You can delete it. Okay. Oh, man, for the you said for the scribe at the station.
+
+[223:40] we can remove the identifier information or name in the time or the name of the doctor in the time. You yes because basically it's in case and doors too. It's in the turnover and doors. It's assigned by Dr. Nelson or it should stay that.
+
+[224:00] So that's like a last thing. Okay. So it's, should I like keep it as like one paragraph? We're like separated. Yeah, you can get it all together. Like case endorsed to Dr. Davis pending return call from Dr. Fruit, pertinent history. No, but the part, the part before that.
+
+[224:20] where it says the documentation recorded by the scribe accurately reflects the service I personally performed and decisions may not be. I removed the identifier information from that. And then skip a line and then you have case endorsed. Okay. Thanks. Okay. Do you have any questions?
+
+[224:40] questions other questions yes we have a pre-deal line. Oh sorry which line? The line that says patient received from previous physician Dr. Nelson pending a pending is it by Dr. Farouk? So that was the case indoors too.
+
+[225:00] Case endorsed to Dr. Davis pending a return call from Dr. Farouk pertinent history physical exam and lab data review. That's a smart phrase. Okay, how do I trigger that smart phrase? .ed turnover and endorsed.
+
+[225:20] Thank you. Yep. And then after .80 turnover endorsed, you're adding .80 turnover receipt. Now that's Dr. Davis speaking, saying he received the.
+
+[225:40] patient from the previous physician. Okay, so after .ed turnover receipt, I'm going to give you an update because Dr. Farouk called back and we're going to finish out the rest of the note.
+
+[226:00] So, capture case discussed with Dr. Farouk, who knows the patient well. He states the patient has dementia and is confused at baseline. The patient is very sensitive to insulin and often...
+
+[226:20] in becomes hypoglycemic. He recommends the patient be discharged and sent to the adult care center where he is currently working. He will evaluate the patient there.
+
+[226:40] I discussed this with the family who agree with the plan. The repeat finger stick is 110. On reassessment, the patient is awake at baseline mental status.
+
+[227:00] in no acute distress and is stable for discharge at this time. The clinical impression is altered mental status, acute hypoglycemia,
+
+[227:20] History of dementia. For the follow-up, say it was arranged by me with Dr. Farouk immediately after discharge. At the very...
+
+[227:40] And you again need the scribe, smart, freeze and the attestation for scribes. But this time you're saying, I scribe for Dr. Davis. That's because the rest of this documentation belongs to him.
+
+[228:00] Can you repeat the part about the call again? Case discussed with Dr. Frouc, who knows the patient well. He states the patient has dementia and is confused at baseline.
+
+[228:20] very sensitive to insulin and often becomes hypoglycemic. He recommends a patient be discharged and sent to the adult care center where he is currently working. He will evaluate the patient there.
+
+[228:40] Is that the plan? That's like a case discussed with in the narrative. And then the the finger stick is that also included in the
+
+[229:00] I would put it on a separate line. They have, I discuss with the family on a separate line, and then they have the repeat finger stick, and then they have on reassessment.
+
+[229:20] The Client of Compression was altered mental status and acute, but hypoglycemia. Okay, and history of dementia.
+
+[229:40] There's a drop down that starts with the utilization of medications for opioid use disorder. Do we delete that? Hmm, that's an alter mental status. Let me take a look. You can remove it. She doesn't.
+
+[230:00] have opi and us use disorder and no prescription management correct
+
+[230:20] Do so need the reassessment part.
+
+[230:40] Okay, it was, patient is awake at baseline mental status and no acute distress, stable for discharge at this time. And the finger stick was 110.
+
+[231:00] I just want to make sure I pick the right template with template or using Alternate mental status. Thank you.
+
+[231:20] [silence]
+
+[231:40] Oh, sorry, could you feed one more time the starting part where he knows the patient?
+
+[232:00] Okay. So case discussed with Dr. Feru, who knows the patient well. A state patient has dementia and is confused at baseline. Thank you.
+
+[232:20] We're instructions given to
+
+[232:40] border of the nutrients and dominant
+
+[233:00] [silence]
+
+[233:20] [silence]
+
+[233:40] [silence]
+
+[234:00] [silence]
+
+[234:20] from from what hospital?
+
+[234:40] They were from Community Medical Center. Where should the co-satisfaction of DNR DNI go? You could put it under social history.
+
+[235:00] [silence]
+
+[235:20] I'll just open it and get that safn here.
+
+[235:40] you guys are finishing that up. We have to separate for two minutes. When I come back, I have some lower cutie cases to give you. I will be right back.
+
+[236:00] [silence]
+
+[236:20] [silence]
+
+[236:40] [silence]
+
+[237:00] [silence]
+
+[237:20] [silence]
+
+[237:40] [silence]
+
+[238:00] [silence]
+
+[238:20] [silence]
+
+[238:40] [silence]
+
+[239:00] [silence]
+
+[239:20] [silence]
+
+[239:40] [silence]
+
+[240:00] All right, so I have a few.
+
+[240:20] new cases for you. There is a patient coming in or that came in with a hand in laceration. So he reports he's 35 and he reports sustaining a laceration of his left hand.
+
+[240:40] while he was using a kitchen knife at work just prior to arrival. The patient is a chef. He works at M&M Cafe and he was preparing food when the incident occurred. He did wash the wound and he applied
+
+[241:00] some ice. He is right hand dominant. His tetanus status is not up to date. He has no medical or surgical history, no smoking alcohol drug use. He has alerted wake.
+
+[241:20] in mild painful distress. On his left hand he has a three centimeter linear shaped laceration on the palmar surface extending from the second to the fourth.
+
+[241:40] Metacarpal. No distal neurovascular deficit. Positive two point discrimination. The joints above and below the injury are non-tender with
+
+[242:00] range of motion, flexion and extension are intact. He's just a regular MDM note.
+
+[242:20] don't have any external records. So keep it in there to say external records are requested, not available. Adding that a laceration repair was performed to see Proc doc for details. The Tetanus Prophylaxis was administered.
+
+[242:40] So, once the procedure, I know we captured that it was done already, but once the procedure is done, the repair is done, I'll give you the details for that one. Well, we can do that together. There's also a patient.
+
+[243:00] coming in with a dog bite. So he's 65. So he said that he was bitten on his left leg by his neighbor's dog at 9am this morning. He was sitting on his front steps when the dog
+
+[243:20] ran up and bit him, unprovoked. There's no other injury. The animals, rabies, immunization is up to date. He, his tetanus status,
+
+[243:40] is up to date by the way. And he has a history of depression and hypertension, nothing else. He is alert and awake, mild, painful distress. On his left, lower extremity, he has two p-
+
+[244:00] puncture wounds, measuring three millimeters each, on the anterior surface of the left mid thigh. No foreign body detected, no distal.
+
+[244:20] Neurobascular deficit, positive two point discrimination, no evidence of infection. Also regular MDM external
+
+[244:40] records are requested, not available. He is going to get a dose of Keflex, so I'm gonna put an order in for that. And then I also saw a toe injury.
+
+[245:00] So this is a 25 year old male. He said that he injured his right fifth toe when he dropped a 20 pound dumbbell on it, about two hours prior to arrival. He did apply ice to the...
+
+[245:20] injury and he took some motrin with no relief of pain. The patient is complaining of pain rated 9 out of 10. No numbness, no other injuries. He has a history of...
+
+[245:40] of asthma, otherwise negative history, nothing else. He's alert awake in mild painful distress. He does have an O2 sat. The last two patients didn't have any vital signs but
+
+[246:00] that this patient has an O2 sat of 97% on room air. On his right lower extremity, he has moderate swelling and tenderness to the proximal and distal aspect.
+
+[246:20] of the right fifth toe with echinosis, no deformity. He also has mild tenderness of the right fifth MTP joint.
+
+[246:40] distal sensation and capillary refill are normal. His toenail is intact. And the remainder of his foot, ankle and toes are non-tender.
+
+[247:00] to put some orders in for an x-ray and he's going to get a dose of per cassette for pain. He's also regular MDM and external records requested none found. Before you ask questions about these three...
+
+[247:20] Does anyone need anything? I want to take down the information, the orders from the 45 year old. Anyone need this up for another minute? Okay, I'm just gonna make some room to add orders for the new patients.
+
+[247:40] All right, what questions do you have? How old was the bite? 65. Thank you. Can you describe the dog bite one more time?
+
+[248:00] Yeah, let's see. Okay, so he has on the left lower extremity he has two puncture wounds measuring three millimeters each on the anterior surface of the left mid...
+
+[248:20] by? Is that good or do you need the rest of it? Could you also like the starting part of like hand laceration the first one? Could you go over that? Starting. So the HPI, the beginning?
+
+[248:40] Yes. Okay. We said that he reported sustaining a laceration of the left hand while using a kitchen knife at work, just prior to arrival. Was there...
+
+[249:00] more to the dog bite wound after the mid-eye part? I just, what I've after is the no foreign bodies. So it was no foreign body detected, no distal, neurovascular deficit.
+
+[249:20] positive two-point discrimination, no evidence of infection. Okay, thank you. What was the time prior to being bit? When it occurred?
+
+[249:40] It was 9 a.m. this morning prior to the eating. Oh, that was. Wait, are we talking about a different not the dog fight?
+
+[250:00] Uh, was it the dog by what no, the dumbbell, the dumbbell. Okay, hold on at least go to that one. Okay. Two hours, two hours prior to arrival. That's what happened. Any PCP for any of them? Yeah, it's all in the
+
+[250:20] share document. Is your repeat what you said after no neurovascular deficit for the hand veloc litres? yes.
+
+[250:40] Positive two point discrimination and then joints above and below injury are non tender with full range of motion, flexion and extension intact.
+
+[251:00] Okay, thank you. Did you repeat the HPI for the hand laceration? Yeah, we'll do the hand laceration HPI one time if you need anything listen up So here a port is stating a laceration of the left hand
+
+[251:20] while using a kitchen knife at work just prior to arrival. Patient is a chef at M&M Cafe in Hewitt's preparing food when the incident occurred. He washed the wound and applied ice and he is right hand dominant.
+
+[251:40] He said he was preparing a cake. He was... Oh, that... I can't remember exactly what I said. He was preparing food. Food. Okay, thank you. Mm-hmm. What was the name of the cafe?
+
+[252:00] Eminem like the candy. We have to um put the name of the cafe or like the workplace the injury was yes because they'll probably use it as workers compensation so okay thank you
+
+[252:20] But do you repeat the, sorry, the right lower extremity description for the dumbbell case? Mm-hmm. Okay, so it was moderate swelling and tenderness to the problem.
+
+[252:40] proximal and distal aspect of the right fifth toe with echinosis, notiformity, also mild tenderness of the right fifth mtp joint distal sensation and capillary refill normal toenail
+
+[253:00] the rest of the foot, ankle, toes, all, nontender. And Muhammad asked me for the hand laceration exam. Okay. So it was three centimeters.
+
+[253:20] linear shape, laceration on the palm or surface, extending from the second to the fourth metacarpal. Do you need the rest of it? Or is that good?
+
+[253:40] Okay. What are the templates we're using for them? Good question. So, for the laceration, there's an evolution of brazen, lack, puncture, template.
+
+[254:00] It's like combined. The dog bite, there's only a pediatric template so you're going to have to adjust it. There's an animal bite template. And then there is a toe injury template.
+
+[254:20] Sorry, where was the first one? Avolgian, last, uh, a vulgian puncture, laceration, it's like a combined template. If you look for a vulgian, you should find it. I think it might be a quick button.
+
+[254:40] actually. It says abrasion slash lack in the quick buttons.
+
+[255:00] You said there was another template that we could use for the animal bite. The template for the animal bite is a peed's template. He had by himself a certain woman.
+
+[255:20] I'll go to a developer. That's the only one that I'm aware of. Okay. There's no like dog bite template, so. So after you mentioned piece, it's a reason. I'm not the one that we could either combine with this. Oh, I was saying.
+
+[255:40] It is a Peds template you have to adjust it meaning like take out care taker and stuff. Okay. Yeah. Is there ever ROS for a trauma? Do they ever ask like, you have the other symptoms? Anything? Do they have the patients a week?
+
+[256:00] an alert in answering questions, sure. But they'll ask like, like the OROs questions, do they have the other concerns? I mean, if you're not sure, I would just ask them. Okay, because there wasn't an OROs for the
+
+[256:20] which one? The last ration or I don't think there was. They made some updates recently so I think you just went from Tedness status to history.
+
+[256:40] Same thing for the dog, but you see it? Yeah. Oh, I didn't get any for any of them. Oh, you mean like the dictation? I thought you were talking about the template. I'm sorry. No, no. No, I didn't give you anything. They are all negative. Okay. So just review.
+
+[257:00] it make sure nothing conflicts with the HVI. Sorry.
+
+[257:20] [silence]
+
+[257:40] [silence]
+
+[258:00] For SOB, was it hypercholesteremia or hypercholestrolemia? Hypercholestrolemia. I think hypercholestrol.
+
+[258:20] [silence]
+
+[258:40] So we just remove the vital signs for the patients. Just leave in, per nurse is not reviewed by me. Okay.
+
+[259:00] So remove everything else like that. That's right.
+
+[259:20] [silence]
+
+[259:40] [silence]
+
+[260:00] [silence]
+
+[260:20] [silence]
+
+[260:40] [silence]
+
+[261:00] 
+
+[261:20] For the dog bite, it asked if the animal is available for quarantine. Should I put the yes or no for that? Take it out.
+
+[261:40] [silence]
+
+[262:00] [silence]
+
+[262:20] [silence]
+
+[262:40] [silence]
+
+[263:00] [silence]
+
+[263:20] [silence]
+
+[263:40] [silence]
+
+[264:00] [silence]
+
+[264:20] [silence]
+
+[264:40] So are there any vitales for the eluceration? Say it again, see this. And then you vitales for the eluceration case. Bidels. I think that one didn't have any. No, no vital for that one.
+
+[265:00] [silence]
+
+[265:20] [silence]
+
+[265:40] [silence]
+
+[266:00] If there's no vitals, should we just leave it blank or should we delete the section? You can delete it with the exception of...
+
+[266:20] of partners is not reviewed by me. I would that happen.
+
+[266:40] [silence]
+
+[267:00] Where should we put the cathlaxis? It's not there like a patient treated with you should just create...
+
+[267:20] [silence]
+
+[267:40] [silence]
+
+[268:00] [silence]
+
+[268:20] I just want to let you know the shortness of breath, the 75 year old she is going
+
+[268:40] to be admitted. I think I need to give you her chest x-ray. Her chest x-ray is, it was a portable chest x-ray and it's cardio-megally.
+
+[269:00] and pulmonary vascular congestion. You also need her labs, right? I'm gonna give you her labs. Add in a reassessment for her and say her repeat pulse ox is 95% on the by-pap.
+
+[269:20] indicating adequate oxygenation. For labs imaging reviewed, you could say her chest x-ray shows cardiomegaly and pulmonary vascular congestion. Her labs show...
+
+[269:40] Her BNP level is 378. So we called Dr. Walker and case was discussed. He states the patient's cardiologist is Dr. Evans. So we put a call out to Dr. Evans.
+
+[270:00] Dr. Evans and discuss the case. Dr. Evans is recommending admission to ICU under his service. He is also requesting the patient receive LASIX 20.
+
+[270:20] milligrams IV. The total critical care time for her is going to be 55 minutes. Her clinical impression is shortness of breath. CHF, exacerbate.
+
+[270:40] and hypoxia. For the two midnight rule you can say concern for respiratory decline, need for continued monitoring and diuretics.
+
+[271:00] And give me a second. I'll put the labs in for her.
+
+[271:20] [silence]
+
+[271:40] [silence]
+
+[272:00] [silence]
+
+[272:20] [silence]
+
+[272:40] [silence]
+
+[273:00] [silence]
+
+[273:20] I'll have a yes for the labs part and two midnight rolls. So it was all bad.
+
+[273:40] Okay, so we said lab imaging review, chest x ratios, cardio magli, and pulmonary vascular congestion. Let's show the patients. BNP level is 378.
+
+[274:00] What else did you ask? Two-minute rule. Well, the two-minute rule we said, concern for respiratory decline, need for continued monitoring and diuretics.
+
+[274:20] [silence]
+
+[274:40] So how do I bring up the two midnight rule? So hang on. Let me go into that for a second. Because I want to...
+
+[275:00] say it should be there when you pull in critical care. So if you choose the critical care workflow, it pulls in a plan with a drop down.
+
+[275:20] And you say patient is admitted that option and that will pull in the two midnight rule. Do you have that smart list that says ED admit transfer discharge in the plan section? Well, I'm...
+
+[275:40] a
+
+[276:00] 95% on bypass. Yeah, it's right here. It's MDM, rather observation, could it okay? Yeah, so that won the CHF case, the shortness of breath, it's critical care, and then it pulls in a plan.
+
+[276:20] section at the very bottom and you'll see in that list you'll see patient is admitted it's a second option that pulls in the two midnight. For the clinical impression for the 75 year old female
+
+[276:40] know what was it? Shortness of breath, CHF exacerbation, hypoxia.
+
+[277:00] Okay, so what I see is obi a slash admit and then yeah, that one you can choose.
+
+[277:20] um, admission to hospital. Okay. But then if you keep scrolling down, there's a plan. And it says the pink box says like eating an admit transfer. So in that one, that drop down, choose the second one. Patient is admitted. It's admitted. Okay. Okay. Yeah. And that has a two midnight role in it.
+
+[277:40] [silence]
+
+[278:00] Is that after clinical impression?
+
+[278:20] [silence]
+
+[278:40] Could you repeat for our patient?
+
+[279:00] to when you did the reassessment. You said pulse locks 95% by pap but before that you said like a line before that.
+
+[279:20] Did you jot down anything that would help trigger my memory? It's like the reassessment where it says up for the critical care patient. Oh, so just the reassessment part? Yeah, it's like before. I think you said like two...
+
+[279:40] or something. I just have like a repeat pulse ox 95% on my path. Yep, and then we said indicating adequate oxygenation. Yeah, I have those lines, but is there something that you said before that? On reassessment? I don't think so. No, it starts.
+
+[280:00] with patients repeat, both socks is 95%. Okay. Was there a doctor's name you said like, have we discussed with? Yes, later on we did. After the reassessment, we had lab's imaging reviewed. Then we had call, place a doctor walker.
+
+[280:20] case discussed, called place cardiology, case discussed. So that was a little bit later. Thank you. It's the
+
+[280:40] exact, exact duration is that the, is that like one diagnosis? Yes. Oh, we're sweet put the nitroglycerin one inch paste to ensure test wall stopby under medications given. Yeah, like there should be like a true.
+
+[281:00] Institute of Wine? Okay, yeah. Thank you.
+
+[281:20] [silence]
+
+[281:40] thembn
+
+[282:00] Walker recommend that Dr. Davis called Dr. Evans or he just said the patient's cardiologist is Dr. Evans and then we place the call.
+
+[282:20] I'm sorry. We could, um, for a nitric glycerin one inch pace, I don't see where I'm supposed to, I might have maybe deleted where I was supposed to put that, but like where
+
+[282:40] exactly what that goes. So it would go after the external record, we said a line decision-made place patient on BiPAP. Then you should have treatment instituted with. Okay. Thank you.
+
+[283:00] [silence]
+
+[283:20] [silence]
+
+[283:40] What are the It's Doctor De...
+
+[284:00] [silence]
+
+[284:20] [silence]
+
+[284:40] and can you repeat case discussed for the SOB?
+
+[285:00] Okay, so we said call place to Dr. Walker, PCP and case discussed. He states patients cardiologist is Dr. Evans. Call was placed to Dr. Evans in case was discussed. Dr. Evans recommends admission to ICU.
+
+[285:20] his service and he requests the patient receive LASIX 20 milligrams IV.
+
+[285:40] For the shortness of breath, is there an external source? Is that like EMS? Yeah, EMS and the patient's daughter.
+
+[286:00] Okay, thank you. Wait, did you, did you, did you just adopt it? Usually like report that or is it just like, I don't know, so you, you get it from like the HPI information. Or if you're like there when you're listening. Okay, thank you.
+
+[286:20] [silence]
+
+[286:40] [silence]
+
+[287:00] [silence]
+
+[287:20] [silence]
+
+[287:40] Is there anything you have to say for wound care? Is that like in the product or no?
+
+[288:00] Right, we're gonna fill it out in the proctor together. In a few minutes. I want to give everyone a chance to catch up. Yeah, okay.
+
+[288:20] [silence]
+
+[288:40] I'm for physical exams for the dog bite.
+
+[289:00] Do we need to add more for the physical exam because all it's showing is like generalized appearance, vital signs and skin? Let me check. Nope, that's it. That's all they have. Everything's under the affected system skin, so it's all good.
+
+[289:20] [silence]
+
+[289:40] [silence]
+
+[290:00] [silence]
+
+[290:20] [silence]
+
+[290:40] [silence]
+
+[291:00] [silence]
+
+[291:20] At 230, I'm going to share my screen and have you all follow along. We'll do some procedures together for these low-wit cases.
+
+[291:40] step away, please feel free to do so. 230 come back because we're going to do the procedures.
+
+[292:00] [silence]
+
+[292:20] [silence]
+
+[292:40] [silence]
+
+[293:00] [silence]
+
+[293:20] [silence]
+
+[293:40] [silence]
+
+[294:00] [silence]
+
+[294:20] [silence]
+
+[294:40] [silence]
+
+[295:00] [silence]
+
+[295:20] [silence]
+
+[295:40] Do you have to say that a sutric kit was ordered for 35.
+
+[296:00] world? Or is it just like? No, it's just like order like. We want to say that as long as you put like the procedure in it's good. Right. Okay.
+
+[296:20] [silence]
+
+[296:40] [silence]
+
+[297:00] 10 URTA And I get etmek бл Can I get in on next to those four day?
+
+[297:20] Yeah, the panic attack case. Yes. It was 0.5 milligrams PO. Do we keep the rabies prophylaxis indicated in a view of circumstances?
+
+[297:40] the talk, right? Um, we, I'm pretty sure leave it for now. I think it's going to go in the prop dock. Uh, so it's in the text and then note you can just leave it for now until we go over it.
+
+[298:00] [silence]
+
+[298:20] [silence]
+
+[298:40] [silence]
+
+[299:00] Is there one more chart after this? Yes. We have one more.
+
+[299:20] [silence]
+
+[299:40] And the procedure's laceration repair. Yeah. We're going to do that together in a moment.
+
+[300:00] [silence]
+
+[300:20] [silence]
+
+[300:40] [silence]
+
+[301:00] Alright, I'm going to take this down so I can share Epic and we can do the procedure together.
+
+[301:20] start with the hand laceration. Make sure that you're in the correct note. I'm gonna stay in the same note, but make sure you go into the correct note for the procedure.
+
+[301:40] Alright, so for the hand laceration we are going to choose lacquer repair and you can click off verbal and patient for consent and then
+
+[302:00] and scroll down to universal protocol. This is pretty much default that you're gonna be choosing this on site unless a patient is unconscious, let's say. So procedure explained, questions answered to patient or proxy satisfaction. You're gonna say yes.
+
+[302:20] And then the last yes or no question immediately prior to procedure a timeout was called. They always do a timeout and less it's like emergent again. They're going to make sure that.
+
+[302:40] that they confirm the identity of the patient. So underneath patient identity confirm, click off verbally with patient and by arm band. And then we are gonna go to and
+
+[303:00] anesthesia. So under anesthesia you're going to choose local infiltration and they used lidocaine 1% with epi. We need to then go
+
+[303:20] to laceration details. So the location was the hand and it was on the palm our surface so left palm. The length is three centimeters. This is required type in three.
+
+[303:40] and you can scroll down a little bit after that to exploration. Under exploration there is a section where it says contaminated is the last thing. Contaminated yes or no it's a no.
+
+[304:00] you can collapse these by the way once you use them. So under treatment, they did irrigate this so they irrigated the wound with saline. So irrigation solution, you're gonna choose sterile saline. So you're gonna choose sterile saline.
+
+[304:20] And then you can go to skin repair next. They used sutures. The lower--dash zero was the size and they were nylon.
+
+[304:40] The suture technique was simple interrupted. And the number of sutures placed was 8. Type that into the box. Now if you scroll...
+
+[305:00] down to repair type. It's a simple, intermediate and complex. By the way, this is a question on your scribe final. So simple repair is a single layer closure. Intermediate is either single layer or multi-layered. There's contamination present.
+
+[305:20] This wound is not contaminated. And complex is usually multi-layered with some other involvement. Retention, sutures, debris, and things like that. So simple, single layer closure. That was this repair. Click off simple.
+
+[305:40] And lastly, you can say tolerated well, no immediate complications. So that's everything. We have location, length, repair method with details and repair type saying that it was...
+
+[306:00] is a simple repair. Those are the requirements for the code from a billing aspect so they can code for this. Could you open the treatments again? Treatment, yeah, sure. Treatment was just irrigation solution sterile saline. Oh, did we choose anything from
+
+[306:20] Prepreseger details or exploration? No, for pre-preseger exploration, just the last one where it says contaminated, we said no. No contamination. Oh, you put consent obtained verbally and then by patient.
+
+[306:40] Do you do wrist-discost? I don't think we selected wrist-discost. Hold on. No, we did it not for this one. Sometimes they do have you fill that out. Okay.
+
+[307:00] All right, hold on, checking the chat, see if... Mohammed, did you get that? Are you good? Okay. All right. Does anyone need anything? All right. Does anyone need anything?
+
+[307:20] for the lack repair before we move on to the next procedure. You said we say a laceration repair was performed C-proc doc for detail. Do we say that under procedures as well? It's going in the narrative section. Like think of it like it kind of in place of...
+
+[307:40] like treatment, patient treated with, something like that. It's going in that area. Okay, so switch to your dog bite.
+
+[308:00] Okay, so for the dog bite, I think it's under general. So again, go to the little arrow next to the general box and kind of in the middle.
+
+[308:20] You'll see a fib and then dog bites underneath it, you're gonna choose that. It might ask you about applying a macro at the very top where it says general and procedure, change it to say dog bite. Really it's like woo.
+
+[308:40] wound care but they call it pro in the pro in the product they call it dog light so it's sorry oh you said it's under general yep it's under general kind of in the middle of that list dog light thank you
+
+[309:00] Okay, so it's already selected verbal patient. It's selected universal protocol stuff. I'm just double checking. So you can leave all that.
+
+[309:20] that stuff that does apply that's true. And then you're gonna scroll down to procedure specific details. Okay, so the comment box, it has some information in there already. So we're gonna fill this out and we have a little bit to add. So won't thoroughly
+
+[309:40] We're going to say with normal saline and beta dine. And then you could say wound was explored just to make that a sentence there. No de...
+
+[310:00] structure involvement that's true. Add before the part about the rabies just add dry sterile dressing applied. rabies prophylaxis was not indicated that's because
+
+[310:20] because they knew the dog and they knew, you know, rabies and the organization was up to date. Tetanus' prophylaxis was not administered. His tetanus was up to date. And then you can leave tolerated well, no immediate complications. So it should look like this on the right.
+
+[310:40] There's a section on the note.
+
+[311:00] That's like similar questions. But, do you keep that in? Nope. You can delete all that. We captured it in the Prokdoch. So, we're good. I think the only thing you have to add for that one is...
+
+[311:20] the Keflex that was ordered. So we're gonna do the toe injury next because this patient is gonna get what they call buddy taping.
+
+[311:40] So open your toe injury, go to the procedures and we are going to
+
+[312:00] splint application. Splint application does have a macro so if you click on the arrow it's gonna apply some data for you.
+
+[312:20] Okay guys, good. It's okay to continue. Okay. All right. So we can leave verbal. We can leave patient. We can leave the yeses. Verbal with patient by arm band.
+
+[312:40] So all the stuff in the beginning is good. We're going to procedure details. So under procedure details, we have to add in the location which is the toe. Which toe is it?
+
+[313:00] We said it was the right fifth toe. Which toe is that on this list? Little, little. So right little toe. And then
+
+[313:20] Right underneath that, there's a spot that says strapping. We are gonna say yes, and then I want you to go to little page to open up the comment. In here, we're gonna say toes buddy taped by PAC. And then hit the...
+
+[313:40] green check and it's gonna drop that wording in here. So it's on the right side if you need it on my screen. Toes buddy taped by PAC. Anytime they do.
+
+[314:00] casting, strapping, A-SRAP, immobilization, sorry, immobilization, anything like that, they have to do a post-procedure check. They have to make sure the patient has good sensation, capillary refill, like everything is...
+
+[314:20] normal for that. So under post procedure details we're going to click off distal neurologic exam is normal, distal perfusion say distal pulses strong bris capillary refill and you could leave tolerated well no immediate complications.
+
+[314:40] And that's it. I mean, if you need to see...
+
+[315:00] I see anything only this up for a minute. And Sophia asked about the x-ray for this patient. His x-ray was negative for fracture and dislocation.
+
+[315:20] [silence]
+
+[315:40] [silence]
+
+[316:00] Yep, X-ray was negative for fracture and dislocation.
+
+[316:20] All right, so let me give you some updates because these patients are going to go home. So for the laceration, you can say on his reassessment that he's in no distress.
+
+[316:40] Antibiotics considered however there was no delay in presentation and no signs of infection. It's a left-hand laceration and he's being discharged.
+
+[317:00] He was instructed to return to the ED in two days for a wound check. For the dog bite, you could say his reassessment is
+
+[317:20] that he's in no distress. He's stable for discharge. He's given a prescription for Keflex and he's going to follow up with Dr. Bell, his PCP, and two days. Lastly, the toe injury.
+
+[317:40] I would add after the percuset that he got a dose of percuset, add a statement that the toes were buddy taped by the PACC prock doc for details and then for his reassess
+
+[318:00] You could say he reports improvement in pain. He's stable for discharge at this time. And he was provided with a referral to podiatry for follow-up. Percussette was considered, however, the patient declined.
+
+[318:20] the prescription and was instructed to use over the counter-motorine as needed for pain. It's a right token Tusion and he is going to follow up with Dr. Hellner.
+
+[318:40] H-E-L-L-N-E-R, podiatry on call in two days. In your repeat, the reassessment for...
+
+[319:00] for the hemorrhage. No distress, patients in no distress. Was he given any antibiotics?
+
+[319:20] No, we said, do you mean for prescription management? Yeah. Or like, okay, for prescription management, we said antibiotics considered. However, there was no delay in presentation and no signs of infection.
+
+[319:40] [silence]
+
+[320:00] And was there a clinical impression? Yes, that was for the handlack, right? Yeah. Left hand laceration.
+
+[320:20] And then for the dog white was there a clinical impression? White to left mid thigh.
+
+[320:40] shortly to deliver the
+
+[321:00] before the reassessing there was a something else that comes. Nope, that was it before the reassessment. Thank you.
+
+[321:20] So if we get the clinical impression for the last one, the tool one, the clinical impression for that one, it was right token fusion.
+
+[321:40] Or the hand laceration was instructed to return to the ED in two days for the wound check? Yes. Okay. For the toe was the following.
+
+[322:00] All arranged by through the patient or the doctor. Patient.
+
+[322:20] [silence]
+
+[322:40] [silence]
+
+[323:00] [silence]
+
+[323:20] [silence]
+
+[323:40] [silence]
+
+[324:00] [silence]
+
+[324:20] [silence]
+
+[324:40] And who did we describe for? I never mind. For the dog white one should be delete everything is about rabies. That's fine. We put it all in rock dog.
+
+[325:00] sounds. After the reassessment, you said referral to a podiatry for...
+
+[325:20] follow up? Is there something else? That line? Hang on, let me check. Provided with referral to the dietary for follow up. Nope. After that before clinical impression was just the prescription management. Thank you.
+
+[325:40] [silence]
+
+[326:00] [silence]
+
+[326:20] [silence]
+
+[326:40] [silence]
+
+[327:00] [silence]
+
+[327:20] All right. So I want to tell you about a patient that's coming in in cardiac arrest.
+
+[327:40] So this patient is an 84 year old female. She has a history of dementia.
+
+[328:00] and hypertension, and she was brought in by BLS in cardiac arrest. Per paramedics, the patient was unresponsive for approximately five to 10 minutes.
+
+[328:20] at home before EMS was notified. Per family, the patient was complaining of feeling fatigued and tired this morning. This afternoon she started vomiting.
+
+[328:40] and family went to call 911. When family checked on her thereafter, she was unresponsive and not breathing.
+
+[329:00] En route to the ED, CPR was administered. No medications were given aside from oxygen, as the patient was with BLS crew.
+
+[329:20] The patient is asystolic on arrival and required and received my immediate attention. As of right now her PCP is on
+
+[329:40] known. So you can just leave it as no primary care provider on file. Her history is unobtainable except per via last year's
+
+[330:00] hypertension, hypertension. On physical exam she arrived in the ED, pulseless, an apnic receiving assisted ventilation and
+
+[330:20] chest compressions under my supervision. Her skin is cold and modeled MOTT LED. Her
+
+[330:40] You might have to add that in. He, he, and T is normal, cephalic, a traumatic. Her pupils are fixed and dilated. Positive M.
+
+[331:00] her neck. There's no rigidity. No adenopathy. Her lungs.
+
+[331:20] No spontaneous respirations. Her heart, no audible heart sounds. Abdominus soft, non-distended.
+
+[331:40] No palpable masses. Her extremities, there's no edema and no deformity. Her GCS is three.
+
+[332:00] Under EDC or MDM, I want you to add monitor on arrival and say, assistily.
+
+[332:20] So she's critical care. Choose your critical care workflow. And we do have external sources. We have two external sources that gave information. For the external record that was reviewed, it was the EMS run.
+
+[332:40] sheet, adding that EMS was called due to vomiting and weakness. The patient then became unresponsive when BLS arrived on the scene.
+
+[333:00] The patient had no pulse and was not breathing. CPR was initiated at that time, and the patient was transported to the ED. BLS gave CPR for
+
+[333:20] approximately 15 minutes and root. And then after the external record, please say the patient is pulsed in an appnic receiving CPR.
+
+[333:40] with assisted ventilation, via bag valve mask. You can abbreviate that as BVM. And chest compressions under my supervision.
+
+[334:00] There is no spontaneous movements or respirations noted. And I.O. was placed in the right lower extremity. See ProkTalk for details.
+
+[334:20] The patient was given oxygen and multiple rounds of ACLS protocol. When you open the template...
+
+[334:40] For cardiac arrest, right above clinical impression, there's a line it's called the pronouncement time. It starts with despite all therapy. So you wanna keep that line in because we're gonna add that next into the critical care smart phrase.
+
+[335:00] So the pronouncement time was 1500 today's date Total critical care times 45 minutes Clinical impressions cardio pulmonary arrest and then for the plan you're gonna free text the
+
+[335:20] plan. Say the patient's family, personal physician, and medical examiner were notified. And it's Dr. Davis for this one.
+
+[335:40] We will do the IO together or maybe I'll even just put it in the chat and you guys can put that procedure in and let me know if you have questions. All right. Any questions about this case?
+
+[336:00] The eye I was placed in the bright lower extremity, right? Yes. When you go into the cardiac arrest template, keep the first line that says all history is obtained from EMI.
+
+[336:20] family members and others. That's pretty much always the case. So keep the first line in and then the last line in the HPI is the required and receive my immediate attention. So delete everything between that and just free text what we talked about.
+
+[336:40] What time is critical care initiated? Um, we don't have a time, we don't have a start time. She was critical from the beginning, so. Oh, okay, thanks.
+
+[337:00] the . Well, it was 1500 for then. 1500 is the pronouncement time. Okay, thank you. .
+
+[337:20] This meeting is being recorded. I'm just recording the rest of the dictation because someone has to leave.
+
+[337:40] [silence]
+
+[338:00] So do you repeat the part where you said patient then became unresponsive when BLS arrived
+
+[338:20] like when placed in the lower right lower extremity. I think. Yeah. Okay, so that was the external record. So the part where it says when BLS arrived on the scene, the patient.
+
+[338:40] had no pulse and was not breathing. And then we said CPR was initiated at that time. And the patient was transported to the ED. BLS gave CPR or administered CPR for approximately...
+
+[339:00] approximately 15 minutes and room.
+
+[339:20] I might have missed this but for the dog bite for the part when it says read.
+
+[339:40] these prophylaxis indicated, it was already in there. Should I keep that in there or move it back? You could take it out. Okay.
+
+[340:00] [silence]
+
+[340:20] [silence]
+
+[340:40] [silence]
+
+[341:00] [silence]
+
+[341:20] [silence]
+
+[341:40] [silence]
+
+[342:00] [silence]
+
+[342:20] [silence]
+
+[342:40] [silence]
+
+[343:00] [silence]
+
+[343:20] [silence]
+
+[343:40] [silence]
+
+[344:00] [silence]
+
+[344:20] [silence]
+
+[344:40] [silence]
+
+[345:00] [silence]
+
+[345:20] [silence]
+
+[345:40] [silence]
+
+[346:00] [silence]
+
+[346:20] [silence]
+
+[346:40] There won't be a heart score, right? Because we don't have the history and stuff. Right. Yeah. No heart score for that one.
+
+[347:00] [silence]
+
+[347:20] [silence]
+
+[347:40] [silence]
+
+[348:00] is the option for like regular MDN and the other ones critical care. If that's supposed be on this template. It's not. So you could pull it in.
+
+[348:20] from another template. Just don't delete the pronouncement statement. Okay.
+
+[348:40] I'm going to take a quick call. I'm going to put myself on mute.
+
+[349:00] [silence]
+
+[349:20] [silence]
+
+[349:40] [silence]
+
+[350:00] [silence]
+
+[350:20] [silence]
+
+[350:40] [silence]
+
+[351:00] [silence]
+
+[351:20] [silence]
+
+[351:40] [silence]
+
+[352:00] Okay, I'm back. Let me know if you have any questions. So for the critical care case, do you just put in the critical care smart block or do you just fill it out? What's right there? I would put in the critical care case.
+
+[352:20] the smart block in because I think that one just has like external records and stuff. Yeah, you got to put the smart block in. Okay. I forgot but for APP alone is there two?
+
+[352:40] attestations are three. There's scribes, smart phrase, ed, attestation, attestation for scribes, and then a pp alone. Okay, and then for the one that's attestation for scribes, that's where we put
+
+[353:00] PhD still right? Yes. Okay thank you. I'm just FYI you guys should have everything at this point.
+
+[353:20] I'm pretty sure I give you everything for all the patients. So I'm going to give you guys like, you know, 20, a good 20, 25 minutes to work on them. I'm here if you have any questions. Make sure you, when you are done, then you've proofread
+
+[353:40] you send over all seven notes and shorthand.
+
+[354:00] If you don't mind, repeat for the first patient. I think I'm missing the x-ray report. Just x-ray? The panic attack case? Just move. Okay. Just x-ray for...
+
+[354:20] him was no acute infiltrate, no pneumothorax, no acute disease. And, uh, what was the clinical impression? Um, it was adjustment disorder with anxiety.
+
+[354:40] [silence]
+
+[355:00] [silence]
+
+[355:20] All right, what was the external source? It was just BLS and family or it was family. Yeah, I would say family too.
+
+[355:40] [silence]
+
+[356:00] [silence]
+
+[356:20] How do we put the critical care doffries at the end?
+
+[356:40] Go into your smart text box and type in EDM-DM critical care one word. Those faces. And then you could just copy the text there.
+
+[357:00] Just be careful when you paste it that you don't paste over the pronouncement time. That pronouncement statement. For the dog bite, who is it the follow up with?
+
+[357:20] The follow up for the dog bite was hang on for me to go to that. Follow up was with this with Dr. Bell PCP.
+
+[357:40] in two days. I was trying to pull up for the dog by the procedure. What was the name of the like for last-ration I saw it and I now have to get there but for bite dog bite it was
+
+[358:00] going up. Okay. There's a general one. Do you see the general? Yeah. And then there's the little arrow next to it. Yeah. In that list, it's kind of like in the middle. You'll see like a fib and it's right underneath a fib.
+
+[358:20] I don't know. The other one that you talk about EDM, DM, critical, okay, I can't see. I can't find it. Are you in the smart text box? You know how I like lonely? Yes.
+
+[358:40] EDM. Don't put a dot. Just type in EDM, DM critical care. No spaces. Beginning of the procedures, do we start with patient monitored arrival at ASIS totally?
+
+[359:00] Yes, it's it think of like that as in place of like an EKG or an X or it's going in your like diagnostic section before I was going about the procedures. Yeah. What's up, senior? Thank you. You can't find it. I found it. Thank you. Oh, you did. Okay.
+
+[359:20] Does the critical care go after the clinical impression or before? Before. And does the patient's family and personal physician and the medical examiner were officially notified go before or after the clinical impression? After in the plan section.
+
+[359:40] I just realized I forgot to give you guys the IEL procedure. I will. We can. What did you say? We can delete this position of care paragraph. Words asking the mission. Yeah, take it out.
+
+[360:00] This is it. Okay, thank you. And they HPI for the last patient. You said that the patient was complaining of feeling fatigue and like that, like a per family, like that part of it. Forget what.
+
+[360:20] for the patient. First family patient was complaining of feeling fatigued and tired this morning. All right. I put the I.O. procedure in the chat. I.O. you have to search for.
+
+[360:40] So it's not one of the blocks that you click on. You got to go in the search box. And if you type in IO, it's going to come up. IO line insertion.
+
+[361:00] [silence]
+
+[361:20] [silence]
+
+[361:40] [silence]
+
+[362:00] [silence]
+
+[362:20] I'm not thinking for post procedure, right? No, it's pretty limited for that one.
+
+[362:40] When you said that, BLS provided CPR for approximately 15 minutes. Is that part of the external record or is that like in the current procedure?
+
+[363:00] part of the external record.
+
+[363:20] [silence]
+
+[363:40] Is there a prock dog for pronouncing someone dead? I don't think so. I think it's just a statement that we put in the critical care section.
+
+[364:00] [silence]
+
+[364:20] [silence]
+
+[364:40] And who are we striving for? Dr. Davis. Oh, Dr. No.
+
+[365:00] fiber the trailer is as as as as as as as as as as as as as
+
+[365:20] I have a question. I never got my feedback from last night and then the night prior when I got my feedback, I wasn't able to open the feedback.
+
+[365:40] I got so I couldn't actually see it. Yes, I'm aware of today. Dauphin is going to be looking at your charts in a little bit and sending you feedback Let me check Sometimes they make adjustments to the Dauphin
+
+[366:00] document and then when they send it back, you can't see it. I'm going to check the drive and see if I can pull that. Okay, thank you. Sorry about that. Ah, Lovers
+
+[366:20] [silence]
+
+[366:40] [silence]
+
+[367:00] [silence]
+
+[367:20] [silence]
+
+[367:40] [silence]
+
+[368:00] I'm sorry. I'm sorry. I'm sorry. Are you using the procedures or I mean the procedure to pronounce your dead? No, just statement in the critical care smart freeze section.
+
+[368:20] [silence]
+
+[368:40] [silence]
+
+[369:00] [silence]
+
+[369:20] [silence]
+
+[369:40] [silence]
+
+[370:00] showed the last to with the dog bite, was our case discussed with?
+
+[370:20] And the patient was instructed to follow up Dr. Bell in two days or yes. Okay. Did you hear what you said before?
+
+[370:40] the total critical time care for the last patient? About oxygen? Yeah. That last thing was patient was given oxygen and multiple rounds of ACLS protocol. Okay, thank you.
+
+[371:00] [silence]
+
+[371:20] [silence]
+
+[371:40] [silence]
+
+[372:00] [silence]
+
+[372:20] [silence]
+
+[372:40] [silence]
+
+[373:00] [silence]
+
+[373:20] [silence]
+
+[373:40] [silence]
+
+[374:00] [silence]
+
+[374:20] [silence]
+
+[374:40] [silence]
+
+[375:00] I'll just have the question, the regular status, was that just like, does that change anything .
+
+[375:20] or just keeps it as it is. If I, if I for all the other, the three charts before the CPR, the Coriq caress one, it didn't have the option.
+
+[375:40] So if I don't add it in, it's not missing anything right? Or is there something that's... Um, I mean, it's probably going to be missing the disposition statement. All right. Yeah. Um, let me look at one of them because they did pull in like the MDM.
+
+[376:00] So I think it's mostly the disposition that would be missing. Okay. Management stuff like that. Otherwise, it's just external records and then what I dictated. Okay. Thank you.
+
+[376:20] Are they like the critical care part right under when we said monitor on arrival? Is that above procedures or below? It would be below procedure. And then how did you add that in again? Go to your smart text box.
+
+[376:40] Where we should have to do the template and type in ED, MDM, critical care. No spaces. And then it should come up and you can like copy it and then paste it in.
+
+[377:00] [silence]
+
+[377:20] [silence]
+
+[377:40] [silence]
+
+[378:00] [silence]
+
+[378:20] [silence]
+
+[378:40] [silence]
+
+[379:00] [silence]
+
+[379:20] [silence]
+
+[379:40] [silence]
+
+[380:00] [silence]
+
+[380:20] [silence]
+
+[380:40] for the X-ray for the toe injury do we need a lobster review
+
+[381:00] [silence]
+
+[381:20] [silence]
+
+[381:40] I know a lot of you are still working so I'm going to give you some more time here.
+
+[382:00] Those of you that sent your notes if you just want to step away for like five minutes and then come back, we'll talk.
+
+[382:20] [silence]
+
+[382:40] [silence]
+
+[383:00] [silence]
+
+[383:20] [silence]
+
+[383:40] [silence]
+
+[384:00] [silence]
+
+[384:20] [silence]
+
+[384:40] [silence]
+
+[385:00] [silence]
+
+[385:20] [silence]
+
+[385:40] [silence]
+
+[386:00] [silence]
+
+[386:20] [silence]
+
+[386:40] [silence]
+
+[387:00] [silence]
+
+[387:20] [silence]
+
+[387:40] [silence]
+
+[388:00] [silence]
+
+[388:20] [silence]
+
+[388:40] The
+
+[389:00] the parts on the cardiac arrest template that say like ACS management where instituted? No you want to take that stuff out you're basically keeping just the first sentence and the last sentence of the HBI.
+
+[389:20] Okay. Chef at PCP? It was unknown. So if it says per prior, if it says no, nothing on file, you can leave that.
+
+[389:40] [silence]
+
+[390:00] [silence]
+
+[390:20] [silence]
+
+[390:40] [silence]
+
+[391:00] for total critical care time.
+
+[391:20] I don't see it here so is there like a certain sentence or like dot phrase to bring it in? It should be in the smart phrase but it's total critical care time 45 minutes exclusive of separately reportable person.
+
+[391:40] teachers. So I'm going to give everyone 10 more minutes and unless we had a separate conversation about you know giving you later time and you could just send them in even if you're not done in 10 minutes.
+
+[392:00] The clinical impression was cardiac pulmonary breast? Cardio pulmonary. Oh, cardiopulmonary, okay. Yeah.
+
+[392:20] [silence]
+
+[392:40] [silence]
+
+[393:00] At the plan, are you just delete the drop down and replace it with that one line? Yes. Okay. It was family, physician, and medical examiner? Yes. Okay.
+
+[393:20] [silence]
+
+[393:40] The recording has stopped.
+
+[394:00] [silence]
+
+[394:20] [silence]
+
+[394:40] [silence]
+
+[395:00] [silence]
+
+[395:20] [silence]
+
+[395:40] [silence]
+
+[396:00] For the toe injury, the patient was told to use... was it metrin instead? Percussive considered? Say it again. For the toe injury patient and the pain management.
+
+[396:20] We said Percussette was considered, they declined and they were told to use something else or motrin, yeah, lower the counter-motrin. Okay. Five more minutes.
+
+[396:40] [silence]
+
+[397:00] [silence]
+
+[397:20] [silence]
+
+[397:40] [silence]
+
+[398:00] I don't know, I had a heartscarf that wasn't there.
+
+[398:20] Is that for the CHF case? Yeah. You have to go to your tab list where the triage and the workup tabs are. Click on those and you should see the scoring tool tab.
+
+[398:40] I'll open up. Oh, okay. Great.
+
+[399:00] [silence]
+
+[399:20] [silence]
+
+[399:40] [silence]
+
+[400:00] [silence]
+
+[400:20] [silence]
+
+[400:40] [silence]
+
+[401:00] [silence]
+
+[401:20] Okay, I am going to sign off. I should have your note coming over in the next few minutes. And I will see you all on.
+
+[401:40] Monday. I have nothing to say. I don't think I took the place this morning. I don't think I remember doing that. Yes. I have an email that I was going to send to you about that. So I will send the link for that in the email.
+
+[402:00] you can take that right after class. All right, thank you. Okay. All right, I will see you on Monday. Have a good day. Thank you. Bye.
+
+[402:20] [silence]
+
+[402:40] [silence]
+
+[403:00] [silence]
+
+[403:20] [silence]
+
+[403:40] [silence]
+
+[404:00] [silence]
+
+[404:20] [silence]
+
+[404:40] [silence]
+
+[405:00] [silence]
+
+[405:20] [silence]
+
+[405:40] [silence]
+
+[406:00] [silence]
+
+[406:20] [silence]
+
+[406:40] [silence]
+
+[407:00] [silence]
+
+[407:20] [silence]
+
+[407:40] [silence]
+
+[408:00] [silence]
+
+[408:20] [silence]
+
+[408:40] [silence]

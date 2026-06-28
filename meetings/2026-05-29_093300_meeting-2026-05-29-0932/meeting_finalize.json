@@ -1,0 +1,49 @@
+{
+  "finalized": [
+    {
+      "time": "2026-05-29T16:50:10",
+      "most_important": "Patient safety is a top concern in this situation.",
+      "topic_groups": [
+        {
+          "name": "Cardiac Arrest Management",
+          "highlight": "Critical care time for cardiac arrest patient was 45 minutes, exclusive of separately reportable person.",
+          "details": [
+            "ACLS protocol was administered to revive the patient",
+            "Family physician, medical examiner, and a dog bite were mentioned in the plan section",
+            "Percussive therapy was considered for pain management"
+          ]
+        },
+        {
+          "name": "Toenail Injury Management",
+          "highlight": "Patient was told to use metrin instead of percussive therapy or motrin.",
+          "details": [
+            "Percussive device was declined by the patient",
+            "Metrin (metamizole) is an alternative pain management option"
+          ]
+        },
+        {
+          "name": "Critical Care Time and Scoring",
+          "highlight": "Total critical care time should be clearly stated in the HPI.",
+          "details": [
+            "Accurate record-keeping is crucial for accurate documentation",
+            "Critical care time should include any separately reportable person",
+            "ACTION ITEMS & NEXT STEPS",
+            "* Dauphin will review charts and provide feedback to participants on Monday",
+            "* Participants can request extra time to complete notes if needed",
+            "* The conversation will continue on Day 3",
+            "UNANSWERED QUESTIONS",
+            "None noted.",
+            "MOST_IMPORTANT: Patient safety is a top concern in this situation."
+          ]
+        }
+      ],
+      "report": "MEETING OVERVIEW\nThe recording session was conducted to review patient data management and provide feedback on participant performance. The discussion focused on accurate record-keeping, critical care time, and patient safety.\n\nTOPIC GROUPS\n\nGROUP: Cardiac Arrest Management\nHIGHLIGHT: Critical care time for cardiac arrest patient was 45 minutes, exclusive of separately reportable person.\n- ACLS protocol was administered to revive the patient\n- Family physician, medical examiner, and a dog bite were mentioned in the plan section\n- Percussive therapy was considered for pain management\n\nGROUP: Toenail Injury Management\nHIGHLIGHT: Patient was told to use metrin instead of percussive therapy or motrin.\n- Percussive device was declined by the patient\n- Metrin (metamizole) is an alternative pain management option\n\nGROUP: Critical Care Time and Scoring\nHIGHLIGHT: Total critical care time should be clearly stated in the HPI.\n- Accurate record-keeping is crucial for accurate documentation\n- Critical care time should include any separately reportable person\n\nACTION ITEMS & NEXT STEPS\n* Dauphin will review charts and provide feedback to participants on Monday\n* Participants can request extra time to complete notes if needed\n* The conversation will continue on Day 3\n\nUNANSWERED QUESTIONS\nNone noted.\n\nMOST_IMPORTANT: Patient safety is a top concern in this situation."
+    },
+    {
+      "time": "2026-05-29T16:57:06",
+      "most_important": "Accurate critical care time is crucial for accurate documentation, patient safety, and procedural statements.",
+      "topic_groups": [],
+      "report": "**Meeting Overview**\n\nThis session was a recording of our team's discussion on patient data management, critical care time, and procedural statements. The conversation revolved around accurate documentation, patient safety, and technical aspects of record-keeping.\n\n**Topic Groups**\n\n**Critical Care Time**\nHIGHLIGHT: Accurate critical care time is crucial for accurate documentation.\n- The total critical care time for the cardiac arrest case was accurately recorded as approximately 45 minutes.\n- Critical care time should be clearly stated in the HPI.\n- Total critical care time should include any separately reportable person.\n\n**Procedural Statements**\nHIGHLIGHT: Procedure to pronounce death is just a statement in the critical care section.\n- The procedure to pronounce death is only for administrative purposes and does not require clinical documentation.\n- It is essential to understand that procedural statements are separate from clinical notes.\n\n**Patient Safety**\nHIGHLIGHT: Patient safety is a top concern in this situation.\n- The conversation was recorded due to a concern about patient safety.\n- A cardiac arrest occurred, and CPR was administered.\n- Patient had a cardiac pulmonary condition, but no cardiopulmonary breathing.\n\n**HIPAA/PHI**\nNo discussion or action items were noted for HIPAA/PHI during the session.\n\n**Benefits**\nNo discussion or action items were noted for benefits during the session.\n\n**IT Systems**\nNo discussion or action items were noted for IT systems during the session.\n\n**Onboarding Logistics**\nNo discussion or action items were noted for onboarding logistics during the session.\n\n**Action Items & Next Steps**\n\n* Dauphin will review charts and provide feedback to participants on Monday.\n* Participants can request extra time to complete notes if needed.\n* The recording will be sent over to Dauphin's email address with a link to this report.\n\n**Unanswered Questions**\nNone noted.\n\n**MOST IMPORTANT**: Accurate critical care time is crucial for accurate documentation, patient safety, and procedural statements."
+    }
+  ]
+}
