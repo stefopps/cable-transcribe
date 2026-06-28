@@ -9,16 +9,23 @@ Local speech-to-text tools for Windows. No cloud required for transcription.
 
 ---
 
-## Install
+## Quick Start (new machine)
 
-```bash
+```powershell
+# 1. Clone the repo
+git clone https://github.com/stefopps/cable-transcribe.git
+cd cable-transcribe
+
+# 2. Install Python dependencies
 pip install -r requirements.txt
-```
 
-For the meeting app (Llama summaries), also install Ollama and pull a model:
-
-```bash
+# 3. Install Ollama and pull a model (for meeting summaries)
+winget install Ollama.Ollama
 ollama pull llama3.2:3b
+
+# 4. Done — verify
+python --version
+python list_devices.py
 ```
 
 Tkinter is included with Python on Windows.
